@@ -1,0 +1,75 @@
+{
+    "celulares": [
+      {
+        "modelo": "iPhone SE",
+        "precio": 399.00,
+        "marca": "Apple",
+        "almacenamiento": 64,
+        "color": "Negro"
+      },
+      {
+        "modelo": "Samsung Galaxy A32",
+        "precio": 279.00,
+        "marca": "Samsung",
+        "almacenamiento": 128,
+        "color": "Azul"
+      },
+      {
+        "modelo": "Xiaomi Redmi 9",
+        "precio": 149.00,
+        "marca": "Xiaomi",
+        "almacenamiento": 64,
+        "color": "Blanco"
+      },
+      {
+        "modelo": "Motorola Moto G Power",
+        "precio": 199.00,
+        "marca": "Motorola",
+        "almacenamiento": 32,
+        "color": "Verde"
+      },
+      {
+        "modelo": "Nokia 5.4",
+        "precio": 169.00,
+        "marca": "Nokia",
+        "almacenamiento": 64,
+        "color": "Gris"
+      },
+      {
+        "modelo": "Google Pixel 4a",
+        "precio": 349.00,
+        "marca": "Google",
+        "almacenamiento": 128,
+        "color": "Negro"
+      },
+      {
+        "modelo": "OnePlus Nord N10",
+        "precio": 279.00,
+        "marca": "OnePlus",
+        "almacenamiento": 64,
+        "color": "Azul"
+      },
+      {
+        "modelo": "Sony Xperia L4",
+        "precio": 199.00,
+        "marca": "Sony",
+        "almacenamiento": 32,
+        "color": "Blanco"
+      },
+      {
+        "modelo": "Huawei P40 Lite",
+        "precio": 299.00,
+        "marca": "Huawei",
+        "almacenamiento": 128,
+        "color": "Negro"
+      },
+      {
+        "modelo": "LG K62",
+        "precio": 229.00,
+        "marca": "LG",
+        "almacenamiento": 64,
+        "color": "Gris"
+      }
+    ]
+  }
+  

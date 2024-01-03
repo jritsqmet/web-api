@@ -1,0 +1,104 @@
+{
+    "lugares_de_arriendo": [
+      {
+        "nombre": "Apartamento Moderno",
+        "tipo_propiedad": "Apartamento",
+        "ubicacion": "Centro de la Ciudad",
+        "precio": 1200.00,
+        "habitaciones": 2,
+        "baños": 1,
+        "metros_cuadrados": 80
+      },
+      {
+        "nombre": "Casa Familiar",
+        "tipo_propiedad": "Casa",
+        "ubicacion": "Barrio Residencial",
+        "precio": 2000.00,
+        "habitaciones": 4,
+        "baños": 2,
+        "metros_cuadrados": 150
+      },
+      {
+        "nombre": "Estudio Urbano",
+        "tipo_propiedad": "Estudio",
+        "ubicacion": "Zona Artística",
+        "precio": 900.00,
+        "habitaciones": 1,
+        "baños": 1,
+        "metros_cuadrados": 50
+      },
+      {
+        "nombre": "Piso Ejecutivo",
+        "tipo_propiedad": "Piso",
+        "ubicacion": "Distrito Financiero",
+        "precio": 3000.00,
+        "habitaciones": 3,
+        "baños": 2,
+        "metros_cuadrados": 120
+      },
+      {
+        "nombre": "Cabaña junto al Lago",
+        "tipo_propiedad": "Cabaña",
+        "ubicacion": "Montañas",
+        "precio": 1500.00,
+        "habitaciones": 2,
+        "baños": 1,
+        "metros_cuadrados": 100
+      },
+      {
+        "nombre": "Oficina Ejecutiva",
+        "tipo_propiedad": "Oficina",
+        "ubicacion": "Centro de Negocios",
+        "precio": 1800.00,
+        "habitaciones": 0,
+        "baños": 1,
+        "metros_cuadrados": 70
+      },
+      {
+        "nombre": "Loft con Vista Panorámica",
+        "tipo_propiedad": "Loft",
+        "ubicacion": "Centro Urbano",
+        "precio": 1600.00,
+        "habitaciones": 1,
+        "baños": 1,
+        "metros_cuadrados": 90
+      },
+      {
+        "nombre": "Chalet en el Bosque",
+        "tipo_propiedad": "Chalet",
+        "ubicacion": "Bosque Natural",
+        "precio": 2200.00,
+        "habitaciones": 3,
+        "baños": 2,
+        "metros_cuadrados": 130
+      },
+      {
+        "nombre": "Suite Ejecutiva",
+        "tipo_propiedad": "Suite",
+        "ubicacion": "Hotel de Lujo",
+        "precio": 2500.00,
+        "habitaciones": 2,
+        "baños": 1,
+        "metros_cuadrados": 110
+      },
+      {
+        "nombre": "Local Comercial",
+        "tipo_propiedad": "Local",
+        "ubicacion": "Zona Comercial",
+        "precio": 3500.00,
+        "habitaciones": 0,
+        "baños": 2,
+        "metros_cuadrados": 200
+      },
+      {
+        "nombre": "Penthouse Exclusivo",
+        "tipo_propiedad": "Penthouse",
+        "ubicacion": "Paseo Marítimo",
+        "precio": 5000.00,
+        "habitaciones": 4,
+        "baños": 3,
+        "metros_cuadrados": 300
+      }
+    ]
+  }
+  

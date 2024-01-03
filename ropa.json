@@ -1,0 +1,65 @@
+{
+    "ropa": [
+      {
+        "articulo": "Camiseta",
+        "precio": 19.99,
+        "categoria": "Superior",
+        "color": "Blanco"
+      },
+      {
+        "articulo": "Pantalones Vaqueros",
+        "precio": 39.99,
+        "categoria": "Inferior",
+        "color": "Azul Oscuro"
+      },
+      {
+        "articulo": "Zapatos Deportivos",
+        "precio": 59.99,
+        "categoria": "Calzado",
+        "color": "Negro"
+      },
+      {
+        "articulo": "Abrigo de Invierno",
+        "precio": 89.99,
+        "categoria": "Exterior",
+        "color": "Gris"
+      },
+      {
+        "articulo": "Vestido Formal",
+        "precio": 79.99,
+        "categoria": "Vestidos",
+        "color": "Rojo"
+      },
+      {
+        "articulo": "Suéter",
+        "precio": 29.99,
+        "categoria": "Superior",
+        "color": "Verde"
+      },
+      {
+        "articulo": "Falda",
+        "precio": 34.99,
+        "categoria": "Inferior",
+        "color": "Negro"
+      },
+      {
+        "articulo": "Botas de Cuero",
+        "precio": 69.99,
+        "categoria": "Calzado",
+        "color": "Marrón"
+      },
+      {
+        "articulo": "Chaqueta de Cuero",
+        "precio": 99.99,
+        "categoria": "Exterior",
+        "color": "Negro"
+      },
+      {
+        "articulo": "Blusa Casual",
+        "precio": 24.99,
+        "categoria": "Superior",
+        "color": "Azul Claro"
+      }
+    ]
+  }
+  

@@ -1,0 +1,96 @@
+{
+    "bicicletas": [
+      {
+        "modelo": "Mountain Pro",
+        "tipo": "Mountain Bike",
+        "precio": 899.99,
+        "marca": "Trek",
+        "color": "Verde",
+        "material_cuadro": "Aluminio",
+        "velocidades": 21
+      },
+      {
+        "modelo": "City Cruiser",
+        "tipo": "Híbrida",
+        "precio": 549.99,
+        "marca": "Giant",
+        "color": "Negro",
+        "material_cuadro": "Acero",
+        "velocidades": 7
+      },
+      {
+        "modelo": "Road Speedster",
+        "tipo": "Carretera",
+        "precio": 1299.99,
+        "marca": "Specialized",
+        "color": "Rojo",
+        "material_cuadro": "Carbono",
+        "velocidades": 18
+      },
+      {
+        "modelo": "Commuter Classic",
+        "tipo": "Ciudad",
+        "precio": 699.99,
+        "marca": "Raleigh",
+        "color": "Azul",
+        "material_cuadro": "Aluminio",
+        "velocidades": 8
+      },
+      {
+        "modelo": "BMX Extreme",
+        "tipo": "BMX",
+        "precio": 299.99,
+        "marca": "Haro",
+        "color": "Amarillo",
+        "material_cuadro": "Acero",
+        "velocidades": 1
+      },
+      {
+        "modelo": "Electric Commuter",
+        "tipo": "Eléctrica",
+        "precio": 1499.99,
+        "marca": "Ancheer",
+        "color": "Blanco",
+        "material_cuadro": "Aluminio",
+        "velocidades": 10,
+        "motor": "Eléctrico de 250W"
+      },
+      {
+        "modelo": "Folding Traveler",
+        "tipo": "Plegable",
+        "precio": 449.99,
+        "marca": "Dahon",
+        "color": "Plateado",
+        "material_cuadro": "Aluminio",
+        "velocidades": 6
+      },
+      {
+        "modelo": "Kids Explorer",
+        "tipo": "Infantil",
+        "precio": 199.99,
+        "marca": "Strider",
+        "color": "Rosa",
+        "material_cuadro": "Acero",
+        "edad_recomendada": "3-5 años"
+      },
+      {
+        "modelo": "Touring Adventure",
+        "tipo": "Touring",
+        "precio": 999.99,
+        "marca": "Cannondale",
+        "color": "Gris",
+        "material_cuadro": "Aluminio",
+        "velocidades": 27
+      },
+      {
+        "modelo": "Fat Tire Explorer",
+        "tipo": "Fat Bike",
+        "precio": 799.99,
+        "marca": "Surly",
+        "color": "Negro Mate",
+        "material_cuadro": "Acero",
+        "neumaticos": "4.0 pulgadas"
+      }
+    ]
+  }
+  
