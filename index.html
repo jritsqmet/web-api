@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lista de Enlaces</title>
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -17,10 +18,17 @@
     }
 
     .lista-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .card {
       background-color: #fff;
       border-radius: 8px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       padding: 20px;
+      margin: 10px;
       width: 300px;
     }
 
@@ -46,19 +54,34 @@
 <body>
 
   <div class="lista-container">
-    <h2>Lista de Enlaces</h2>
-    <ul>
-      <li><a href="productos.json" target="_blank">1. Productos</a></li>
-      <li><a href="celulares.json" target="_blank">2. Celulares</a></li>
-      <li><a href="ropa.json" target="_blank">3. Ropa</a></li>
-      <li><a href="fitnes.json" target="_blank">4. Fitnes</a></li>
-      <li><a href="laptop.json" target="_blank">5. Laptop</a></li>
-      <li><a href="arriendo.json" target="_blank">6. Arriendo</a></li>
-      <li><a href="bicicletas.json" target="_blank">7. Bicicletas</a></li>
-       <li><a href="usuarios.json" target="_blank">8. Usuarios</a></li>
-       <li><a href="crash.json" target="_blank">9. Crash</a></li>
-      <li><a href="cars.csv" target="_blank">Dataset</a></li>
-    </ul>
+    <div class="card">
+      <h2>API Categoría 1</h2>
+      <ul>
+        <a href="crash.json" target="_blank"><li>Crash Data</li></a>
+       <a href="videojuegos.json" target="_blank"><li>Videojuegos</li></a>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>API Categoría 2</h2>
+      <ul>
+        <a href="productos.json" target="_blank"> <li>Productos</li></a>
+        <a href="celulares.json" target="_blank"><li>Celulares</li></a>
+        <a href="ropa.json" target="_blank"><li>Ropa</li></a>
+        <a href="fitnes.json" target="_blank"><li>Fitness</li></a>
+        <a href="laptop.json" target="_blank"><li>Laptop</li></a>
+        <a href="arriendo.json" target="_blank"><li>Arriendo</li></a>
+        <a href="bicicletas.json" target="_blank"><li>Bicicletas</li></a>
+        <a href="usuarios.json" target="_blank"><li>Usuarios</li></a>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Datasets</h2>
+      <ul>
+        <a href="cars.csv" target="_blank"><li>Dataset</li></a>
+      </ul>
+    </div>
   </div>
 
 </body>
