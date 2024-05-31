@@ -2,7 +2,7 @@
   {
     "idCategory": "1",
     "strCategory": "Carne de res",
-    "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
+    "strCategoryThumb": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-menu/beef.png",
     "strCategoryDescription": "La carne de res es el nombre culinario para la carne de ganado, especialmente el músculo esquelético. Los humanos han estado comiendo carne de res desde tiempos prehistóricos. La carne de res es una fuente de proteína de alta calidad y nutrientes esenciales."
   },
   {
