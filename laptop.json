@@ -1,95 +1,92 @@
-{
-    "laptops": [
-      {
-        "modelo": "Dell XPS 13",
-        "precio": 1299.99,
-        "marca": "Dell",
-        "almacenamiento": "512GB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i7",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "MacBook Air",
-        "precio": 999.99,
-        "marca": "Apple",
-        "almacenamiento": "256GB SSD",
-        "ram": "8GB",
-        "procesador": "Apple M1",
-        "sistema_operativo": "macOS"
-      },
-      {
-        "modelo": "HP Spectre x360",
-        "precio": 1199.99,
-        "marca": "HP",
-        "almacenamiento": "1TB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i7",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "Lenovo ThinkPad X1 Carbon",
-        "precio": 1399.99,
-        "marca": "Lenovo",
-        "almacenamiento": "512GB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i5",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "Asus ROG Zephyrus G14",
-        "precio": 1499.99,
-        "marca": "Asus",
-        "almacenamiento": "1TB SSD",
-        "ram": "32GB",
-        "procesador": "AMD Ryzen 9",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "Acer Swift 3",
-        "precio": 699.99,
-        "marca": "Acer",
-        "almacenamiento": "256GB SSD",
-        "ram": "8GB",
-        "procesador": "Intel Core i5",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "Microsoft Surface Laptop 4",
-        "precio": 1199.99,
-        "marca": "Microsoft",
-        "almacenamiento": "512GB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i7",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "Razer Blade 15",
-        "precio": 1999.99,
-        "marca": "Razer",
-        "almacenamiento": "1TB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i7",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "Samsung Galaxy Book Pro",
-        "precio": 1299.99,
-        "marca": "Samsung",
-        "almacenamiento": "512GB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i7",
-        "sistema_operativo": "Windows 10"
-      },
-      {
-        "modelo": "LG Gram 17",
-        "precio": 1499.99,
-        "marca": "LG",
-        "almacenamiento": "1TB SSD",
-        "ram": "16GB",
-        "procesador": "Intel Core i7",
-        "sistema_operativo": "Windows 10"
-      }
-    ]
+[
+  {
+    "modelo": "Dell XPS 13",
+    "precio": 1299.99,
+    "marca": "Dell",
+    "almacenamiento": "512GB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i7",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "MacBook Air",
+    "precio": 999.99,
+    "marca": "Apple",
+    "almacenamiento": "256GB SSD",
+    "ram": "8GB",
+    "procesador": "Apple M1",
+    "sistema_operativo": "macOS"
+  },
+  {
+    "modelo": "HP Spectre x360",
+    "precio": 1199.99,
+    "marca": "HP",
+    "almacenamiento": "1TB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i7",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "Lenovo ThinkPad X1 Carbon",
+    "precio": 1399.99,
+    "marca": "Lenovo",
+    "almacenamiento": "512GB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i5",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "Asus ROG Zephyrus G14",
+    "precio": 1499.99,
+    "marca": "Asus",
+    "almacenamiento": "1TB SSD",
+    "ram": "32GB",
+    "procesador": "AMD Ryzen 9",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "Acer Swift 3",
+    "precio": 699.99,
+    "marca": "Acer",
+    "almacenamiento": "256GB SSD",
+    "ram": "8GB",
+    "procesador": "Intel Core i5",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "Microsoft Surface Laptop 4",
+    "precio": 1199.99,
+    "marca": "Microsoft",
+    "almacenamiento": "512GB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i7",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "Razer Blade 15",
+    "precio": 1999.99,
+    "marca": "Razer",
+    "almacenamiento": "1TB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i7",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "Samsung Galaxy Book Pro",
+    "precio": 1299.99,
+    "marca": "Samsung",
+    "almacenamiento": "512GB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i7",
+    "sistema_operativo": "Windows 10"
+  },
+  {
+    "modelo": "LG Gram 17",
+    "precio": 1499.99,
+    "marca": "LG",
+    "almacenamiento": "1TB SSD",
+    "ram": "16GB",
+    "procesador": "Intel Core i7",
+    "sistema_operativo": "Windows 10"
   }
-  
+]
