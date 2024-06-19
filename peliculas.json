@@ -1,0 +1,37 @@
+[
+    {
+        "titulo": "Origen",
+        "año": 2010,
+        "descripción": "Un ladrón que roba secretos corporativos mediante el uso de la tecnología de compartir sueños recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+        "imagen": "https://ejemplo.com/imagen_origen.jpg",
+        "url": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+        "titulo": "El Caballero Oscuro",
+        "año": 2008,
+        "descripción": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Gotham, Batman debe enfrentar uno de los mayores desafíos psicológicos y físicos para luchar contra la injusticia.",
+        "imagen": "https://ejemplo.com/imagen_caballero_oscuro.jpg",
+        "url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "titulo": "Interstellar",
+        "año": 2014,
+        "descripción": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+        "imagen": "https://ejemplo.com/imagen_interstellar.jpg",
+        "url": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+        "titulo": "La La Land",
+        "año": 2016,
+        "descripción": "En Los Ángeles, un pianista de jazz se enamora de una aspirante a actriz mientras ambos persiguen sus sueños en una ciudad conocida por destruir esperanzas y romper corazones.",
+        "imagen": "https://ejemplo.com/imagen_la_la_land.jpg",
+        "url": "https://www.imdb.com/title/tt3783958/"
+    },
+    {
+        "titulo": "El Padrino",
+        "año": 1972,
+        "descripción": "El patriarca de una poderosa familia de mafiosos intenta traspasar el negocio a su hijo renuente mientras se enfrenta a los retos de mantener su imperio criminal.",
+        "imagen": "https://ejemplo.com/imagen_el_padrino.jpg",
+        "url": "https://www.imdb.com/title/tt0068646/"
+    }
+]
