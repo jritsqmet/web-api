@@ -146,7 +146,7 @@
       "id": "fake-crash",
       "name": "Fake Crash",
       "description": "Una versión falsa de Crash Bandicoot. Aparece en algunos juegos como personaje de broma.",
-      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/fake-crash.webp",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/fcrash.webp",
       "atributos": [
           "Imitador",
           "Inocente",
