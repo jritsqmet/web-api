@@ -69,7 +69,7 @@
       "id": "pura",
       "name": "Pura",
       "description": "El tigre blanco mascota de Coco Bandicoot. A menudo acompaña a Coco en sus aventuras.",
-      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/pura.png",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/pura.webp",
       "atributos": [
           "Velocidad",
           "Agilidad",
