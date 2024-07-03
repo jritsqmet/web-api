@@ -1,0 +1,37 @@
+[
+    {
+        "titulo": "Origen",
+        "anio": 2010,
+        "descripcion": "Un ladron que roba secretos corporativos mediante el uso de la tecnologia de compartir suenos recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/origen.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/app-login-13c72.appspot.com/o/videos%2FOrigen2.mp4?alt=media&token=b2990342-9dc0-4e9e-8e5e-153e8adeb4ca"
+    },
+    {
+        "titulo": "El Caballero Oscuro",
+        "anio": 2008,
+        "descripcion": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Gotham, Batman debe enfrentar uno de los mayores desafios psicologicos y fisicos para luchar contra la injusticia.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/caballero_oscuro.jpg",
+        "url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "titulo": "Interstellar",
+        "anio": 2014,
+        "descripcion": "Un equipo de exploradores viaja a traves de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/interestellar.jpg",
+        "url": "https://www.imdb.com/title/tt0816692/"
+    },
+    {
+        "titulo": "La La Land",
+        "anio": 2016,
+        "descripcion": "En Los Angeles, un pianista de jazz se enamora de una aspirante a actriz mientras ambos persiguen sus suenos en una ciudad conocida por destruir esperanzas y romper corazones.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/la-la-land.jpg",
+        "url": "https://www.imdb.com/title/tt3783958/"
+    },
+    {
+        "titulo": "El Padrino",
+        "anio": 1972,
+        "descripcion": "El patriarca de una poderosa familia de mafiosos intenta traspasar el negocio a su hijo renuente mientras se enfrenta a los retos de mantener su imperio criminal.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/el_padrino.webp",
+        "url": "https://www.imdb.com/title/tt0068646/"
+    }
+]
