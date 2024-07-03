@@ -12,7 +12,7 @@
         "género": "Distopía",
         "descripción": "Una novela sobre un futuro distópico donde el mundo es gobernado por regímenes totalitarios.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/1984.jpg",
             "páginas": 328,
             "editorial": "Secker & Warburg"
         }
@@ -30,7 +30,7 @@
         "género": "Ficción",
         "descripción": "Una novela sobre la injusticia racial en el sur profundo de Estados Unidos.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8225269-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/ruise%C3%B1or.jpg",
             "páginas": 281,
             "editorial": "J.B. Lippincott & Co."
         }
@@ -48,7 +48,7 @@
         "género": "Romance",
         "descripción": "Una novela clásica sobre los modales y las maquinaciones matrimoniales de la clase media británica a finales del siglo XVIII.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8294891-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/orgullo.jpg",
             "páginas": 279,
             "editorial": "T. Egerton, Whitehall"
         }
@@ -66,7 +66,7 @@
         "género": "Ficción",
         "descripción": "Una novela sobre el sueño americano y los años 20 en Estados Unidos.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/gatsby.jpeg",
             "páginas": 218,
             "editorial": "Charles Scribner's Sons"
         }
@@ -84,7 +84,7 @@
         "género": "Aventura",
         "descripción": "Una novela sobre el viaje del barco ballenero Pequod.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8244158-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/moby-dick.webp",
             "páginas": 635,
             "editorial": "Harper & Brothers"
         }
@@ -102,7 +102,7 @@
         "género": "Histórico",
         "descripción": "Una novela que narra la historia de la invasión francesa a Rusia.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/7879786-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/guerra.jpg",
             "páginas": 1225,
             "editorial": "The Russian Messenger"
         }
@@ -120,7 +120,7 @@
         "género": "Ficción",
         "descripción": "Una novela sobre las experiencias de un joven en la ciudad de Nueva York.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8231841-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/el_guardian.jpg",
             "páginas": 277,
             "editorial": "Little, Brown and Company"
         }
@@ -138,7 +138,7 @@
         "género": "Fantasía",
         "descripción": "Una novela de fantasía sobre las aventuras de Bilbo Bolsón.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8379640-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/hobbit.jpg",
             "páginas": 310,
             "editorial": "George Allen & Unwin"
         }
@@ -156,7 +156,7 @@
         "género": "Distopía",
         "descripción": "Una novela sobre una sociedad futura distópica basada en la ciencia y la tecnología.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8356111-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/mfeliz.jpg",
             "páginas": 311,
             "editorial": "Chatto & Windus"
         }
@@ -174,7 +174,7 @@
         "género": "Épico",
         "descripción": "Un poema épico sobre el viaje de Odiseo.",
         "detalles": {
-            "imagen_portada": "https://covers.openlibrary.org/b/id/8405101-L.jpg",
+            "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/odisea.jpg",
             "páginas": 541,
             "editorial": "Ancient Greece"
         }
