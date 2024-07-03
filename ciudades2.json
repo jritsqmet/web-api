@@ -7,7 +7,7 @@
         "informacion": {
             "sitio_web": "https://www.quito.gob.ec/",
             "mapa": "https://goo.gl/maps/3fJ3FmH1U8G2",
-            "imagen": "https://example.com/images/quito.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/quito.png"
         },
         "detalles": {
             "poblacion": "2,781,641",
@@ -21,7 +21,7 @@
         "informacion": {
             "sitio_web": "https://www.guayaquil.gob.ec/",
             "mapa": "https://goo.gl/maps/4v56SyG1U6F2",
-            "imagen": "https://example.com/images/guayaquil.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/guayaquil.jpg"
         },
         "detalles": {
             "poblacion": "2,698,077",
@@ -35,7 +35,7 @@
         "informacion": {
             "sitio_web": "https://www.cuenca.gob.ec/",
             "mapa": "https://goo.gl/maps/7vV3SyG8L5H2",
-            "imagen": "https://example.com/images/cuenca.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/cuenca.webp"
         },
         "detalles": {
             "poblacion": "636,996",
@@ -49,7 +49,7 @@
         "informacion": {
             "sitio_web": "https://www.ambato.gob.ec/",
             "mapa": "https://goo.gl/maps/9vT6V7J2Q4M2",
-            "imagen": "https://example.com/images/ambato.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/ambato.jpeg"
         },
         "detalles": {
             "poblacion": "387,117",
@@ -63,7 +63,7 @@
         "informacion": {
             "sitio_web": "https://www.manta.gob.ec/",
             "mapa": "https://goo.gl/maps/2vW9M8L7J3N2",
-            "imagen": "https://example.com/images/manta.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/manta.webp"
         },
         "detalles": {
             "poblacion": "264,292",
@@ -77,7 +77,7 @@
         "informacion": {
             "sitio_web": "https://www.loja.gob.ec/",
             "mapa": "https://goo.gl/maps/3vT7W9J8L9N2",
-            "imagen": "https://example.com/images/loja.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/loja3.jpg"
         },
         "detalles": {
             "poblacion": "214,855",
@@ -91,7 +91,7 @@
         "informacion": {
             "sitio_web": "https://www.portoviejo.gob.ec/",
             "mapa": "https://goo.gl/maps/8vY8N9J7K5M2",
-            "imagen": "https://example.com/images/portoviejo.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/portoviejo.jpg"
         },
         "detalles": {
             "poblacion": "280,029",
@@ -105,7 +105,7 @@
         "informacion": {
             "sitio_web": "https://www.machala.gob.ec/",
             "mapa": "https://goo.gl/maps/7vX7Q8L9P3M2",
-            "imagen": "https://example.com/images/machala.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/machala.jpg"
         },
         "detalles": {
             "poblacion": "241,606",
@@ -119,7 +119,7 @@
         "informacion": {
             "sitio_web": "https://www.ibarra.gob.ec/",
             "mapa": "https://goo.gl/maps/9vR6P9J7L3N2",
-            "imagen": "https://example.com/images/ibarra.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/ibarra.jpg"
         },
         "detalles": {
             "poblacion": "181,175",
@@ -133,7 +133,7 @@
         "informacion": {
             "sitio_web": "https://www.esmeraldas.gob.ec/",
             "mapa": "https://goo.gl/maps/2vX8P7J5L3M2",
-            "imagen": "https://example.com/images/esmeraldas.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/esmeraldas.jpg"
         },
         "detalles": {
             "poblacion": "161,868",
@@ -147,7 +147,7 @@
         "informacion": {
             "sitio_web": "https://www.riobamba.gob.ec/",
             "mapa": "https://goo.gl/maps/3vX9Q7J2L4M2",
-            "imagen": "https://example.com/images/riobamba.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/riobamba.jpg"
         },
         "detalles": {
             "poblacion": "225,741",
@@ -161,7 +161,7 @@
         "informacion": {
             "sitio_web": "https://www.santodomingo.gob.ec/",
             "mapa": "https://goo.gl/maps/5vY8P8L9M2N2",
-            "imagen": "https://example.com/images/santodomingo.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/santodomingo.jpg"
         },
         "detalles": {
             "poblacion": "305,632",
@@ -175,7 +175,7 @@
         "informacion": {
             "sitio_web": "https://www.latacunga.gob.ec/",
             "mapa": "https://goo.gl/maps/6vX8Q7K9P3M2",
-            "imagen": "https://example.com/images/latacunga.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/latacunga.webp"
         },
         "detalles": {
             "poblacion": "170,032",
@@ -189,7 +189,7 @@
         "informacion": {
             "sitio_web": "https://www.tulcan.gob.ec/",
             "mapa": "https://goo.gl/maps/7vR8P9J6K5M2",
-            "imagen": "https://example.com/images/tulcan.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/tulcan.jpg"
         },
         "detalles": {
             "poblacion": "86,498",
@@ -203,7 +203,7 @@
         "informacion": {
             "sitio_web": "https://www.tena.gob.ec/",
             "mapa": "https://goo.gl/maps/2vR9Q8J5L3M2",
-            "imagen": "https://example.com/images/tena.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/tena.webp"
         },
         "detalles": {
             "poblacion": "33,934",
@@ -217,7 +217,7 @@
         "informacion": {
             "sitio_web": "https://www.macas.gob.ec/",
             "mapa": "https://goo.gl/maps/6vX9P7J4M3N2",
-            "imagen": "https://example.com/images/macas.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/macas.jpg"
         },
         "detalles": {
             "poblacion": "18,984",
@@ -231,7 +231,7 @@
         "informacion": {
             "sitio_web": "https://www.zamora.gob.ec/",
             "mapa": "https://goo.gl/maps/9vX8Q8J5M3N2",
-            "imagen": "https://example.com/images/zamora.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/zamora.jpeg"
         },
         "detalles": {
             "poblacion": "14,453",
@@ -245,7 +245,7 @@
         "informacion": {
             "sitio_web": "https://www.salinas.gob.ec/",
             "mapa": "https://goo.gl/maps/3vR9P7K5M3N2",
-            "imagen": "https://example.com/images/salinas.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/salinas.webp"
         },
         "detalles": {
             "poblacion": "49,572",
@@ -259,7 +259,7 @@
         "informacion": {
             "sitio_web": "https://www.babahoyo.gob.ec/",
             "mapa": "https://goo.gl/maps/4vX7Q9J6K5M2",
-            "imagen": "https://example.com/images/babahoyo.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/babahoyo.jpg"
         },
         "detalles": {
             "poblacion": "153,776",
@@ -273,7 +273,7 @@
         "informacion": {
             "sitio_web": "https://www.quevedo.gob.ec/",
             "mapa": "https://goo.gl/maps/5vR8Q8J5L3N2",
-            "imagen": "https://example.com/images/quevedo.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/quevedo.jpg"
         },
         "detalles": {
             "poblacion": "173,005",
@@ -287,7 +287,7 @@
         "informacion": {
             "sitio_web": "https://www.lagoagrio.gob.ec/",
             "mapa": "https://goo.gl/maps/6vX8Q9K5L3M2",
-            "imagen": "https://example.com/images/nueva_loja.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/nuevaloja.jpg"
         },
         "detalles": {
             "poblacion": "57,727",
@@ -301,7 +301,7 @@
         "informacion": {
             "sitio_web": "https://www.galapagos.gob.ec/",
             "mapa": "https://goo.gl/maps/7vR9P8J6M3N2",
-            "imagen": "https://example.com/images/puerto_baquerizo_moreno.jpg"
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/baquerizo.jpg"
         },
         "detalles": {
             "poblacion": "7,500",
