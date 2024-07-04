@@ -1,6 +1,6 @@
 {
     "musica":[
-        [
+        
             {
                 "id": "song1",
                 "title": "Bohemian Rhapsody",
@@ -161,7 +161,7 @@
                     "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/heyjudejpg.jpg"
                 }
             }
-        ]
+        
         
     ]
 }
