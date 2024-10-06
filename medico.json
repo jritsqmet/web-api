@@ -18,7 +18,7 @@
                 "email": "contacto@clinicasaludtotal.mx"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-medica-general.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/medicina-general.webp",
                 "precio": "30 USD",
                 "duracion": "30 minutos"
             }
@@ -41,7 +41,7 @@
                 "email": "info@laboratoriocentral.mx"
             },
             "info": {
-                "imagen": "https://www.example.com/images/examen-de-sangre.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/analisis-sangre-analitica.jpg",
                 "precio": "15 USD",
                 "duracion": "15 minutos"
             }
@@ -64,7 +64,7 @@
                 "email": "terapia@rehabilitacionfisica.mx"
             },
             "info": {
-                "imagen": "https://www.example.com/images/terapia-fisica.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/fisioterapia-rehabilitacion.jpg",
                 "precio": "35 USD por sesión",
                 "duracion": "1 hora"
             }
@@ -87,7 +87,7 @@
                 "email": "info@clinicadentalsonrisa.pe"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-odontologica.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/dental.jpg",
                 "precio": "30 USD",
                 "duracion": "45 minutos"
             }
@@ -110,7 +110,7 @@
                 "email": "contacto@hospitalinfantil.co"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-pediatrica.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/pediatra.jpeg",
                 "precio": "28 USD",
                 "duracion": "30 minutos"
             }
@@ -133,7 +133,7 @@
                 "email": "contacto@centrovidasana.com.ar"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-nutricional.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/nutricional.jpg",
                 "precio": "25 USD",
                 "duracion": "45 minutos"
             }
@@ -156,7 +156,7 @@
                 "email": "contacto@psicologicobienestar.cl"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-psicologica.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/psicologia.webp",
                 "precio": "40 USD",
                 "duracion": "1 hora"
             }
@@ -179,7 +179,7 @@
                 "email": "info@opticavisual.ec"
             },
             "info": {
-                "imagen": "https://www.example.com/images/examen-vista.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/vista.jpg",
                 "precio": "20 USD",
                 "duracion": "30 minutos"
             }
@@ -202,7 +202,7 @@
                 "email": "contacto@dermatologiaavanzada.ec"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-dermatologia.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/dermatologia.jpg",
                 "precio": "35 USD",
                 "duracion": "30 minutos"
             }
@@ -225,7 +225,7 @@
                 "email": "info@centrocardiologico.ec"
             },
             "info": {
-                "imagen": "https://www.example.com/images/consulta-cardiologica.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/Cardiologo.webp",
                 "precio": "50 USD",
                 "duracion": "1 hora"
             }
@@ -248,7 +248,7 @@
                 "email": "contacto@rehabilitaciondeportiva.ec"
             },
             "info": {
-                "imagen": "https://www.example.com/images/fisioterapia-deportiva.jpg",
+                "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-medicos/deport.jpg",
                 "precio": "40 USD por sesión",
                 "duracion": "1 hora"
             }
