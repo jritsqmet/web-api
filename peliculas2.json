@@ -1,6 +1,6 @@
 {
    "peliculas": [
-    [
+    
         {
             "titulo": "Inception",
             "anio": 2010,
@@ -311,6 +311,6 @@
         }
     ]
     
-]
+
 
 }

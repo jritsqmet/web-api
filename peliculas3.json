@@ -1,11 +1,78 @@
 [
     {
+        "id": "MOV001",
         "titulo": "Origen",
-        "anio": 2010,
-        "descripcion": "Un ladron que roba secretos corporativos mediante el uso de la tecnologia de compartir suenos recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+        "genero": [
+          "Ciencia Ficción",
+          "Thriller"
+        ],
+        "director": "Christopher Nolan",
+        "precio": {
+          "moneda": "USD",
+          "real": 14.99
+        },
+        "lanzamiento": "16 de julio de 2010",
+        "descripcion": "Un ladrón que roba secretos corporativos mediante el uso de la tecnología de compartir sueños recibe la tarea inversa de plantar una idea en la mente de un CEO.",
         "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/origen.jpg",
-        "url": "https://firebasestorage.googleapis.com/v0/b/app-login-13c72.appspot.com/o/videos%2FOrigen2.mp4?alt=media&token=b2990342-9dc0-4e9e-8e5e-153e8adeb4ca"
-    },
+        "valoracion": 8.0,
+        "opiniones": {
+          "opiniones_positivas": {
+            "cantidad": 4,
+            "detalles": [
+              {
+                "opinion": "Una obra maestra del cine moderno.",
+                "sentimiento": "positivo",
+                "detalles_usuario": {
+                  "usuario": "Skywalker99",
+                  "fecha": "2023-08-15",
+                  "puntuacion": 9
+                }
+              },
+              {
+                "opinion": "Increíblemente innovadora y emocionante.",
+                "sentimiento": "positivo",
+                "detalles_usuario": {
+                  "usuario": "NeoTheChosen",
+                  "fecha": "2023-07-10",
+                  "puntuacion": 10
+                }
+              },
+              {
+                "opinion": "Una película que te hace pensar, me encanta.",
+                "sentimiento": "positivo",
+                "detalles_usuario": {
+                  "usuario": "DarkKnightX",
+                  "fecha": "2023-06-02",
+                  "puntuacion": 8
+                }
+              },
+              {
+                "opinion": "Nolan en su mejor momento, la mejor película de ciencia ficción.",
+                "sentimiento": "positivo",
+                "detalles_usuario": {
+                  "usuario": "CineMaster2000",
+                  "fecha": "2023-09-18",
+                  "puntuacion": 9
+                }
+              }
+            ]
+          },
+          "opiniones_negativas": {
+            "cantidad": 1,
+            "detalles": [
+              {
+                "opinion": "Demasiado complicada para seguir, no me atrapó.",
+                "sentimiento": "negativo",
+                "detalles_usuario": {
+                  "usuario": "LostInSpace33",
+                  "fecha": "2023-05-28",
+                  "puntuacion": 4
+                }
+              }
+            ]
+          }
+        }
+      }
     {
         "titulo": "El Caballero Oscuro",
         "anio": 2008,
