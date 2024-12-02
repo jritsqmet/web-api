@@ -1,0 +1,1001 @@
+ID Venta,Fecha,Producto,Categoría,Cantidad,Precio Unitario,Total Venta,Cliente,Ciudad
+1,2024-05-07,Aspiradora,Electrodomésticos,86,122.85,10565.1,Dani Izaguirre Cantero,Portoviejo
+2,2024-08-11,Alicates,Herramientas,50,390.83,19541.5,Salvador Carlos Hidalgo,Ambato
+3,2024-06-21,Pegamento,Accesorios,8,418.0,3344.0,Elodia Arana,Quito
+4,2024-10-12,Pegamento,Accesorios,57,418.38,23847.66,Zacarías Pedrero Duque,Guayaquil
+5,2024-07-18,Pintura Amarilla,Pinturas,29,40.78,1182.62,Conrado Gil Matas,Portoviejo
+6,2024-09-21,Lámpara,Electrodomésticos,14,83.17,1164.38,Delfina del Martinez,Esmeraldas
+7,2024-07-21,Tuberías,Accesorios,99,224.36,22211.64,Heraclio Daniel Saura Noriega,Portoviejo
+8,2023-12-22,Alicates,Herramientas,85,86.54,7355.9,Arcelia Nuria Ledesma Bermejo,Ambato
+9,2024-11-05,Tubos PVC,Construcción,16,249.8,3996.8,Melisa Madrid Borrego,Ibarra
+10,2024-04-06,Pintura Amarilla,Pinturas,98,237.01,23226.98,Eligia Pagès Zapata,Loja
+11,2024-01-20,Llave Inglesa,Herramientas,91,66.55,6056.05,Loreto Nuñez,Loja
+12,2024-11-08,Taladro Eléctrico,Electrodomésticos,95,492.77,46813.15,Anacleto Gracia Cámara,Loja
+13,2024-02-28,Arena,Construcción,100,283.62,28362.0,Fabio Tamayo Jordá,Quito
+14,2024-08-15,Ladrillos,Construcción,32,376.63,12052.16,Sandalio de Pinto,Cuenca
+15,2024-08-30,Calentador,Electrodomésticos,78,360.02,28081.56,Santiago Crespo Padilla,Manta
+16,2024-01-31,Taladro,Herramientas,80,59.79,4783.2,Vinicio Llanos Espinosa,Ambato
+17,2024-06-08,Pintura Azul,Pinturas,17,215.27,3659.59,Violeta Carrión Font,Esmeraldas
+18,2023-12-04,Aspiradora,Electrodomésticos,69,38.17,2633.73,Sol de Bou,Ibarra
+19,2024-07-02,Alicates,Herramientas,88,272.73,24000.24,Blanca Alarcón,Manta
+20,2024-05-22,Taladro Eléctrico,Electrodomésticos,90,357.97,32217.3,Raimundo Cleto Artigas Alberola,Loja
+21,2024-11-28,Pintura Azul,Pinturas,41,477.28,19568.48,Olalla Vilanova Pellicer,Ambato
+22,2024-10-17,Arena,Construcción,34,92.59,3148.06,Dorita Candelas Dalmau Villalobos,Cuenca
+23,2024-03-28,Cinta Métrica,Accesorios,37,397.18,14695.66,Maximiliano del Flor,Portoviejo
+24,2024-08-16,Arena,Construcción,23,235.55,5417.65,Remedios Feijoo,Loja
+25,2024-06-07,Pegamento,Accesorios,87,363.96,31664.52,Íñigo Leal Benítez,Riobamba
+26,2024-08-26,Arena,Construcción,45,469.42,21123.9,Bonifacio Guardia Seguí,Manta
+27,2024-02-21,Calentador,Electrodomésticos,58,237.33,13765.14,Bernardita Macias Almeida,Cuenca
+28,2024-03-01,Pintura Azul,Pinturas,80,93.82,7505.6,Carmela Salazar Cuenca,Esmeraldas
+29,2024-10-30,Martillo,Herramientas,21,53.93,1132.53,Chema Juan-Vilanova,Cuenca
+30,2024-11-11,Taladro Eléctrico,Electrodomésticos,88,313.11,27553.68,Tecla de Benitez,Riobamba
+31,2024-07-26,Alicates,Herramientas,91,389.11,35409.01,Germán Quero Pareja,Quito
+32,2024-08-03,Llave Inglesa,Herramientas,89,350.9,31230.1,Poncio Bartolomé-Nicolás,Ambato
+33,2024-07-19,Pintura Amarilla,Pinturas,58,367.08,21290.64,Pacífica Macaria Suarez Vera,Ambato
+34,2024-08-09,Pintura Amarilla,Pinturas,24,466.27,11190.48,Nico Fábregas Riba,Loja
+35,2024-11-21,Clavos,Accesorios,29,377.52,10948.08,José Antonio Édgar Tenorio Beltran,Esmeraldas
+36,2024-01-02,Cinta Métrica,Accesorios,54,455.04,24572.16,Lisandro Severiano Morata Feijoo,Portoviejo
+37,2023-12-27,Calentador,Electrodomésticos,26,304.72,7922.72,Luciana Marcos-Julián,Riobamba
+38,2024-03-14,Aspiradora,Electrodomésticos,27,279.69,7551.63,Germán del Ferrán,Ibarra
+39,2024-10-28,Arena,Construcción,28,319.87,8956.36,Amada Guzman Borrego,Portoviejo
+40,2024-10-10,Taladro Eléctrico,Electrodomésticos,26,447.54,11636.04,Estrella Canet Ripoll,Manta
+41,2024-08-05,Pintura Roja,Pinturas,20,458.97,9179.4,Dionisia Lastra Ramón,Ibarra
+42,2024-07-16,Cemento,Construcción,27,337.94,9124.38,Eusebia Armas-Sarmiento,Guayaquil
+43,2024-11-03,Pintura Verde,Pinturas,20,69.97,1399.4,Abril Zapata Gabaldón,Esmeraldas
+44,2024-08-10,Tubos PVC,Construcción,93,195.18,18151.74,Porfirio Ayuso-Uriarte,Ibarra
+45,2024-09-20,Arena,Construcción,30,60.11,1803.3,Alejandra Hernando Nevado,Ambato
+46,2024-11-05,Lámpara,Electrodomésticos,96,219.67,21088.32,Josué de Sabater,Loja
+47,2024-06-09,Pintura Verde,Pinturas,8,493.84,3950.72,Benito Blanco Ledesma,Portoviejo
+48,2024-08-22,Pintura Roja,Pinturas,79,246.61,19482.19,Dafne del Gargallo,Ambato
+49,2024-10-07,Aspiradora,Electrodomésticos,3,494.72,1484.16,Eliana Adán Chacón,Manta
+50,2024-05-11,Arena,Construcción,88,112.87,9932.56,Lola Mas Pallarès,Guayaquil
+51,2024-01-05,Llave Inglesa,Herramientas,96,152.62,14651.52,Anita Jimenez Falcón,Manta
+52,2024-04-11,Clavos,Accesorios,19,328.01,6232.19,Chelo Leal Pera,Manta
+53,2024-08-16,Aspiradora,Electrodomésticos,24,433.34,10400.16,Rosaura Gallo Sastre,Esmeraldas
+54,2024-09-25,Ventilador,Electrodomésticos,84,155.63,13072.92,Lucas Gaya Sevillano,Cuenca
+55,2024-05-10,Lámpara,Electrodomésticos,47,368.92,17339.24,Telmo Manzanares Torre,Esmeraldas
+56,2024-06-27,Cinta Métrica,Accesorios,35,354.71,12414.85,Marisela Pombo Verdú,Guayaquil
+57,2024-11-28,Destornillador,Herramientas,31,178.07,5520.17,Flavio Canet Armas,Loja
+58,2024-05-29,Ventilador,Electrodomésticos,89,310.97,27676.33,Elba de Roma,Manta
+59,2024-09-10,Ladrillos,Construcción,2,101.51,203.02,Lucía Sandra Pons Narváez,Manta
+60,2024-11-07,Tuberías,Accesorios,90,11.67,1050.3,Paz Diaz,Cuenca
+61,2024-06-27,Grava,Construcción,98,439.65,43085.7,Fanny Jara Ortuño,Portoviejo
+62,2024-09-26,Pegamento,Accesorios,89,220.74,19645.86,Florinda Leonor Puig Esteve,Manta
+63,2024-01-21,Aspiradora,Electrodomésticos,65,80.55,5235.75,Amor Aguado,Loja
+64,2024-09-07,Pintura Verde,Pinturas,38,35.63,1353.94,José Antonio Duran Torre,Riobamba
+65,2024-06-07,Ventilador,Electrodomésticos,61,134.0,8174.0,Piedad Ariel Bartolomé Hoyos,Cuenca
+66,2024-06-19,Pintura Verde,Pinturas,62,408.48,25325.76,Rita Rey Caro,Ambato
+67,2024-11-11,Tubos PVC,Construcción,37,1.53,56.61,Silvestre Roldán Lumbreras,Guayaquil
+68,2024-11-16,Tornillos,Accesorios,14,395.85,5541.9,María Ángeles del Palacios,Portoviejo
+69,2024-10-17,Taladro,Herramientas,97,16.76,1625.72,Susanita Falcón-Anaya,Esmeraldas
+70,2024-11-13,Pintura Azul,Pinturas,13,218.62,2842.06,Amílcar Ferrero,Quito
+71,2024-04-23,Grava,Construcción,56,387.54,21702.24,Cruz Salmerón Conesa,Cuenca
+72,2024-08-26,Taladro Eléctrico,Electrodomésticos,65,404.46,26289.9,Teodora Maristela Peña Ponce,Guayaquil
+73,2024-01-01,Lámpara,Electrodomésticos,99,320.36,31715.64,Josep Viña,Guayaquil
+74,2024-11-19,Arena,Construcción,48,470.06,22562.88,Eligio del López,Cuenca
+75,2024-03-15,Lámpara,Electrodomésticos,88,463.99,40831.12,Florinda Valle Abellán,Ambato
+76,2024-05-06,Taladro,Herramientas,6,62.45,374.7,Vinicio Carmona Mas,Loja
+77,2024-02-24,Pintura Azul,Pinturas,91,263.5,23978.5,Celia Franco Arévalo,Manta
+78,2023-12-15,Tuberías,Accesorios,36,331.39,11930.04,Elba Isern Rocha,Ambato
+79,2024-03-14,Pintura Azul,Pinturas,41,39.91,1636.31,Manuel Gelabert-Aramburu,Guayaquil
+80,2024-04-14,Pintura Verde,Pinturas,96,152.17,14608.32,Fulgencio del Mariscal,Quito
+81,2024-11-09,Ventilador,Electrodomésticos,88,170.29,14985.52,Tristán de Bas,Ibarra
+82,2024-01-24,Pintura Azul,Pinturas,29,62.81,1821.49,Almudena del Zamora,Ambato
+83,2024-07-20,Alicates,Herramientas,40,370.51,14820.4,Sandalio Abad Casal,Cuenca
+84,2024-04-26,Destornillador,Herramientas,50,250.25,12512.5,Benigno Ciríaco Abascal Blanch,Ambato
+85,2024-01-10,Destornillador,Herramientas,100,434.13,43413.0,Paco Isaac Casanovas Barceló,Guayaquil
+86,2024-09-26,Ventilador,Electrodomésticos,79,451.08,35635.32,Jerónimo Cervantes Cerro,Loja
+87,2024-01-10,Llave Inglesa,Herramientas,46,264.88,12184.48,Silvestre Bravo Ferrer,Esmeraldas
+88,2024-09-17,Ventilador,Electrodomésticos,4,237.36,949.44,Matías Carrión-Benito,Riobamba
+89,2024-11-30,Tuberías,Accesorios,87,84.13,7319.31,Cesar Espinosa Naranjo,Esmeraldas
+90,2024-01-10,Calentador,Electrodomésticos,93,359.3,33414.9,Vera Vaquero-Cortina,Loja
+91,2023-12-29,Ventilador,Electrodomésticos,75,199.37,14952.75,Rogelio Bernat Vizcaíno,Ibarra
+92,2024-10-22,Taladro Eléctrico,Electrodomésticos,99,3.5,346.5,Juan Bautista Losada,Ambato
+93,2024-09-15,Clavos,Accesorios,61,326.41,19911.01,Carmela Gutiérrez Bermudez,Manta
+94,2024-03-18,Pintura Azul,Pinturas,6,271.12,1626.72,Maximiliano Duran-Calderón,Ibarra
+95,2024-03-26,Lámpara,Electrodomésticos,74,56.1,4151.4,Javiera Selena Mulet Cruz,Quito
+96,2024-01-20,Pegamento,Accesorios,94,142.69,13412.86,Noé de Vicens,Guayaquil
+97,2024-11-07,Cinta Métrica,Accesorios,70,484.04,33882.8,León Alfonso Garrido Moreno,Quito
+98,2024-05-23,Cinta Métrica,Accesorios,44,79.47,3496.68,Aurelio Pombo Guzmán,Guayaquil
+99,2024-05-16,Taladro Eléctrico,Electrodomésticos,33,64.91,2142.03,Modesto Alonso-Portero,Quito
+100,2024-09-24,Taladro,Herramientas,67,319.73,21421.91,Teresita Brígida Falcón Bolaños,Manta
+101,2024-03-09,Tuberías,Accesorios,65,4.88,317.2,Fanny Pla Alfaro,Quito
+102,2024-01-21,Pintura Verde,Pinturas,65,61.61,4004.65,Pedro Celso Criado Contreras,Quito
+103,2024-01-17,Pintura Verde,Pinturas,75,31.77,2382.75,Amparo Giralt Girón,Loja
+104,2024-03-09,Ventilador,Electrodomésticos,13,21.13,274.69,Severino Cervera Rocha,Riobamba
+105,2024-01-27,Alicates,Herramientas,30,35.4,1062.0,Fausto Checa,Loja
+106,2024-01-06,Calentador,Electrodomésticos,100,412.7,41270.0,Ema Miró Bas,Loja
+107,2024-02-02,Alicates,Herramientas,46,272.44,12532.24,Ana Arjona Ochoa,Ibarra
+108,2024-09-30,Llave Inglesa,Herramientas,96,297.8,28588.8,Geraldo Rosselló Diaz,Quito
+109,2023-12-13,Cinta Métrica,Accesorios,82,63.82,5233.24,Violeta Echeverría Juan,Guayaquil
+110,2024-05-05,Ventilador,Electrodomésticos,89,443.09,39435.01,Artemio Sáez Llorente,Riobamba
+111,2023-12-31,Pintura Blanca,Pinturas,28,162.64,4553.92,Artemio de Piñol,Quito
+112,2024-04-08,Pintura Amarilla,Pinturas,94,391.75,36824.5,Emperatriz Nogués Carbajo,Cuenca
+113,2024-05-13,Tubos PVC,Construcción,69,456.34,31487.46,Isidoro Miranda Prada,Ibarra
+114,2023-12-08,Taladro Eléctrico,Electrodomésticos,45,347.25,15626.25,Manuela Meléndez Vallejo,Ibarra
+115,2023-12-09,Llave Inglesa,Herramientas,28,158.21,4429.88,Ligia Villalobos Amat,Ambato
+116,2024-02-05,Pintura Amarilla,Pinturas,8,210.29,1682.32,Adelina Zamora-Alcalde,Cuenca
+117,2024-05-14,Martillo,Herramientas,17,309.98,5269.66,Javiera Álvaro Haro,Cuenca
+118,2023-12-26,Grava,Construcción,24,265.23,6365.52,Luis Ángel Valbuena Blanco,Riobamba
+119,2024-11-16,Cemento,Construcción,17,48.95,832.15,Paula Carina Blanco Peinado,Riobamba
+120,2024-02-04,Pegamento,Accesorios,58,213.4,12377.2,Blas Fulgencio Corominas Catalán,Quito
+121,2024-02-04,Tubos PVC,Construcción,87,40.6,3532.2,Aurora Maristela Atienza Suarez,Riobamba
+122,2024-09-30,Pintura Blanca,Pinturas,37,336.09,12435.33,Jennifer Ureña Mendez,Quito
+123,2024-01-10,Alicates,Herramientas,47,417.3,19613.1,Maribel Alegre Noriega,Ambato
+124,2024-05-06,Tubos PVC,Construcción,81,177.16,14349.96,Telmo Bernat Bayona,Guayaquil
+125,2024-01-16,Calentador,Electrodomésticos,96,275.17,26416.32,Jordana Cañas Iborra,Cuenca
+126,2024-07-08,Pintura Azul,Pinturas,78,322.59,25162.02,Régulo Coronado-Quintana,Manta
+127,2024-08-10,Cemento,Construcción,2,495.88,991.76,Azahara Mendez Palomar,Ibarra
+128,2024-09-16,Lámpara,Electrodomésticos,79,298.45,23577.55,Curro Luz Casanova,Riobamba
+129,2024-04-09,Calentador,Electrodomésticos,6,81.2,487.2,Gloria Font Piña,Manta
+130,2024-10-21,Tuberías,Accesorios,65,157.94,10266.1,Ariadna de Cabezas,Cuenca
+131,2024-11-08,Ladrillos,Construcción,58,73.03,4235.74,Anselma Evelia Rosales Gilabert,Riobamba
+132,2024-03-07,Pintura Blanca,Pinturas,74,155.43,11501.82,África Alcántara Dueñas,Portoviejo
+133,2024-03-20,Lámpara,Electrodomésticos,92,9.48,872.16,Rufina Juana Bauzà Barrena,Quito
+134,2024-10-20,Ladrillos,Construcción,78,11.71,913.38,José Baró,Ambato
+135,2024-01-02,Aspiradora,Electrodomésticos,29,333.86,9681.94,Pepe Arenas-Cepeda,Manta
+136,2023-12-20,Destornillador,Herramientas,11,426.3,4689.3,Belén del Ojeda,Manta
+137,2024-09-16,Pintura Amarilla,Pinturas,60,50.97,3058.2,Georgina Sevillano Bayona,Cuenca
+138,2024-05-09,Clavos,Accesorios,19,34.64,658.16,Jose Angel Cano,Ambato
+139,2023-12-16,Tubos PVC,Construcción,55,157.63,8669.65,Lorenzo Acuña Coll,Riobamba
+140,2024-01-07,Pintura Roja,Pinturas,20,296.37,5927.4,Lara Isabel Paredes Oliveras,Ibarra
+141,2023-12-10,Lámpara,Electrodomésticos,64,77.55,4963.2,Manolo Sebastián Porta,Guayaquil
+142,2024-04-28,Ladrillos,Construcción,18,82.58,1486.44,Mirta Amo Calvo,Ibarra
+143,2023-12-12,Llave Inglesa,Herramientas,71,364.94,25910.74,Mónica Fabra Garzón,Cuenca
+144,2024-09-16,Alicates,Herramientas,97,294.54,28570.38,Alejandra Bermudez Ferrán,Guayaquil
+145,2024-05-07,Cinta Métrica,Accesorios,95,264.11,25090.45,Sebastian Norberto Machado Carreño,Loja
+146,2024-07-01,Cemento,Construcción,51,73.36,3741.36,Heliodoro Palomo Narváez,Quito
+147,2024-01-20,Pintura Amarilla,Pinturas,35,492.9,17251.5,Felipe Alfonso-Pujol,Portoviejo
+148,2024-09-21,Cinta Métrica,Accesorios,58,26.65,1545.7,Lalo Pascual Juárez,Portoviejo
+149,2024-07-11,Tuberías,Accesorios,62,321.76,19949.12,Herminio Rubio-Sans,Esmeraldas
+150,2024-04-11,Tornillos,Accesorios,46,268.65,12357.9,Pascuala Varela-Baena,Ambato
+151,2024-10-08,Ventilador,Electrodomésticos,44,411.36,18099.84,Gabino del Cal,Portoviejo
+152,2024-11-19,Llave Inglesa,Herramientas,95,139.12,13216.4,Rocío Valera Armas,Ambato
+153,2024-03-11,Arena,Construcción,52,431.7,22448.4,Viviana Oliva Blázquez,Quito
+154,2024-02-03,Ventilador,Electrodomésticos,6,151.93,911.58,Ruben Manjón Pacheco,Cuenca
+155,2024-11-17,Tornillos,Accesorios,54,223.95,12093.3,René Saavedra Font,Ibarra
+156,2024-03-30,Pegamento,Accesorios,49,409.78,20079.22,Flor Benítez Mendez,Ambato
+157,2024-06-30,Pintura Roja,Pinturas,94,154.86,14556.84,Julieta Barco Julián,Loja
+158,2024-07-18,Taladro Eléctrico,Electrodomésticos,78,132.79,10357.62,Lope Quintanilla Infante,Portoviejo
+159,2024-09-14,Pintura Amarilla,Pinturas,64,204.81,13107.84,Celestina Solana Reyes,Portoviejo
+160,2024-11-06,Aspiradora,Electrodomésticos,45,448.96,20203.2,Margarita Mármol Valdés,Esmeraldas
+161,2023-12-08,Cemento,Construcción,33,183.85,6067.05,Zoraida Sacristán Manzano,Manta
+162,2024-02-20,Taladro,Herramientas,96,63.14,6061.44,Encarnación Laguna Taboada,Quito
+163,2024-01-01,Pintura Azul,Pinturas,33,270.22,8917.26,Fermín Reyes Torrecilla,Ambato
+164,2024-08-19,Pintura Roja,Pinturas,36,478.92,17241.12,Florina Benito Botella,Loja
+165,2023-12-30,Destornillador,Herramientas,8,492.21,3937.68,Mauricio Rovira Amaya,Guayaquil
+166,2024-10-06,Tubos PVC,Construcción,21,266.26,5591.46,Hugo Romero Ugarte,Portoviejo
+167,2024-09-09,Calentador,Electrodomésticos,9,199.2,1792.8,Ruperto Granados-Cantón,Guayaquil
+168,2024-08-23,Taladro Eléctrico,Electrodomésticos,9,432.76,3894.84,Osvaldo Miró Saldaña,Loja
+169,2024-05-25,Destornillador,Herramientas,72,347.42,25014.24,Pancho Bernad,Manta
+170,2024-01-10,Taladro Eléctrico,Electrodomésticos,8,197.26,1578.08,Purificación Prieto-Iglesias,Cuenca
+171,2024-10-01,Tubos PVC,Construcción,80,249.74,19979.2,Rómulo Bartolomé Almagro,Ambato
+172,2024-04-15,Clavos,Accesorios,20,440.87,8817.4,Graciana Campos Cobos,Manta
+173,2024-01-24,Pintura Verde,Pinturas,33,351.41,11596.53,Jordana Villalobos Jove,Portoviejo
+174,2024-02-10,Lámpara,Electrodomésticos,8,294.22,2353.76,Odalis Escribano Nicolás,Riobamba
+175,2024-02-01,Cinta Métrica,Accesorios,27,274.28,7405.56,Natalio Amo Gárate,Quito
+176,2023-12-08,Clavos,Accesorios,83,117.31,9736.73,Marta Briones Mora,Quito
+177,2024-06-09,Destornillador,Herramientas,68,270.89,18420.52,Mireia Peñas Iborra,Portoviejo
+178,2023-12-17,Cinta Métrica,Accesorios,66,211.93,13987.38,Elvira Modesta Rivero Carrillo,Guayaquil
+179,2024-05-28,Ladrillos,Construcción,20,37.24,744.8,Virginia Martinez Marqués,Guayaquil
+180,2024-11-04,Arena,Construcción,90,363.38,32704.2,Melisa Cueto Arnaiz,Loja
+181,2024-06-07,Pintura Amarilla,Pinturas,96,444.65,42686.4,Mauricio Reguera Ayllón,Cuenca
+182,2024-03-05,Destornillador,Herramientas,95,250.35,23783.25,Teo Quintanilla Pombo,Ambato
+183,2024-09-19,Clavos,Accesorios,3,107.63,322.89,Tadeo Juan,Esmeraldas
+184,2024-09-19,Taladro,Herramientas,71,315.55,22404.05,Manuel Barrio,Cuenca
+185,2024-05-30,Destornillador,Herramientas,19,129.73,2464.87,Danilo Marco Quero,Quito
+186,2024-06-20,Arena,Construcción,86,470.25,40441.5,Leire Adelia Ochoa Rocha,Manta
+187,2024-08-24,Martillo,Herramientas,25,338.43,8460.75,Álvaro Feliu Aragón,Manta
+188,2024-08-30,Arena,Construcción,57,419.34,23902.38,Verónica Llorens Llabrés,Esmeraldas
+189,2024-01-03,Pintura Amarilla,Pinturas,99,462.11,45748.89,Gertrudis Cuevas Chico,Quito
+190,2024-04-26,Cemento,Construcción,83,408.9,33938.7,Adelaida Galan,Quito
+191,2024-06-13,Pegamento,Accesorios,87,288.3,25082.1,Ramón Marín-Andrade,Ambato
+192,2024-01-23,Aspiradora,Electrodomésticos,18,450.37,8106.66,Arturo Elías-Mínguez,Quito
+193,2024-02-21,Arena,Construcción,80,306.71,24536.8,Fabiana Solano Pablo,Ibarra
+194,2024-03-08,Taladro Eléctrico,Electrodomésticos,4,273.3,1093.2,Marcia Prudencia Salvà Pazos,Cuenca
+195,2023-12-28,Taladro Eléctrico,Electrodomésticos,34,169.49,5762.66,Benita Tamarit Viña,Riobamba
+196,2024-07-13,Pegamento,Accesorios,90,273.07,24576.3,Jenny Arjona Cantero,Riobamba
+197,2024-03-15,Pintura Amarilla,Pinturas,74,316.86,23447.64,Leticia Padilla Tena,Portoviejo
+198,2024-01-20,Calentador,Electrodomésticos,23,326.71,7514.33,Victor Manuel de Prat,Manta
+199,2024-01-19,Tuberías,Accesorios,67,201.55,13503.85,Teo Sandoval Orozco,Guayaquil
+200,2024-06-22,Taladro,Herramientas,10,309.92,3099.2,Ciro de Cobos,Ambato
+201,2024-09-12,Destornillador,Herramientas,67,441.64,29589.88,Reyes Ayuso Casals,Riobamba
+202,2024-04-23,Clavos,Accesorios,20,420.61,8412.2,Apolinar Pinilla Villena,Esmeraldas
+203,2024-06-16,Ladrillos,Construcción,16,449.48,7191.68,Celso Burgos Bustos,Ambato
+204,2024-11-30,Llave Inglesa,Herramientas,59,151.29,8926.11,Daniela Salvador Medina,Ibarra
+205,2023-12-10,Pintura Roja,Pinturas,20,43.97,879.4,Nacio Salom-Molins,Ibarra
+206,2024-03-30,Ladrillos,Construcción,76,399.75,30381.0,Montserrat Vilma Milla Aroca,Ibarra
+207,2024-11-28,Cemento,Construcción,72,423.52,30493.44,Óscar Loreto Esteban Herrera,Guayaquil
+208,2024-03-03,Pintura Amarilla,Pinturas,60,485.39,29123.4,Máximo Bou Velázquez,Manta
+209,2024-07-21,Pintura Roja,Pinturas,96,480.99,46175.04,América Machado Bustamante,Ambato
+210,2024-01-16,Pintura Verde,Pinturas,70,155.21,10864.7,Toribio Prieto Cantón,Riobamba
+211,2023-12-18,Aspiradora,Electrodomésticos,53,120.76,6400.28,Guadalupe de Pacheco,Manta
+212,2024-02-18,Clavos,Accesorios,26,397.72,10340.72,Águeda Bas Hurtado,Manta
+213,2024-04-10,Ventilador,Electrodomésticos,39,419.39,16356.21,César Riquelme Gallardo,Portoviejo
+214,2024-11-03,Pintura Azul,Pinturas,50,336.93,16846.5,Alex Juanito Aguilar Figueras,Esmeraldas
+215,2024-05-10,Llave Inglesa,Herramientas,4,222.77,891.08,Isidora Tenorio Diez,Quito
+216,2024-09-29,Pintura Azul,Pinturas,96,276.59,26552.64,Evangelina Luz Marqués,Ibarra
+217,2024-09-06,Ladrillos,Construcción,93,148.98,13855.14,Balduino Exposito Malo,Esmeraldas
+218,2024-08-29,Taladro Eléctrico,Electrodomésticos,2,377.39,754.78,María Dolores Vázquez-Orozco,Ambato
+219,2024-01-26,Tornillos,Accesorios,56,27.75,1554.0,Saturnino Alegria Casals,Quito
+220,2023-12-02,Pintura Blanca,Pinturas,35,311.41,10899.35,Ainara Eva María Jaén Manso,Cuenca
+221,2024-09-02,Aspiradora,Electrodomésticos,94,362.62,34086.28,Lupe Sancho Jerez,Ibarra
+222,2024-04-19,Pegamento,Accesorios,58,162.86,9445.88,Epifanio Boix Ferreras,Ibarra
+223,2024-06-30,Calentador,Electrodomésticos,82,417.08,34200.56,Fabiola Gelabert Pinilla,Esmeraldas
+224,2024-11-09,Pintura Roja,Pinturas,83,330.85,27460.55,Jessica de Robledo,Quito
+225,2024-08-17,Cinta Métrica,Accesorios,85,33.99,2889.15,Camilo Sancho,Riobamba
+226,2024-04-11,Pintura Roja,Pinturas,52,403.32,20972.64,Manuel Cerro Jover,Cuenca
+227,2024-11-18,Pintura Verde,Pinturas,74,215.97,15981.78,Ricarda Sans Calderón,Esmeraldas
+228,2023-12-11,Arena,Construcción,43,216.01,9288.43,Ibán Polo Giralt,Esmeraldas
+229,2024-01-18,Alicates,Herramientas,53,188.96,10014.88,Melania Sáez Aznar,Ibarra
+230,2024-01-20,Destornillador,Herramientas,19,214.79,4081.01,José Barco Perales,Manta
+231,2024-08-27,Pintura Roja,Pinturas,21,451.62,9484.02,Juana de Roura,Loja
+232,2024-04-14,Tornillos,Accesorios,80,108.55,8684.0,Matías Ferreras Benito,Riobamba
+233,2024-07-21,Destornillador,Herramientas,42,174.1,7312.2,Chus Murcia Castillo,Portoviejo
+234,2024-09-01,Tornillos,Accesorios,10,297.52,2975.2,Eva Casas Dalmau,Ambato
+235,2024-03-06,Pintura Verde,Pinturas,17,472.51,8032.67,Elisa Malo Alberola,Ibarra
+236,2024-05-27,Clavos,Accesorios,6,297.89,1787.34,Cornelio Moreno Velasco,Cuenca
+237,2024-03-17,Cinta Métrica,Accesorios,21,341.27,7166.67,Toribio Galvez Iglesias,Ibarra
+238,2024-02-12,Cinta Métrica,Accesorios,44,466.34,20518.96,Bonifacio Escamilla Pardo,Portoviejo
+239,2024-09-19,Clavos,Accesorios,66,20.33,1341.78,Fanny Vallés Sosa,Manta
+240,2024-09-11,Arena,Construcción,50,166.51,8325.5,Evelia Cayetana Sotelo Galiano,Guayaquil
+241,2024-03-15,Aspiradora,Electrodomésticos,72,191.8,13809.6,Marcelino Cristóbal Bautista Cózar,Esmeraldas
+242,2023-12-28,Lámpara,Electrodomésticos,5,397.31,1986.55,Maribel Pombo Nuñez,Loja
+243,2024-11-11,Clavos,Accesorios,9,471.74,4245.66,Urbano Navarro Hidalgo,Riobamba
+244,2024-01-07,Pintura Blanca,Pinturas,1,194.04,194.04,Julia Cerezo Cortina,Cuenca
+245,2024-01-24,Grava,Construcción,89,81.0,7209.0,Malena Alsina Teruel,Loja
+246,2024-04-23,Tuberías,Accesorios,31,230.87,7156.97,Elisa de Ibañez,Ambato
+247,2023-12-03,Llave Inglesa,Herramientas,61,306.59,18701.99,Alcides Río Salmerón,Ibarra
+248,2024-04-23,Pintura Verde,Pinturas,34,49.25,1674.5,Francisco Solera Bosch,Ibarra
+249,2024-11-27,Martillo,Herramientas,67,162.11,10861.37,Cristian Borja Sánchez Solana,Quito
+250,2024-08-10,Clavos,Accesorios,79,388.34,30678.86,Amor Hervás Jaume,Quito
+251,2024-02-26,Llave Inglesa,Herramientas,59,106.93,6308.87,Elodia del Casals,Portoviejo
+252,2024-06-18,Taladro Eléctrico,Electrodomésticos,30,377.19,11315.7,Marianela Teresita Pedrosa Nieto,Loja
+253,2024-08-09,Cinta Métrica,Accesorios,85,65.48,5565.8,Maite Cardona Vizcaíno,Guayaquil
+254,2024-10-14,Cinta Métrica,Accesorios,86,33.04,2841.44,Ruy de Agustín,Cuenca
+255,2024-08-27,Aspiradora,Electrodomésticos,8,451.74,3613.92,Abraham Ribera,Riobamba
+256,2023-12-05,Grava,Construcción,71,402.22,28557.62,Juan Manuel Hoyos-Cuadrado,Loja
+257,2024-05-28,Alicates,Herramientas,35,299.32,10476.2,Lupe Montenegro,Ibarra
+258,2024-07-11,Ladrillos,Construcción,66,377.55,24918.3,Asdrubal Alonso Solana,Ibarra
+259,2024-04-09,Taladro,Herramientas,36,415.29,14950.44,Jose Luis Dalmau Cepeda,Cuenca
+260,2024-08-23,Pegamento,Accesorios,6,278.59,1671.54,Odalys Puga Cózar,Loja
+261,2024-01-27,Ladrillos,Construcción,3,96.39,289.17,Jesusa Elisa Batalla Suárez,Loja
+262,2024-08-12,Taladro Eléctrico,Electrodomésticos,50,39.08,1954.0,Maxi Seguí Cáceres,Riobamba
+263,2024-10-31,Tuberías,Accesorios,5,370.3,1851.5,Onofre Catalá Arregui,Ibarra
+264,2024-08-11,Martillo,Herramientas,39,356.43,13900.77,Crescencia Uriarte-Arnau,Loja
+265,2024-09-25,Pintura Roja,Pinturas,13,131.85,1714.05,José Ángel Sans Cerdán,Riobamba
+266,2024-02-07,Pintura Blanca,Pinturas,91,499.57,45460.87,José Mari Oliveras-Pinilla,Ambato
+267,2024-06-02,Tuberías,Accesorios,39,438.82,17113.98,Natividad Santamaría Quevedo,Guayaquil
+268,2024-04-03,Alicates,Herramientas,68,471.98,32094.64,José María Peiró Pablo,Manta
+269,2024-06-16,Taladro Eléctrico,Electrodomésticos,71,484.93,34430.03,Nuria Ferrán Fabra,Ibarra
+270,2024-02-29,Grava,Construcción,2,80.58,161.16,Tania Montes Malo,Portoviejo
+271,2024-02-16,Destornillador,Herramientas,58,128.19,7435.02,Rosa María de Riquelme,Esmeraldas
+272,2024-04-17,Ventilador,Electrodomésticos,92,417.58,38417.36,José Ortiz Jimenez,Guayaquil
+273,2024-09-10,Ventilador,Electrodomésticos,89,261.73,23293.97,Morena Ema Cuadrado Yuste,Quito
+274,2024-05-03,Clavos,Accesorios,6,96.17,577.02,Teodosio Fábregas Figueroa,Manta
+275,2024-10-10,Martillo,Herramientas,13,34.72,451.36,Mirta Guerra Osuna,Quito
+276,2024-05-03,Martillo,Herramientas,70,55.35,3874.5,Mónica Rovira Cabañas,Loja
+277,2024-08-31,Lámpara,Electrodomésticos,85,476.59,40510.15,Cristóbal Espinosa Infante,Ambato
+278,2024-10-02,Arena,Construcción,94,156.39,14700.66,Rosalina Torrijos-Araujo,Esmeraldas
+279,2024-09-20,Martillo,Herramientas,52,25.91,1347.32,Samu Cámara-Fuster,Cuenca
+280,2024-08-13,Calentador,Electrodomésticos,36,175.13,6304.68,Valentín Peiró Capdevila,Portoviejo
+281,2024-10-28,Llave Inglesa,Herramientas,82,158.04,12959.28,Reyna Azahara Rosa Porta,Esmeraldas
+282,2024-08-19,Aspiradora,Electrodomésticos,17,364.15,6190.55,Manola Barreda-Montes,Cuenca
+283,2024-09-09,Alicates,Herramientas,71,162.68,11550.28,Ramón del Cánovas,Ambato
+284,2024-07-14,Pintura Blanca,Pinturas,11,152.42,1676.62,Bernarda Tere Ferrera Barceló,Portoviejo
+285,2024-02-12,Alicates,Herramientas,96,382.43,36713.28,Cecilia Gargallo,Riobamba
+286,2024-03-04,Ventilador,Electrodomésticos,11,22.11,243.21,Chus Palau Mancebo,Quito
+287,2024-01-09,Pintura Azul,Pinturas,21,106.8,2242.8,Toño Juan Carlos Beltran Mancebo,Quito
+288,2024-08-26,Pintura Verde,Pinturas,26,306.65,7972.9,Ernesto Gallardo Atienza,Riobamba
+289,2024-06-10,Destornillador,Herramientas,69,173.84,11994.96,Amor Córdoba-Aragonés,Ambato
+290,2024-07-08,Cemento,Construcción,99,410.3,40619.7,Pascuala Zorrilla Valderrama,Cuenca
+291,2024-11-18,Lámpara,Electrodomésticos,69,316.18,21816.42,Olalla Fuente Cabello,Loja
+292,2024-03-28,Pintura Azul,Pinturas,4,289.6,1158.4,Concha Mur-Iglesia,Cuenca
+293,2024-01-16,Grava,Construcción,94,499.19,46923.86,Dani Ezequiel Pedraza Almeida,Portoviejo
+294,2023-12-11,Ladrillos,Construcción,96,474.86,45586.56,Artemio Giralt,Cuenca
+295,2024-03-26,Aspiradora,Electrodomésticos,31,81.09,2513.79,Violeta Montes Porcel,Guayaquil
+296,2024-06-29,Cemento,Construcción,59,344.75,20340.25,Diego Morell Boix,Guayaquil
+297,2024-09-16,Pintura Amarilla,Pinturas,47,272.76,12819.72,Lucía Hernando Juliá,Ibarra
+298,2024-04-13,Taladro,Herramientas,4,47.13,188.52,Chuy de Baños,Loja
+299,2024-11-22,Grava,Construcción,28,297.87,8340.36,Santos de Mayoral,Cuenca
+300,2024-07-09,Calentador,Electrodomésticos,40,80.09,3203.6,Kike Ariza-Sans,Loja
+301,2024-09-25,Pintura Azul,Pinturas,91,414.05,37678.55,Bárbara Yuste Arribas,Cuenca
+302,2024-08-03,Alicates,Herramientas,98,88.39,8662.22,Consuelo Rios-Diego,Riobamba
+303,2023-12-08,Taladro,Herramientas,40,326.71,13068.4,Elisa Iniesta Marí,Portoviejo
+304,2024-05-26,Tubos PVC,Construcción,26,281.87,7328.62,Alfonso Company Castejón,Riobamba
+305,2024-09-09,Cemento,Construcción,3,20.2,60.6,Olga Arce Figuerola,Portoviejo
+306,2024-05-17,Clavos,Accesorios,66,39.72,2621.52,Joan Diez-Suárez,Riobamba
+307,2024-01-10,Tornillos,Accesorios,88,133.48,11746.24,África del Catalá,Guayaquil
+308,2024-05-15,Cemento,Construcción,49,260.22,12750.78,Esperanza del Maestre,Quito
+309,2024-02-23,Tuberías,Accesorios,33,135.87,4483.71,Segismundo Pereira,Ambato
+310,2024-04-07,Pegamento,Accesorios,40,355.51,14220.4,Eutimio Muro Pinedo,Loja
+311,2024-03-13,Tubos PVC,Construcción,8,68.65,549.2,Ofelia del Niño,Loja
+312,2024-05-08,Llave Inglesa,Herramientas,19,427.62,8124.78,Florinda Lucas León,Esmeraldas
+313,2024-11-08,Cemento,Construcción,36,89.1,3207.6,Jordi del Bernal,Guayaquil
+314,2024-03-17,Calentador,Electrodomésticos,29,133.49,3871.21,María Campoy Mulet,Manta
+315,2024-04-11,Cemento,Construcción,53,301.05,15955.65,Margarita Uría Camacho,Loja
+316,2024-07-28,Tubos PVC,Construcción,36,44.99,1619.64,Amparo Lucena Osorio,Quito
+317,2024-03-26,Pegamento,Accesorios,9,305.95,2753.55,Ileana Bru,Loja
+318,2024-11-16,Lámpara,Electrodomésticos,19,232.06,4409.14,Jovita Beltran Busquets,Portoviejo
+319,2024-10-31,Taladro Eléctrico,Electrodomésticos,51,322.11,16427.61,Delfina Vega Carbonell,Esmeraldas
+320,2024-06-03,Tuberías,Accesorios,79,399.77,31581.83,Nazaret Borrás Vélez,Manta
+321,2024-07-06,Pintura Azul,Pinturas,43,303.53,13051.79,Luisa Pino,Ibarra
+322,2024-02-02,Destornillador,Herramientas,49,150.33,7366.17,Diana Castro Salas,Loja
+323,2024-06-10,Llave Inglesa,Herramientas,88,220.57,19410.16,Esmeralda de Urrutia,Loja
+324,2023-12-14,Taladro Eléctrico,Electrodomésticos,80,74.65,5972.0,Reyes Comas-Bermudez,Riobamba
+325,2024-02-21,Destornillador,Herramientas,19,336.81,6399.39,Esther Terrón Aller,Manta
+326,2024-07-12,Llave Inglesa,Herramientas,51,289.37,14757.87,Camilo Ríos Morillo,Manta
+327,2024-03-25,Alicates,Herramientas,83,8.36,693.88,Atilio Llano Moraleda,Ibarra
+328,2024-06-29,Cemento,Construcción,49,364.36,17853.64,Chema Vives Navarro,Cuenca
+329,2024-01-03,Taladro Eléctrico,Electrodomésticos,70,37.11,2597.7,Isaura Enríquez Espada,Ambato
+330,2024-05-27,Arena,Construcción,62,292.79,18152.98,Epifanio Gilberto Arenas Morell,Guayaquil
+331,2024-02-09,Lámpara,Electrodomésticos,61,457.29,27894.69,Graciano Valero Ávila,Portoviejo
+332,2023-12-30,Tornillos,Accesorios,52,334.8,17409.6,Martirio Cantero Lillo,Manta
+333,2024-03-03,Arena,Construcción,34,65.03,2211.02,Susanita Alba,Esmeraldas
+334,2024-11-05,Arena,Construcción,93,452.6,42091.8,Roque Orozco Arrieta,Manta
+335,2024-09-24,Pintura Amarilla,Pinturas,53,293.07,15532.71,Cintia Loreto Arana Oller,Guayaquil
+336,2023-12-26,Calentador,Electrodomésticos,29,289.18,8386.22,Maximiano Ciriaco Maestre Bautista,Cuenca
+337,2024-02-22,Tornillos,Accesorios,59,45.06,2658.54,Mirta Aurora Bru Cifuentes,Loja
+338,2024-10-12,Grava,Construcción,92,87.35,8036.2,Martirio Botella Espada,Loja
+339,2024-07-27,Lámpara,Electrodomésticos,22,417.8,9191.6,Alex Escamilla Porta,Ambato
+340,2024-01-16,Tornillos,Accesorios,70,190.53,13337.1,Teodosio Baró Luz,Manta
+341,2024-05-02,Taladro Eléctrico,Electrodomésticos,34,262.83,8936.22,Clarisa Sales Valbuena,Cuenca
+342,2024-07-25,Lámpara,Electrodomésticos,11,287.24,3159.64,Bautista Paniagua-Moreno,Portoviejo
+343,2024-11-09,Ladrillos,Construcción,48,386.99,18575.52,Baldomero del Castells,Guayaquil
+344,2024-06-22,Pegamento,Accesorios,82,433.45,35542.9,Melisa Torre Reguera,Quito
+345,2024-07-02,Pintura Amarilla,Pinturas,19,358.45,6810.55,Raúl Pelayo,Ibarra
+346,2024-05-03,Martillo,Herramientas,51,301.29,15365.79,Bonifacio Ambrosio Álamo Sevillano,Guayaquil
+347,2024-02-25,Tornillos,Accesorios,77,96.18,7405.86,Roque del Campo,Ibarra
+348,2023-12-18,Taladro,Herramientas,4,45.38,181.52,Loreto Figuerola Martin,Riobamba
+349,2024-05-05,Pegamento,Accesorios,96,308.24,29591.04,Vito Izquierdo Cerro,Riobamba
+350,2024-04-02,Grava,Construcción,88,261.58,23019.04,Pacífica Pastor Becerra,Portoviejo
+351,2024-06-29,Pintura Azul,Pinturas,37,370.71,13716.27,Saturnina Morata Alcolea,Guayaquil
+352,2024-07-11,Pintura Verde,Pinturas,12,149.18,1790.16,Jaime Arteaga Casas,Portoviejo
+353,2024-07-10,Pintura Blanca,Pinturas,14,364.65,5105.1,Benigna Ródenas Córdoba,Guayaquil
+354,2024-04-07,Calentador,Electrodomésticos,14,368.7,5161.8,Calisto Redondo Badía,Riobamba
+355,2024-04-06,Tubos PVC,Construcción,55,341.87,18802.85,Isabel de Cid,Manta
+356,2024-01-09,Cinta Métrica,Accesorios,30,352.21,10566.3,Ramiro Acero Carreño,Ibarra
+357,2024-02-01,Grava,Construcción,49,251.67,12331.83,Tristán Aliaga Izquierdo,Ibarra
+358,2023-12-05,Cinta Métrica,Accesorios,22,411.33,9049.26,Hortensia Mascaró Gomis,Quito
+359,2024-05-02,Alicates,Herramientas,68,446.61,30369.48,Oriana Leal Cuevas,Ibarra
+360,2024-10-31,Aspiradora,Electrodomésticos,58,287.17,16655.86,Leonardo Graciano Bello Miguel,Guayaquil
+361,2024-07-01,Pintura Azul,Pinturas,93,192.22,17876.46,Rufina Lucila Terrón Valdés,Riobamba
+362,2024-09-15,Tornillos,Accesorios,29,171.69,4979.01,Lupe Epifanio Reina Yáñez,Manta
+363,2024-02-28,Alicates,Herramientas,20,228.39,4567.8,Adalberto Cueto,Portoviejo
+364,2024-08-23,Tornillos,Accesorios,76,192.49,14629.24,Adoración Vilaplana Suarez,Esmeraldas
+365,2024-07-09,Cinta Métrica,Accesorios,92,369.42,33986.64,Íñigo Huguet Sandoval,Portoviejo
+366,2024-09-04,Tubos PVC,Construcción,90,374.19,33677.1,Manu Álamo Campoy,Loja
+367,2024-01-29,Llave Inglesa,Herramientas,89,330.8,29441.2,Ramona Araujo Marí,Ambato
+368,2023-12-15,Ladrillos,Construcción,10,407.57,4075.7,Efraín Juanito Nebot Fonseca,Cuenca
+369,2024-03-10,Pintura Blanca,Pinturas,79,380.45,30055.55,Victor Manuel Torre,Riobamba
+370,2024-03-24,Pintura Roja,Pinturas,71,345.18,24507.78,Lupe del Molina,Loja
+371,2024-06-15,Arena,Construcción,98,271.1,26567.8,Paulino Almagro Borrego,Esmeraldas
+372,2024-03-02,Tubos PVC,Construcción,51,138.26,7051.26,Jordana Martín Cabo,Esmeraldas
+373,2024-08-16,Lámpara,Electrodomésticos,5,244.86,1224.3,Candelas Gallo Chacón,Manta
+374,2024-01-18,Cinta Métrica,Accesorios,36,133.37,4801.32,Florentino del Gomez,Ibarra
+375,2024-10-09,Tornillos,Accesorios,79,306.81,24237.99,Jose Mendez Vilaplana,Portoviejo
+376,2024-03-14,Clavos,Accesorios,32,311.18,9957.76,Flor Camino Porta,Quito
+377,2024-10-18,Ventilador,Electrodomésticos,78,210.04,16383.12,Gerónimo Zorrilla Figueroa,Loja
+378,2024-03-06,Arena,Construcción,53,216.76,11488.28,Lilia del Torrijos,Riobamba
+379,2023-12-25,Aspiradora,Electrodomésticos,47,20.2,949.4,Azahara Quirós Tamayo,Quito
+380,2024-06-24,Pintura Blanca,Pinturas,32,368.27,11784.64,Amador Toledo Escalona,Ibarra
+381,2024-03-25,Pintura Azul,Pinturas,5,419.88,2099.4,Roque Costa Vara,Portoviejo
+382,2024-01-15,Tuberías,Accesorios,30,127.86,3835.8,Cruz Laguna Cuenca,Loja
+383,2024-06-21,Ventilador,Electrodomésticos,22,370.31,8146.82,Urbano Belda Gras,Ibarra
+384,2024-03-24,Arena,Construcción,59,289.82,17099.38,Julia Mateu Vigil,Portoviejo
+385,2024-10-26,Clavos,Accesorios,93,297.35,27653.55,Ainara de Soto,Loja
+386,2024-09-16,Cemento,Construcción,96,254.39,24421.44,Teodora Marcia Ariño Zamora,Guayaquil
+387,2024-07-01,Pintura Verde,Pinturas,1,107.94,107.94,Olimpia del Montserrat,Ibarra
+388,2024-11-20,Taladro Eléctrico,Electrodomésticos,80,92.29,7383.2,Edmundo Corral Alcalde,Ambato
+389,2024-04-01,Destornillador,Herramientas,47,194.28,9131.16,Ale Vizcaíno Azcona,Ambato
+390,2024-03-12,Ladrillos,Construcción,75,282.97,21222.75,Salud Poza Andreu,Loja
+391,2024-09-07,Pintura Amarilla,Pinturas,52,298.54,15524.08,Joan Sarmiento Iborra,Ambato
+392,2024-06-04,Clavos,Accesorios,1,161.37,161.37,Jordán Solís Maza,Quito
+393,2024-01-05,Clavos,Accesorios,27,164.38,4438.26,Dorotea Noguera Calatayud,Riobamba
+394,2024-03-20,Lámpara,Electrodomésticos,29,37.08,1075.32,Ricarda de Girón,Portoviejo
+395,2024-06-09,Pintura Roja,Pinturas,32,67.52,2160.64,Iris Maura Valdés Amaya,Guayaquil
+396,2024-10-08,Alicates,Herramientas,95,208.15,19774.25,Emiliana Florencia Ochoa Madrigal,Loja
+397,2024-06-15,Lámpara,Electrodomésticos,60,191.26,11475.6,Lola Gordillo Bermejo,Ambato
+398,2024-01-23,Destornillador,Herramientas,64,274.91,17594.24,Tomasa Fuertes Mir,Manta
+399,2024-01-28,Calentador,Electrodomésticos,72,241.58,17393.76,Octavio Agullo Arnau,Esmeraldas
+400,2024-03-27,Cemento,Construcción,8,49.2,393.6,Abraham de Madrid,Manta
+401,2024-07-27,Cemento,Construcción,4,53.22,212.88,Marcelino Ballesteros Guardiola,Cuenca
+402,2024-05-18,Pintura Verde,Pinturas,61,318.39,19421.79,Victoria Sotelo Manrique,Guayaquil
+403,2024-11-14,Ladrillos,Construcción,85,76.57,6508.45,Iván de Cárdenas,Cuenca
+404,2024-05-02,Cemento,Construcción,32,90.59,2898.88,Moisés Morales Ibarra,Ibarra
+405,2024-07-10,Pintura Blanca,Pinturas,91,155.04,14108.64,Leonel Figuerola Núñez,Ambato
+406,2024-06-29,Calentador,Electrodomésticos,80,489.97,39197.6,Martin Villaverde-Barbero,Loja
+407,2024-01-17,Taladro Eléctrico,Electrodomésticos,54,387.77,20939.58,Espiridión Leonel Pavón Conde,Riobamba
+408,2024-03-23,Destornillador,Herramientas,2,89.54,179.08,Oriana Bayón Gárate,Loja
+409,2023-12-11,Pintura Amarilla,Pinturas,18,247.06,4447.08,Narciso Salinas Castejón,Cuenca
+410,2024-02-05,Cemento,Construcción,66,499.48,32965.68,Vasco de Cañete,Manta
+411,2024-08-21,Pintura Verde,Pinturas,26,397.64,10338.64,Azahara Cabrera Diego,Esmeraldas
+412,2024-05-13,Grava,Construcción,46,340.84,15678.64,Santiago Serrano Gutierrez,Loja
+413,2024-08-23,Ventilador,Electrodomésticos,44,192.51,8470.44,Lina Alvarado Bermúdez,Ibarra
+414,2024-08-06,Cemento,Construcción,38,180.54,6860.52,Mónica Cobos Guerrero,Ambato
+415,2024-11-06,Taladro,Herramientas,73,264.1,19279.3,Tere Baena-Hurtado,Guayaquil
+416,2024-10-23,Pintura Verde,Pinturas,75,27.16,2037.0,Dorita Rueda Carrillo,Guayaquil
+417,2024-03-14,Clavos,Accesorios,82,432.8,35489.6,Luis Ángel Martínez-Samper,Ambato
+418,2024-06-28,Pintura Roja,Pinturas,11,323.74,3561.14,Alex Torralba-Ferrández,Ambato
+419,2024-03-12,Cinta Métrica,Accesorios,89,185.94,16548.66,Cruz Lucila Portillo Gargallo,Guayaquil
+420,2024-02-10,Arena,Construcción,90,365.14,32862.6,Patricia Urrutia Priego,Manta
+421,2024-06-13,Clavos,Accesorios,24,212.48,5099.52,Fidela Casandra Esparza Caballero,Loja
+422,2024-01-03,Taladro Eléctrico,Electrodomésticos,62,216.99,13453.38,Fidela Azcona Domingo,Ambato
+423,2023-12-11,Lámpara,Electrodomésticos,27,54.66,1475.82,Jaime Zabaleta-Roman,Guayaquil
+424,2024-07-13,Tuberías,Accesorios,51,97.39,4966.89,Josep Gutierrez Gómez,Esmeraldas
+425,2024-03-25,Ladrillos,Construcción,54,271.29,14649.66,Eusebia del Ugarte,Portoviejo
+426,2024-11-23,Destornillador,Herramientas,20,431.55,8631.0,Florinda Escamilla Mínguez,Ambato
+427,2024-08-28,Taladro,Herramientas,28,105.01,2940.28,Emiliano Palmer Calderón,Esmeraldas
+428,2024-10-18,Llave Inglesa,Herramientas,75,226.3,16972.5,Charo Rosales Calzada,Manta
+429,2024-11-28,Grava,Construcción,20,412.41,8248.2,Sosimo Llamas,Cuenca
+430,2024-09-13,Cemento,Construcción,26,313.12,8141.12,Asunción Pi Palomares,Ibarra
+431,2024-04-29,Cinta Métrica,Accesorios,39,212.09,8271.51,Merche de Iborra,Ambato
+432,2024-02-02,Alicates,Herramientas,75,299.41,22455.75,Carlota de Nadal,Ambato
+433,2024-03-30,Taladro,Herramientas,90,26.89,2420.1,Carlos Carlos Segura,Loja
+434,2024-05-25,Tuberías,Accesorios,27,373.56,10086.12,Primitiva Páez Castro,Riobamba
+435,2024-09-19,Ventilador,Electrodomésticos,35,102.56,3589.6,Anabel Pino,Cuenca
+436,2024-08-05,Tuberías,Accesorios,34,58.22,1979.48,Isaac Molins Blanch,Manta
+437,2024-11-07,Taladro Eléctrico,Electrodomésticos,30,341.59,10247.7,Saturnino Cuenca Morales,Ambato
+438,2024-08-31,Pintura Roja,Pinturas,59,200.76,11844.84,Armando Pol Ortuño,Cuenca
+439,2023-12-22,Pintura Amarilla,Pinturas,78,250.18,19514.04,Jafet Borja Carnero,Quito
+440,2024-02-18,Taladro,Herramientas,82,189.93,15574.26,Anunciación del Alsina,Riobamba
+441,2024-08-10,Tuberías,Accesorios,24,8.72,209.28,Encarnacion Amador Reyes,Portoviejo
+442,2024-11-21,Grava,Construcción,74,389.0,28786.0,Aureliano Cuesta Nadal,Quito
+443,2024-04-23,Llave Inglesa,Herramientas,11,452.97,4982.67,María Manuela Torrents Caro,Esmeraldas
+444,2024-10-28,Lámpara,Electrodomésticos,98,447.89,43893.22,Eva Tomasa Sanjuan Rivas,Ambato
+445,2024-04-01,Calentador,Electrodomésticos,61,413.86,25245.46,Sebastian Guardia Sabater,Portoviejo
+446,2024-01-08,Pegamento,Accesorios,4,267.97,1071.88,Isa Santana Portillo,Manta
+447,2024-05-01,Tornillos,Accesorios,73,488.33,35648.09,Remedios Cazorla Montero,Cuenca
+448,2024-09-19,Pintura Azul,Pinturas,94,224.76,21127.44,Dalila Ferrero Guerrero,Riobamba
+449,2024-02-22,Alicates,Herramientas,52,259.96,13517.92,Che Raya Morera,Quito
+450,2024-08-22,Tuberías,Accesorios,90,182.7,16443.0,Filomena Castillo,Portoviejo
+451,2024-01-03,Cemento,Construcción,90,274.72,24724.8,Chus del Rios,Ibarra
+452,2024-11-13,Ventilador,Electrodomésticos,16,21.92,350.72,Encarna Cueto-Quiroga,Esmeraldas
+453,2024-10-29,Pintura Amarilla,Pinturas,17,204.49,3476.33,Sebastian Múgica Cepeda,Ibarra
+454,2024-05-06,Martillo,Herramientas,56,213.88,11977.28,Eufemia de Manrique,Esmeraldas
+455,2024-11-05,Pegamento,Accesorios,28,486.88,13632.64,Vito Pallarès Gonzalez,Ambato
+456,2024-10-13,Grava,Construcción,80,18.89,1511.2,Néstor Mohamed Matas Soto,Ibarra
+457,2023-12-17,Martillo,Herramientas,71,36.15,2566.65,Ciriaco Miranda-Belda,Riobamba
+458,2024-05-24,Aspiradora,Electrodomésticos,72,371.99,26783.28,Azahara Roman Gomila,Ambato
+459,2024-03-27,Tubos PVC,Construcción,76,63.93,4858.68,Román Padilla Villalonga,Ambato
+460,2024-02-10,Grava,Construcción,79,243.35,19224.65,Moisés Anacleto Verdejo Lillo,Cuenca
+461,2024-06-12,Ventilador,Electrodomésticos,50,166.06,8303.0,Leonel Quiroga Zamorano,Ibarra
+462,2024-05-22,Pintura Amarilla,Pinturas,28,338.5,9478.0,Baldomero Pío Expósito Gilabert,Quito
+463,2024-08-21,Ventilador,Electrodomésticos,27,5.51,148.77,Gala de Tomás,Cuenca
+464,2024-05-02,Ventilador,Electrodomésticos,83,134.57,11169.31,Macario de Recio,Loja
+465,2024-07-15,Ladrillos,Construcción,12,82.44,989.28,Nélida Barrera Villalba,Cuenca
+466,2024-01-26,Cemento,Construcción,21,233.04,4893.84,Martina Isern Peñas,Cuenca
+467,2024-03-06,Cemento,Construcción,77,374.06,28802.62,Tiburcio Jover Pera,Quito
+468,2023-12-30,Lámpara,Electrodomésticos,98,262.41,25716.18,Alma Mariño Fuster,Ibarra
+469,2024-08-11,Calentador,Electrodomésticos,80,320.2,25616.0,José María Maximiliano Moya Serrano,Guayaquil
+470,2024-06-25,Alicates,Herramientas,96,151.65,14558.4,Jacinto Echevarría-Carrión,Manta
+471,2024-07-29,Cinta Métrica,Accesorios,47,426.26,20034.22,María Pilar Niño Tomas,Riobamba
+472,2024-06-30,Alicates,Herramientas,34,174.3,5926.2,Mónica Tejero,Ambato
+473,2024-08-17,Clavos,Accesorios,47,34.22,1608.34,Ariadna Bertrán Alcalde,Quito
+474,2023-12-06,Alicates,Herramientas,39,38.53,1502.67,Benigna Serrano Barroso,Loja
+475,2024-03-31,Cemento,Construcción,22,397.14,8737.08,Teodoro Casanovas Carreras,Esmeraldas
+476,2024-10-25,Cinta Métrica,Accesorios,22,193.78,4263.16,Jovita Benitez Moliner,Portoviejo
+477,2024-11-04,Alicates,Herramientas,10,85.4,854.0,Águeda Marco,Guayaquil
+478,2024-04-02,Pegamento,Accesorios,28,259.13,7255.64,Lalo Ochoa Mayo,Cuenca
+479,2024-08-01,Alicates,Herramientas,13,436.03,5668.39,Vicente Pol Hoyos,Quito
+480,2024-03-12,Calentador,Electrodomésticos,54,441.57,23844.78,Adelardo Berenguer,Esmeraldas
+481,2024-11-26,Taladro,Herramientas,45,375.45,16895.25,Buenaventura Pedraza Valdés,Ambato
+482,2024-01-09,Pintura Roja,Pinturas,28,347.66,9734.48,Cándido Lerma Pedrosa,Guayaquil
+483,2024-10-21,Cemento,Construcción,15,290.19,4352.85,Eutropio de Girona,Ambato
+484,2023-12-29,Taladro Eléctrico,Electrodomésticos,81,167.55,13571.55,Manuelita Peláez,Manta
+485,2024-02-24,Pintura Blanca,Pinturas,6,148.18,889.08,Marita Aurora Guardiola Jáuregui,Ambato
+486,2024-10-12,Clavos,Accesorios,17,230.09,3911.53,Manola Casanova Vera,Riobamba
+487,2024-07-23,Taladro Eléctrico,Electrodomésticos,19,420.11,7982.09,Federico Barberá Alemán,Manta
+488,2024-03-07,Pintura Blanca,Pinturas,44,15.45,679.8,Eusebia Hoyos Pavón,Riobamba
+489,2024-11-27,Taladro Eléctrico,Electrodomésticos,63,241.74,15229.62,Julio Ordóñez-Ángel,Cuenca
+490,2024-10-23,Pintura Roja,Pinturas,54,276.84,14949.36,Carmela Benito-Sarabia,Ambato
+491,2024-06-27,Alicates,Herramientas,58,182.93,10609.94,Francisco del Silva,Quito
+492,2024-04-29,Grava,Construcción,85,92.4,7854.0,Baldomero Vinicio Cuadrado Zapata,Cuenca
+493,2024-10-04,Clavos,Accesorios,59,455.42,26869.78,Cornelio Fernandez Marti,Cuenca
+494,2024-04-20,Pintura Amarilla,Pinturas,42,320.47,13459.74,Jose Ramón Sanmiguel Paniagua,Portoviejo
+495,2023-12-20,Pintura Amarilla,Pinturas,46,1.56,71.76,Dulce Alvarado-Collado,Riobamba
+496,2024-03-10,Tubos PVC,Construcción,22,383.46,8436.12,Loreto Moles Posada,Ibarra
+497,2024-06-20,Clavos,Accesorios,29,328.63,9530.27,Ester de Sans,Riobamba
+498,2024-07-03,Pegamento,Accesorios,83,9.18,761.94,Víctor Barreda Tamarit,Esmeraldas
+499,2024-04-04,Pintura Blanca,Pinturas,68,355.99,24207.32,Reyes Arana Lamas,Riobamba
+500,2024-10-12,Ventilador,Electrodomésticos,18,127.92,2302.56,Azucena Aramburu Navarro,Portoviejo
+501,2024-06-06,Alicates,Herramientas,2,328.25,656.5,Valeria Llano Tirado,Ibarra
+502,2024-11-23,Arena,Construcción,42,58.7,2465.4,Arturo Menéndez-Bravo,Ibarra
+503,2024-09-14,Tuberías,Accesorios,25,25.66,641.5,Armando Vendrell Bonilla,Riobamba
+504,2024-10-21,Grava,Construcción,73,146.31,10680.63,Josué Vall-Ricart,Portoviejo
+505,2024-03-28,Ventilador,Electrodomésticos,33,179.13,5911.29,Félix Gordillo Machado,Ibarra
+506,2024-11-07,Tuberías,Accesorios,76,354.99,26979.24,Benigna Lara Moreno,Portoviejo
+507,2024-03-01,Clavos,Accesorios,10,94.6,946.0,Omar Castrillo Carreras,Cuenca
+508,2024-01-24,Grava,Construcción,34,236.09,8027.06,Lalo Fernández-Blasco,Ambato
+509,2024-04-09,Pintura Amarilla,Pinturas,26,458.18,11912.68,Olga Palacios Bayona,Guayaquil
+510,2024-10-30,Ladrillos,Construcción,67,123.52,8275.84,Adora de Cañellas,Manta
+511,2024-04-24,Aspiradora,Electrodomésticos,7,159.34,1115.38,Lázaro Guijarro Amorós,Ibarra
+512,2024-06-14,Tubos PVC,Construcción,17,395.36,6721.12,Esteban Mena Chaves,Manta
+513,2024-03-16,Arena,Construcción,23,8.18,188.14,Perla Madrigal-Salazar,Quito
+514,2024-07-21,Llave Inglesa,Herramientas,60,179.98,10798.8,Ildefonso Bermejo Arnal,Guayaquil
+515,2024-09-24,Cemento,Construcción,8,117.55,940.4,Nacio Varela Iriarte,Loja
+516,2024-02-14,Pintura Blanca,Pinturas,89,237.61,21147.29,Marino Baeza Blanch,Cuenca
+517,2024-02-12,Ladrillos,Construcción,27,153.53,4145.31,María Luisa Morera Portillo,Portoviejo
+518,2024-09-13,Martillo,Herramientas,70,183.29,12830.3,Desiderio Aramburu Botella,Riobamba
+519,2024-02-20,Lámpara,Electrodomésticos,42,41.68,1750.56,Diana Torre Valenciano,Riobamba
+520,2024-04-12,Taladro Eléctrico,Electrodomésticos,50,462.98,23149.0,Valentín Puig Moles,Guayaquil
+521,2024-09-29,Alicates,Herramientas,21,238.23,5002.83,Belén Conesa-Pinto,Ambato
+522,2024-10-03,Taladro,Herramientas,27,108.79,2937.33,Josué del Matas,Ambato
+523,2024-09-09,Martillo,Herramientas,43,181.17,7790.31,Cleto Cerezo Camino,Manta
+524,2024-02-06,Alicates,Herramientas,67,264.23,17703.41,Eva María Abril Frutos Ojeda,Loja
+525,2023-12-17,Aspiradora,Electrodomésticos,74,118.54,8771.96,Gilberto Zurita Torres,Guayaquil
+526,2024-07-05,Pintura Amarilla,Pinturas,14,476.5,6671.0,Dominga Vilalta Guerrero,Manta
+527,2023-12-17,Lámpara,Electrodomésticos,83,101.1,8391.3,Francisco Jose Uría,Ambato
+528,2023-12-15,Pintura Blanca,Pinturas,31,288.74,8950.94,Berta Vidal Ferrán,Cuenca
+529,2024-08-19,Tornillos,Accesorios,97,286.82,27821.54,Hector Abilio Lara Medina,Guayaquil
+530,2024-01-10,Grava,Construcción,54,162.62,8781.48,Tatiana Gomez Aroca,Ambato
+531,2024-05-07,Taladro Eléctrico,Electrodomésticos,33,341.32,11263.56,Ainoa Múgica Mena,Cuenca
+532,2024-02-06,Pegamento,Accesorios,67,332.04,22246.68,Íñigo Galan Saavedra,Loja
+533,2024-10-30,Cinta Métrica,Accesorios,55,379.41,20867.55,Eduardo Mate Bayo,Quito
+534,2024-03-21,Ladrillos,Construcción,76,472.99,35947.24,Clara Candelas Pol Vall,Riobamba
+535,2024-02-01,Alicates,Herramientas,11,113.38,1247.18,María Pilar Ugarte Cabrera,Quito
+536,2024-05-12,Pintura Verde,Pinturas,52,87.31,4540.12,Candelaria Lobo,Portoviejo
+537,2024-11-23,Clavos,Accesorios,32,302.4,9676.8,Haroldo del Castelló,Loja
+538,2024-08-26,Pintura Roja,Pinturas,50,177.17,8858.5,Víctor Morata Moles,Ibarra
+539,2023-12-05,Alicates,Herramientas,23,254.27,5848.21,Miguel Ángel Castejón Riba,Loja
+540,2024-02-24,Pegamento,Accesorios,2,81.55,163.1,Jordi Pallarès Doménech,Loja
+541,2024-04-06,Destornillador,Herramientas,13,235.1,3056.3,Arsenio Amador Escolano Campo,Quito
+542,2024-03-29,Pintura Azul,Pinturas,78,415.01,32370.78,Jenny Cerdá Maza,Manta
+543,2024-03-25,Pintura Azul,Pinturas,58,258.33,14983.14,Urbano Mascaró-Valenzuela,Ibarra
+544,2024-05-18,Pintura Blanca,Pinturas,47,110.69,5202.43,Yésica Company Salgado,Quito
+545,2024-08-15,Cemento,Construcción,74,411.77,30470.98,Alcides Bilbao-Carrillo,Portoviejo
+546,2024-06-27,Ladrillos,Construcción,81,14.4,1166.4,Custodio Benavente Pardo,Manta
+547,2024-11-20,Pintura Verde,Pinturas,66,76.1,5022.6,Luís del Ros,Guayaquil
+548,2024-08-09,Arena,Construcción,96,357.82,34350.72,Maribel Vélez Cano,Manta
+549,2024-10-10,Taladro,Herramientas,59,10.43,615.37,Jonatan Reyes Fabregat,Ambato
+550,2023-12-08,Taladro,Herramientas,8,336.96,2695.68,Concha Tormo Varela,Manta
+551,2024-06-28,Pintura Amarilla,Pinturas,91,165.83,15090.53,Sofía del Fuster,Quito
+552,2024-05-26,Tuberías,Accesorios,58,198.94,11538.52,Andrés Felipe Alemany Plana,Portoviejo
+553,2024-07-10,Llave Inglesa,Herramientas,64,268.66,17194.24,Encarna Miranda Gallart,Esmeraldas
+554,2024-11-09,Lámpara,Electrodomésticos,55,328.11,18046.05,Matías Herrero Menéndez,Portoviejo
+555,2024-04-28,Pintura Blanca,Pinturas,36,495.0,17820.0,Pío Godoy-Montserrat,Esmeraldas
+556,2024-11-15,Cemento,Construcción,54,94.34,5094.36,Edelmiro Amigó Morata,Ibarra
+557,2024-08-14,Pintura Blanca,Pinturas,71,452.88,32154.48,Noa Ferrándiz Iglesias,Cuenca
+558,2024-03-06,Tubos PVC,Construcción,65,299.59,19473.35,Rolando del Zorrilla,Esmeraldas
+559,2024-11-19,Ventilador,Electrodomésticos,54,25.54,1379.16,Josefa Maite Codina Pelayo,Ibarra
+560,2024-03-13,Pintura Blanca,Pinturas,100,66.94,6694.0,Rosalva Pallarès-Guerra,Cuenca
+561,2024-11-09,Ladrillos,Construcción,57,415.43,23679.51,Raquel del Expósito,Manta
+562,2024-09-10,Destornillador,Herramientas,71,39.5,2804.5,Jerónimo Lillo Folch,Ambato
+563,2024-05-28,Tubos PVC,Construcción,52,2.43,126.36,Danilo Tamayo Botella,Guayaquil
+564,2023-12-06,Llave Inglesa,Herramientas,81,159.27,12900.87,Inocencio Manso Cobo,Esmeraldas
+565,2024-04-09,Cemento,Construcción,79,252.63,19957.77,Obdulia Torre Lobo,Portoviejo
+566,2024-08-28,Pintura Roja,Pinturas,61,368.4,22472.4,Darío Vasco Codina Miralles,Cuenca
+567,2024-07-23,Pintura Roja,Pinturas,29,316.71,9184.59,Francisca Barreda Olivé,Ambato
+568,2024-02-07,Alicates,Herramientas,16,83.9,1342.4,Mauricio Ferreras Franco,Esmeraldas
+569,2024-02-02,Tornillos,Accesorios,93,484.57,45065.01,Ignacia Bastida Vera,Quito
+570,2024-03-07,Llave Inglesa,Herramientas,42,469.18,19705.56,Bienvenida Carballo Peñalver,Esmeraldas
+571,2024-10-25,Arena,Construcción,94,290.1,27269.4,Feliciano Calderón,Guayaquil
+572,2024-07-25,Calentador,Electrodomésticos,93,205.08,19072.44,Vito Alvarez Perez,Esmeraldas
+573,2024-05-15,Clavos,Accesorios,26,254.52,6617.52,Anastasio del Cifuentes,Esmeraldas
+574,2024-06-05,Taladro Eléctrico,Electrodomésticos,93,434.02,40363.86,Paula Casado Vilar,Manta
+575,2024-09-01,Pintura Verde,Pinturas,61,40.33,2460.13,Teresa de Morán,Portoviejo
+576,2024-08-21,Tubos PVC,Construcción,80,480.92,38473.6,Perlita Jaén,Guayaquil
+577,2024-07-18,Cemento,Construcción,88,417.1,36704.8,Lara Eugenia Fernández Cuadrado,Riobamba
+578,2024-09-04,Calentador,Electrodomésticos,31,405.02,12555.62,Reina de Bautista,Ibarra
+579,2024-07-03,Llave Inglesa,Herramientas,8,428.05,3424.4,Alex Solsona Almeida,Portoviejo
+580,2024-07-02,Pintura Blanca,Pinturas,36,124.9,4496.4,Catalina Cadenas Mir,Ambato
+581,2024-07-12,Ventilador,Electrodomésticos,58,486.15,28196.7,Benito Miguel Ángel Morán Capdevila,Cuenca
+582,2024-06-14,Tuberías,Accesorios,61,166.6,10162.6,Sarita Berenguer,Portoviejo
+583,2024-06-19,Llave Inglesa,Herramientas,61,94.2,5746.2,Juan Bautista de Vilaplana,Quito
+584,2024-09-25,Martillo,Herramientas,100,429.69,42969.0,Noemí Grande Alvarez,Cuenca
+585,2024-10-10,Alicates,Herramientas,10,224.53,2245.3,Beatriz Virginia Lamas Tejada,Quito
+586,2024-07-26,Cemento,Construcción,86,76.26,6558.36,Felicia Campillo,Ibarra
+587,2024-07-01,Ventilador,Electrodomésticos,10,35.08,350.8,Emperatriz Dominga Hurtado Rius,Ambato
+588,2024-10-27,Pintura Blanca,Pinturas,68,404.34,27495.12,Hector Arjona-Torre,Cuenca
+589,2024-11-25,Grava,Construcción,25,60.73,1518.25,Goyo del Prado,Riobamba
+590,2024-10-18,Calentador,Electrodomésticos,27,458.23,12372.21,Amancio Rico Viñas,Manta
+591,2024-11-05,Alicates,Herramientas,70,174.67,12226.9,Danilo Gómez Pereira,Riobamba
+592,2024-02-02,Tornillos,Accesorios,23,17.75,408.25,Ezequiel Pujadas-Priego,Loja
+593,2024-06-12,Tornillos,Accesorios,90,451.47,40632.3,Ema Alcolea,Guayaquil
+594,2024-07-10,Clavos,Accesorios,39,476.04,18565.56,Joaquín Capdevila Fábregas,Manta
+595,2023-12-27,Ladrillos,Construcción,20,144.58,2891.6,Arsenio Victor Manuel Crespo Quirós,Manta
+596,2024-11-14,Taladro,Herramientas,70,429.07,30034.9,Maribel Valdés-Tena,Portoviejo
+597,2024-07-12,Cinta Métrica,Accesorios,43,364.14,15658.02,Prudencio Gonzalo Huguet,Quito
+598,2023-12-12,Ventilador,Electrodomésticos,25,94.04,2351.0,Reina Samper Segura,Ambato
+599,2024-02-19,Llave Inglesa,Herramientas,49,2.98,146.02,José Rómulo Cañizares Casal,Esmeraldas
+600,2024-06-28,Aspiradora,Electrodomésticos,22,223.98,4927.56,Lara Roma Pujadas,Quito
+601,2024-04-13,Cemento,Construcción,5,314.31,1571.55,Quique Pujol-Laguna,Guayaquil
+602,2024-01-26,Taladro Eléctrico,Electrodomésticos,92,106.59,9806.28,Francisca de Canales,Manta
+603,2024-03-26,Martillo,Herramientas,68,254.44,17301.92,Pancho Gaya-Ferreras,Loja
+604,2024-10-28,Pintura Verde,Pinturas,88,465.83,40993.04,Arcelia Albero Antúnez,Riobamba
+605,2024-10-11,Tornillos,Accesorios,42,111.6,4687.2,Fidela Casado Clavero,Quito
+606,2023-12-18,Grava,Construcción,2,78.78,157.56,Dominga del Alemany,Quito
+607,2024-05-09,Tuberías,Accesorios,42,475.12,19955.04,Prudencio del Vaquero,Manta
+608,2024-03-19,Aspiradora,Electrodomésticos,9,252.9,2276.1,Chema Vargas Jiménez,Loja
+609,2024-06-14,Pintura Roja,Pinturas,74,335.16,24801.84,Joan Noguera,Ambato
+610,2024-06-26,Lámpara,Electrodomésticos,70,489.22,34245.4,Sabas de Piquer,Ibarra
+611,2024-04-10,Taladro,Herramientas,66,476.8,31468.8,Rosenda Escobar,Quito
+612,2024-08-13,Calentador,Electrodomésticos,12,251.95,3023.4,Aura Bello Zabala,Manta
+613,2024-01-03,Tornillos,Accesorios,74,234.07,17321.18,Quirino Ferrándiz Castañeda,Riobamba
+614,2024-08-10,Pintura Roja,Pinturas,34,142.6,4848.4,Julio César Zabaleta,Portoviejo
+615,2024-01-19,Pintura Blanca,Pinturas,11,359.46,3954.06,Juliana Paniagua-Pacheco,Guayaquil
+616,2024-09-23,Arena,Construcción,64,305.77,19569.28,Bruno Puente Bermejo,Esmeraldas
+617,2024-06-01,Ladrillos,Construcción,89,493.33,43906.37,Trini Calvet-Segura,Loja
+618,2024-02-24,Tuberías,Accesorios,4,205.11,820.44,Guadalupe Macías Dueñas,Portoviejo
+619,2024-04-02,Tubos PVC,Construcción,17,203.1,3452.7,Mirta Mesa,Portoviejo
+620,2024-04-10,Arena,Construcción,43,314.01,13502.43,Amado Flor Falcó,Guayaquil
+621,2024-01-04,Ventilador,Electrodomésticos,23,323.26,7434.98,Jennifer Santamaría Fajardo,Cuenca
+622,2023-12-29,Tuberías,Accesorios,89,303.96,27052.44,Andrés Felipe Naranjo Miranda,Ambato
+623,2024-10-22,Ladrillos,Construcción,7,125.86,881.02,Tomás de Prieto,Riobamba
+624,2024-08-01,Clavos,Accesorios,74,262.61,19433.14,Tito Aparicio Ávila,Cuenca
+625,2024-01-11,Pintura Azul,Pinturas,80,462.8,37024.0,Eutropio Raúl Lumbreras Vicens,Cuenca
+626,2024-08-30,Llave Inglesa,Herramientas,24,415.55,9973.2,Daniela Tovar Amor,Ambato
+627,2024-05-07,Arena,Construcción,6,345.32,2071.92,Marino Simó Alsina,Cuenca
+628,2023-12-16,Pintura Verde,Pinturas,63,315.98,19906.74,Eligio Marin Roldan,Esmeraldas
+629,2024-10-20,Alicates,Herramientas,59,136.36,8045.24,Luisina Mariño Catalán,Esmeraldas
+630,2024-07-20,Aspiradora,Electrodomésticos,54,307.39,16599.06,Pancho Coello,Ambato
+631,2024-02-28,Tornillos,Accesorios,61,348.89,21282.29,Fernanda Alcázar Pujadas,Loja
+632,2024-09-03,Ladrillos,Construcción,95,423.16,40200.2,Brígida Sevilla Pelayo,Loja
+633,2024-01-31,Clavos,Accesorios,13,393.05,5109.65,Aura Gargallo Company,Cuenca
+634,2024-09-03,Ventilador,Electrodomésticos,78,198.76,15503.28,Carlota Cervera,Quito
+635,2024-01-17,Clavos,Accesorios,74,458.68,33942.32,Primitiva Ariño Asenjo,Guayaquil
+636,2024-06-26,Ladrillos,Construcción,75,269.41,20205.75,Áurea Garriga Castejón,Riobamba
+637,2024-01-02,Tuberías,Accesorios,76,285.54,21701.04,José María Vilanova Zurita,Esmeraldas
+638,2024-02-06,Pintura Azul,Pinturas,57,258.23,14719.11,Plinio del Peña,Manta
+639,2023-12-31,Cemento,Construcción,39,169.71,6618.69,Gerónimo Martinez-Casares,Ambato
+640,2024-07-30,Alicates,Herramientas,41,239.43,9816.63,Jafet Gisbert Campoy,Quito
+641,2024-03-15,Pintura Blanca,Pinturas,40,316.64,12665.6,Roque Puig Corbacho,Cuenca
+642,2024-09-19,Grava,Construcción,42,383.86,16122.12,Piedad Jove Múñiz,Manta
+643,2024-05-28,Ventilador,Electrodomésticos,38,181.62,6901.56,Fabio Castro Bautista,Quito
+644,2024-06-25,Clavos,Accesorios,23,482.11,11088.53,Ceferino Sáez,Portoviejo
+645,2024-06-29,Destornillador,Herramientas,94,481.72,45281.68,Ezequiel Múñiz Peinado,Cuenca
+646,2024-05-29,Ladrillos,Construcción,81,311.91,25264.71,Concha Pilar Garzón Mateos,Cuenca
+647,2024-07-27,Alicates,Herramientas,81,425.11,34433.91,Cruz Elías Lledó,Portoviejo
+648,2024-09-07,Ladrillos,Construcción,99,236.25,23388.75,Begoña Tudela Collado,Esmeraldas
+649,2024-08-29,Llave Inglesa,Herramientas,37,311.54,11526.98,Leandro Pozo Perea,Manta
+650,2024-02-29,Pintura Roja,Pinturas,59,38.02,2243.18,Alejandra Carbonell García,Quito
+651,2024-07-24,Cinta Métrica,Accesorios,15,357.07,5356.05,Roxana Bastida Quevedo,Ibarra
+652,2024-06-10,Ventilador,Electrodomésticos,52,239.39,12448.28,Ildefonso Téllez Palmer,Quito
+653,2024-11-29,Cinta Métrica,Accesorios,33,69.19,2283.27,Noelia Córdoba Sebastián,Riobamba
+654,2023-12-08,Martillo,Herramientas,39,415.77,16215.03,Bernardita Burgos Izquierdo,Guayaquil
+655,2024-04-28,Tubos PVC,Construcción,32,213.45,6830.4,Aurelio Collado,Esmeraldas
+656,2024-01-16,Martillo,Herramientas,98,213.34,20907.32,Horacio Silva,Cuenca
+657,2024-01-18,Grava,Construcción,88,263.55,23192.4,Cayetana Soriano Bru,Ambato
+658,2024-02-05,Martillo,Herramientas,44,147.59,6493.96,Violeta Godoy Lluch,Portoviejo
+659,2024-01-24,Martillo,Herramientas,98,390.87,38305.26,Merche de Aparicio,Manta
+660,2024-05-26,Ladrillos,Construcción,76,214.03,16266.28,Fortunato Sastre,Quito
+661,2024-08-26,Taladro,Herramientas,22,361.8,7959.6,Kike Bellido Vicente,Ambato
+662,2024-02-16,Arena,Construcción,33,453.13,14953.29,Marisa Ribera Pavón,Portoviejo
+663,2024-10-15,Alicates,Herramientas,63,64.74,4078.62,Norberto Talavera Yáñez,Cuenca
+664,2024-05-06,Alicates,Herramientas,53,471.95,25013.35,Rosa María Aragonés Coll,Esmeraldas
+665,2024-05-21,Destornillador,Herramientas,18,78.55,1413.9,Amando Horacio Oliveras Losada,Guayaquil
+666,2024-01-30,Taladro,Herramientas,66,206.64,13638.24,Yago del Rodríguez,Manta
+667,2024-09-01,Calentador,Electrodomésticos,89,62.84,5592.76,Maxi del Prada,Guayaquil
+668,2024-08-30,Taladro,Herramientas,47,429.95,20207.65,Arturo Valcárcel Peña,Cuenca
+669,2024-01-26,Cemento,Construcción,93,473.33,44019.69,Fabricio Montserrat,Portoviejo
+670,2023-12-06,Pintura Verde,Pinturas,16,323.7,5179.2,Jordana Luna Artigas,Esmeraldas
+671,2024-08-15,Tubos PVC,Construcción,75,62.89,4716.75,Petrona del Costa,Esmeraldas
+672,2024-11-26,Ventilador,Electrodomésticos,85,429.95,36545.75,Dora Tejada Durán,Ibarra
+673,2024-07-29,Taladro,Herramientas,91,272.06,24757.46,Fabricio Ledesma,Manta
+674,2024-10-05,Grava,Construcción,18,445.55,8019.9,Sebastián Salgado Vives,Ambato
+675,2024-03-28,Cemento,Construcción,69,406.05,28017.45,Dora Menendez Cabrero,Portoviejo
+676,2024-10-01,Pegamento,Accesorios,48,193.06,9266.88,Alcides Campillo,Esmeraldas
+677,2024-06-02,Ladrillos,Construcción,20,84.92,1698.4,Esteban Prieto Alberdi,Loja
+678,2024-11-20,Taladro,Herramientas,88,251.02,22089.76,María Belén Martín Gabaldón,Manta
+679,2024-02-21,Taladro Eléctrico,Electrodomésticos,97,363.78,35286.66,Edelmira de Infante,Loja
+680,2024-01-18,Pintura Azul,Pinturas,93,356.51,33155.43,Anastasia del Fernandez,Loja
+681,2023-12-20,Martillo,Herramientas,31,195.17,6050.27,Delfina Lladó,Ambato
+682,2024-11-01,Pegamento,Accesorios,78,130.57,10184.46,Octavio Cervera Vendrell,Guayaquil
+683,2024-11-11,Llave Inglesa,Herramientas,46,168.84,7766.64,Remigio Pozuelo,Riobamba
+684,2024-04-13,Alicates,Herramientas,95,74.31,7059.45,Aura Domínguez,Quito
+685,2023-12-21,Tornillos,Accesorios,24,212.33,5095.92,Natalia Maestre Casado,Esmeraldas
+686,2023-12-24,Tubos PVC,Construcción,20,449.45,8989.0,Albert Céspedes Cáceres,Ibarra
+687,2024-10-21,Taladro Eléctrico,Electrodomésticos,80,81.98,6558.4,Mónica Fajardo Alcolea,Esmeraldas
+688,2024-04-07,Pegamento,Accesorios,59,268.6,15847.4,Feliciano Pastor Rodrigo,Manta
+689,2024-01-15,Pintura Blanca,Pinturas,45,127.73,5747.85,Dolores Seguí Montesinos,Esmeraldas
+690,2024-01-15,Lámpara,Electrodomésticos,98,154.71,15161.58,Fidela Cuadrado,Esmeraldas
+691,2024-04-21,Grava,Construcción,77,454.56,35001.12,Andrea Moliner Cuadrado,Ibarra
+692,2024-01-23,Llave Inglesa,Herramientas,54,300.46,16224.84,Trinidad Arévalo Coello,Ambato
+693,2024-06-20,Martillo,Herramientas,5,248.7,1243.5,Noemí Ojeda Manzano,Portoviejo
+694,2024-03-05,Llave Inglesa,Herramientas,33,288.74,9528.42,Toni Antúnez,Riobamba
+695,2024-01-15,Cemento,Construcción,74,89.8,6645.2,Itziar Marcos Asensio,Ambato
+696,2024-02-24,Ladrillos,Construcción,56,441.62,24730.72,María Fernanda Vanesa Sevillano Almeida,Cuenca
+697,2024-06-05,Cinta Métrica,Accesorios,88,449.46,39552.48,Gloria Campoy Lerma,Loja
+698,2024-01-25,Grava,Construcción,39,122.29,4769.31,León Landa Arce,Quito
+699,2024-07-11,Pintura Verde,Pinturas,8,264.23,2113.84,Sigfrido Chacón Tapia,Loja
+700,2024-02-20,Ventilador,Electrodomésticos,68,339.42,23080.56,Maricela María Fernanda Serrano Maza,Manta
+701,2024-05-02,Clavos,Accesorios,42,410.43,17238.06,Ramón Castelló Sedano,Portoviejo
+702,2024-05-02,Taladro Eléctrico,Electrodomésticos,41,48.77,1999.57,Josefa Águila-Ribas,Esmeraldas
+703,2023-12-02,Clavos,Accesorios,43,141.43,6081.49,Toño Morera,Quito
+704,2024-06-26,Destornillador,Herramientas,30,258.43,7752.9,Jose Miguel Tomás Peralta,Quito
+705,2024-03-01,Cinta Métrica,Accesorios,71,103.99,7383.29,Elvira Toledo Ribes,Ambato
+706,2023-12-27,Pintura Verde,Pinturas,10,344.66,3446.6,Nieves Fuentes Montenegro,Portoviejo
+707,2024-05-10,Lámpara,Electrodomésticos,41,25.26,1035.66,Antonia Franco Osuna,Guayaquil
+708,2024-07-07,Tubos PVC,Construcción,2,78.66,157.32,Adoración Mariño Pera,Riobamba
+709,2024-04-26,Ladrillos,Construcción,4,162.22,648.88,Samanta Peláez,Esmeraldas
+710,2024-10-17,Cinta Métrica,Accesorios,3,347.22,1041.66,Loreto Garzón-Bonilla,Guayaquil
+711,2024-11-12,Tubos PVC,Construcción,40,417.78,16711.2,Olalla Ainoa Esparza Godoy,Riobamba
+712,2024-07-20,Pintura Azul,Pinturas,20,13.12,262.4,Reyes de Farré,Quito
+713,2024-03-17,Pegamento,Accesorios,64,389.32,24916.48,Gil de Bou,Portoviejo
+714,2024-08-30,Pintura Blanca,Pinturas,84,261.64,21977.76,Natalia Román Rueda,Quito
+715,2024-03-30,Calentador,Electrodomésticos,96,268.48,25774.08,Lucio Córdoba Acedo,Quito
+716,2024-02-27,Clavos,Accesorios,26,343.27,8925.02,Chucho Marti Pacheco,Esmeraldas
+717,2024-04-14,Alicates,Herramientas,23,325.03,7475.69,Adalberto Matas-Castañeda,Quito
+718,2024-09-23,Arena,Construcción,59,140.13,8267.67,Toribio Verdú,Quito
+719,2023-12-04,Clavos,Accesorios,38,149.04,5663.52,Flavio Martin-Gimeno,Esmeraldas
+720,2024-06-06,Ladrillos,Construcción,44,239.98,10559.12,Inés Blasco Llabrés,Esmeraldas
+721,2024-07-01,Taladro,Herramientas,65,122.74,7978.1,Wilfredo Cuervo Larrea,Guayaquil
+722,2023-12-15,Pintura Blanca,Pinturas,77,158.37,12194.49,Agustín Gallart-Vega,Loja
+723,2024-06-24,Cemento,Construcción,90,278.81,25092.9,Heliodoro Santos Rincón,Quito
+724,2024-01-01,Lámpara,Electrodomésticos,34,35.39,1203.26,Eloísa Santana Porta,Quito
+725,2024-05-02,Pintura Roja,Pinturas,44,338.98,14915.12,Toño Mur,Manta
+726,2024-05-17,Calentador,Electrodomésticos,38,464.48,17650.24,Aristides Miguel,Quito
+727,2024-08-11,Llave Inglesa,Herramientas,89,241.49,21492.61,Vito Llopis Figueroa,Esmeraldas
+728,2024-04-10,Taladro Eléctrico,Electrodomésticos,71,280.42,19909.82,Ema Sáenz Laguna,Ambato
+729,2024-08-01,Grava,Construcción,98,408.72,40054.56,Jimena Ríos Armengol,Ambato
+730,2024-09-27,Lámpara,Electrodomésticos,3,180.96,542.88,Leticia Duque Aguado,Ambato
+731,2024-01-31,Lámpara,Electrodomésticos,21,477.9,10035.9,Aurelio del Catalán,Ibarra
+732,2023-12-11,Aspiradora,Electrodomésticos,43,64.11,2756.73,Victorino del Higueras,Loja
+733,2024-11-27,Calentador,Electrodomésticos,9,393.28,3539.52,Jacinta Mancebo Daza,Ibarra
+734,2024-02-09,Calentador,Electrodomésticos,40,380.85,15234.0,Adoración Milla,Quito
+735,2024-10-31,Cinta Métrica,Accesorios,92,360.51,33166.92,Jennifer Bayona Cortina,Riobamba
+736,2024-07-17,Pintura Verde,Pinturas,41,392.35,16086.35,Iván Comas Macías,Esmeraldas
+737,2024-06-17,Llave Inglesa,Herramientas,24,244.75,5874.0,Encarnita Barceló Mateos,Loja
+738,2024-10-01,Pintura Amarilla,Pinturas,60,39.88,2392.8,Gala Prada Cózar,Esmeraldas
+739,2023-12-27,Pegamento,Accesorios,15,487.29,7309.35,Martina Romero Arévalo,Ambato
+740,2024-09-18,Arena,Construcción,96,395.6,37977.6,Eduardo Godoy Tejero,Cuenca
+741,2024-07-21,Pintura Amarilla,Pinturas,86,156.39,13449.54,Victorino Villalobos Escalona,Esmeraldas
+742,2024-02-15,Taladro,Herramientas,56,378.54,21198.24,Gabino Morante Aragonés,Riobamba
+743,2024-04-20,Cemento,Construcción,92,96.74,8900.08,Gertrudis Velasco,Guayaquil
+744,2024-02-21,Lámpara,Electrodomésticos,89,80.31,7147.59,Ileana Carretero-Orozco,Quito
+745,2024-07-06,Ventilador,Electrodomésticos,88,285.76,25146.88,Pánfilo de Cerezo,Guayaquil
+746,2024-03-13,Pegamento,Accesorios,3,59.23,177.69,Julián Díaz Trillo,Quito
+747,2024-03-13,Taladro Eléctrico,Electrodomésticos,80,31.56,2524.8,Salvador Valdés Tena,Riobamba
+748,2024-11-27,Arena,Construcción,73,434.83,31742.59,Cecilia Salamanca Arce,Ambato
+749,2024-02-02,Pegamento,Accesorios,35,465.21,16282.35,Sabina Gárate Blanca,Riobamba
+750,2024-02-20,Ladrillos,Construcción,31,261.28,8099.68,Maxi Llano Acero,Ibarra
+751,2024-04-11,Grava,Construcción,32,397.33,12714.56,Erasmo Juárez Múgica,Manta
+752,2024-06-04,Pintura Verde,Pinturas,23,82.43,1895.89,Leticia Goñi Roldán,Cuenca
+753,2024-09-08,Ventilador,Electrodomésticos,43,53.86,2315.98,Sabas Reguera-Almazán,Esmeraldas
+754,2024-11-15,Grava,Construcción,64,15.24,975.36,Eustaquio de Roig,Cuenca
+755,2024-10-04,Tubos PVC,Construcción,99,56.27,5570.73,Alma Machado Aranda,Portoviejo
+756,2024-11-03,Pintura Blanca,Pinturas,54,32.3,1744.2,Danilo Heredia-Carretero,Guayaquil
+757,2024-09-13,Ladrillos,Construcción,4,366.46,1465.84,Irma Godoy Carro,Loja
+758,2024-05-28,Pintura Azul,Pinturas,47,419.53,19717.91,Emma Jordán Guardiola,Cuenca
+759,2024-01-07,Pegamento,Accesorios,19,109.67,2083.73,Marita Bolaños Cuervo,Riobamba
+760,2023-12-04,Arena,Construcción,29,171.04,4960.16,Conrado Gerónimo Carnero González,Loja
+761,2024-06-09,Llave Inglesa,Herramientas,26,202.85,5274.1,Dionisio Llabrés Casares,Ibarra
+762,2024-11-05,Pintura Amarilla,Pinturas,22,183.35,4033.7,Martina Clemente Millán,Ambato
+763,2024-10-27,Llave Inglesa,Herramientas,28,454.01,12712.28,Leyre Cámara Giralt,Riobamba
+764,2024-06-18,Taladro Eléctrico,Electrodomésticos,38,369.55,14042.9,Elisabet Rey-Puerta,Ibarra
+765,2024-08-19,Tornillos,Accesorios,71,442.49,31416.79,Remedios del Amaya,Manta
+766,2024-06-27,Pintura Roja,Pinturas,93,144.12,13403.16,Nidia Reguera Alonso,Manta
+767,2024-11-29,Arena,Construcción,37,255.65,9459.05,Dulce Gimeno Piñol,Esmeraldas
+768,2024-11-05,Cinta Métrica,Accesorios,30,44.76,1342.8,Ruben Cano-Álvaro,Quito
+769,2024-09-29,Calentador,Electrodomésticos,18,48.54,873.72,Pío Campo-Carlos,Portoviejo
+770,2024-02-25,Tubos PVC,Construcción,30,275.61,8268.3,Martirio Abad Torrijos,Esmeraldas
+771,2024-03-29,Cemento,Construcción,31,474.34,14704.54,Danilo Blanes Bernal,Cuenca
+772,2024-04-21,Cemento,Construcción,14,233.41,3267.74,Aristides Boada Torrecilla,Manta
+773,2023-12-23,Pintura Azul,Pinturas,10,44.44,444.4,Adán Bermúdez-Anaya,Portoviejo
+774,2024-04-26,Pintura Azul,Pinturas,15,88.13,1321.95,Darío Elías,Loja
+775,2024-07-24,Taladro Eléctrico,Electrodomésticos,22,295.62,6503.64,Valeria Valenciano,Manta
+776,2024-07-24,Pintura Roja,Pinturas,81,51.66,4184.46,Jenaro Alba Canales,Manta
+777,2024-02-09,Calentador,Electrodomésticos,21,497.19,10440.99,Heriberto de Marco,Portoviejo
+778,2024-06-11,Tubos PVC,Construcción,91,264.6,24078.6,Aurelio Font Gámez,Ibarra
+779,2024-11-20,Ventilador,Electrodomésticos,50,290.17,14508.5,Amalia de Codina,Esmeraldas
+780,2024-08-24,Aspiradora,Electrodomésticos,1,78.81,78.81,Luis Ángel Almazán-Gomez,Portoviejo
+781,2024-11-29,Tornillos,Accesorios,65,454.58,29547.7,Pánfilo Ángel Alberto,Quito
+782,2024-04-30,Pintura Roja,Pinturas,51,338.7,17273.7,Mirta Azcona,Loja
+783,2024-05-11,Lámpara,Electrodomésticos,37,4.9,181.3,Albert de Torrent,Ibarra
+784,2024-10-19,Calentador,Electrodomésticos,91,7.55,687.05,Mar Vilaplana Gargallo,Cuenca
+785,2024-09-17,Aspiradora,Electrodomésticos,96,39.05,3748.8,Fortunato Naranjo Meléndez,Loja
+786,2023-12-06,Tubos PVC,Construcción,58,430.3,24957.4,Manolo Puga Prada,Cuenca
+787,2024-01-11,Cinta Métrica,Accesorios,18,344.79,6206.22,Melisa Bueno Carnero,Cuenca
+788,2024-09-26,Taladro,Herramientas,41,64.48,2643.68,Vasco Abril-Torrent,Guayaquil
+789,2024-02-05,Martillo,Herramientas,34,38.55,1310.7,Ale Palma Rodríguez,Ibarra
+790,2024-06-03,Pintura Blanca,Pinturas,61,250.06,15253.66,Camilo Salas Viñas,Ambato
+791,2024-11-24,Pintura Azul,Pinturas,71,349.6,24821.6,Adoración Carbonell,Riobamba
+792,2024-05-12,Pintura Amarilla,Pinturas,66,169.24,11169.84,Desiderio Bernal Corbacho,Riobamba
+793,2024-10-27,Ventilador,Electrodomésticos,28,323.8,9066.4,José Luis Gonzalo Velasco,Ambato
+794,2024-07-27,Alicates,Herramientas,9,491.69,4425.21,Elisabet Beltrán Suarez,Ambato
+795,2024-06-04,Aspiradora,Electrodomésticos,20,420.76,8415.2,Candelario Reig,Guayaquil
+796,2024-06-10,Pintura Verde,Pinturas,71,109.85,7799.35,Cándido Montesinos Martí,Ibarra
+797,2023-12-20,Llave Inglesa,Herramientas,70,240.86,16860.2,Amando de Rueda,Esmeraldas
+798,2024-03-25,Grava,Construcción,98,327.69,32113.62,Concha Solana Barco,Riobamba
+799,2023-12-28,Destornillador,Herramientas,66,370.48,24451.68,Rómulo Cánovas Olivé,Loja
+800,2024-07-02,Ladrillos,Construcción,2,225.91,451.82,Eufemia Ferrero Moliner,Riobamba
+801,2024-11-23,Grava,Construcción,92,416.55,38322.6,Ezequiel Acuña Zamorano,Riobamba
+802,2024-09-15,Tornillos,Accesorios,20,449.17,8983.4,Martin Villaverde Querol,Ibarra
+803,2024-08-08,Pintura Roja,Pinturas,30,173.49,5204.7,Luis Ángel Mateo Pizarro,Cuenca
+804,2024-10-30,Grava,Construcción,73,124.42,9082.66,Hector Vázquez Lasa,Ambato
+805,2024-03-03,Tornillos,Accesorios,6,224.05,1344.3,Omar Andres Fábregas,Manta
+806,2024-05-02,Martillo,Herramientas,2,434.22,868.44,Macario Alberdi Priego,Ibarra
+807,2024-01-23,Martillo,Herramientas,87,389.56,33891.72,Cruz Lucena Nuñez,Ambato
+808,2024-07-25,Grava,Construcción,98,489.93,48013.14,José María Casares-Tejedor,Guayaquil
+809,2024-03-27,Pintura Roja,Pinturas,44,225.9,9939.6,Lupe de Llamas,Cuenca
+810,2024-04-14,Ladrillos,Construcción,100,266.82,26682.0,Beatriz Barriga,Ibarra
+811,2024-07-01,Pegamento,Accesorios,61,223.85,13654.85,Arturo Márquez Torrecilla,Riobamba
+812,2024-03-22,Pintura Blanca,Pinturas,28,9.83,275.24,Domingo Barceló,Riobamba
+813,2023-12-07,Taladro Eléctrico,Electrodomésticos,95,93.08,8842.6,Heriberto Duque,Riobamba
+814,2024-01-12,Pintura Amarilla,Pinturas,79,361.5,28558.5,Irene Morán Ochoa,Riobamba
+815,2024-01-18,Tornillos,Accesorios,84,40.0,3360.0,Juan Bautista Barco-Isern,Loja
+816,2024-06-24,Llave Inglesa,Herramientas,55,118.72,6529.6,Custodia Cortes Dalmau,Esmeraldas
+817,2024-05-20,Taladro,Herramientas,61,49.0,2989.0,Alfonso Lillo Torralba,Ambato
+818,2024-09-29,Taladro,Herramientas,5,425.0,2125.0,Reynaldo Albert Coloma Arnaiz,Manta
+819,2024-08-03,Ventilador,Electrodomésticos,59,8.43,497.37,Claudio Acero Cerdá,Ibarra
+820,2024-02-02,Tubos PVC,Construcción,42,493.95,20745.9,Cayetana Plana Morell,Ambato
+821,2024-11-30,Taladro,Herramientas,30,190.92,5727.6,Chelo Sevillano Pons,Manta
+822,2024-01-16,Arena,Construcción,75,59.77,4482.75,Eliana del Luís,Manta
+823,2024-09-12,Clavos,Accesorios,47,301.54,14172.38,Ismael Puerta Diez,Esmeraldas
+824,2024-01-19,Tornillos,Accesorios,79,113.87,8995.73,Fulgencio de Marcos,Ambato
+825,2024-04-11,Cinta Métrica,Accesorios,59,359.9,21234.1,Ale Medina Larrea,Quito
+826,2024-09-01,Tuberías,Accesorios,76,167.74,12748.24,Teobaldo Pulido Rueda,Manta
+827,2024-07-02,Tuberías,Accesorios,54,77.5,4185.0,Lina Estrada Ballesteros,Guayaquil
+828,2024-11-21,Pintura Verde,Pinturas,55,284.07,15623.85,Pedro Nadal Franco,Guayaquil
+829,2023-12-23,Clavos,Accesorios,72,131.28,9452.16,Odalis Arias Rocamora,Quito
+830,2024-05-06,Calentador,Electrodomésticos,15,51.28,769.2,Elpidio de Porta,Ibarra
+831,2024-04-25,Grava,Construcción,58,459.48,26649.84,Ovidio Maestre Tur,Portoviejo
+832,2024-04-24,Taladro,Herramientas,97,295.69,28681.93,Remedios Acedo Cánovas,Riobamba
+833,2024-09-07,Ventilador,Electrodomésticos,82,67.99,5575.18,Trinidad Vergara-Suárez,Esmeraldas
+834,2024-02-19,Destornillador,Herramientas,55,164.26,9034.3,Silvestre del Armengol,Riobamba
+835,2024-02-08,Ventilador,Electrodomésticos,20,426.84,8536.8,Silvia Cal Alvarado,Portoviejo
+836,2024-11-12,Alicates,Herramientas,98,100.23,9822.54,Cristian Naranjo Espinosa,Manta
+837,2024-08-27,Pegamento,Accesorios,36,376.0,13536.0,Elba Lledó-Beltrán,Quito
+838,2024-09-05,Lámpara,Electrodomésticos,75,42.55,3191.25,Guadalupe Eufemia Cerezo Valcárcel,Manta
+839,2024-02-21,Tubos PVC,Construcción,44,329.2,14484.8,Pastor Cuervo-Sanabria,Cuenca
+840,2024-04-13,Pintura Roja,Pinturas,11,236.24,2598.64,Flor Garcia-Arrieta,Manta
+841,2024-06-18,Cemento,Construcción,51,208.67,10642.17,Viviana Cerezo,Ambato
+842,2024-06-22,Alicates,Herramientas,92,318.12,29267.04,Basilio Aranda-Zaragoza,Loja
+843,2024-06-20,Pegamento,Accesorios,19,25.16,478.04,Delfina Montserrat Roldan,Ibarra
+844,2024-01-13,Llave Inglesa,Herramientas,46,115.99,5335.54,Dionisio Lucio Carbó Canet,Esmeraldas
+845,2024-10-11,Cemento,Construcción,73,258.09,18840.57,Severino Villanueva,Portoviejo
+846,2024-03-22,Pintura Verde,Pinturas,80,57.71,4616.8,Flora Segarra Tenorio,Ambato
+847,2024-05-17,Pintura Azul,Pinturas,18,201.55,3627.9,Octavio de Suárez,Quito
+848,2024-08-07,Arena,Construcción,41,149.89,6145.49,Ramón Aguiló Atienza,Riobamba
+849,2024-07-05,Martillo,Herramientas,36,356.1,12819.6,Jose Antonio Dueñas Montesinos,Portoviejo
+850,2024-04-14,Clavos,Accesorios,63,381.64,24043.32,Gloria Carbó,Riobamba
+851,2024-12-01,Martillo,Herramientas,31,449.6,13937.6,Rosalva del Oller,Cuenca
+852,2024-02-12,Taladro,Herramientas,55,399.6,21978.0,Horacio Espinosa Canals,Portoviejo
+853,2024-09-25,Calentador,Electrodomésticos,90,42.04,3783.6,Jose Ignacio Cabanillas Andrés,Quito
+854,2024-02-27,Destornillador,Herramientas,51,136.4,6956.4,Carina Blanca,Portoviejo
+855,2024-10-18,Grava,Construcción,75,36.18,2713.5,Tere Valenzuela Santiago,Portoviejo
+856,2024-07-03,Lámpara,Electrodomésticos,56,184.12,10310.72,Eulalia Mena Alberola,Riobamba
+857,2023-12-31,Pintura Amarilla,Pinturas,72,239.54,17246.88,Bernabé Durán,Ibarra
+858,2024-07-22,Llave Inglesa,Herramientas,60,335.69,20141.4,Mayte Romero Pol,Esmeraldas
+859,2024-09-13,Arena,Construcción,79,43.07,3402.53,Serafina Olivé,Quito
+860,2024-06-14,Pintura Blanca,Pinturas,57,11.04,629.28,Inocencio Nevado Vázquez,Loja
+861,2024-05-30,Pintura Blanca,Pinturas,9,106.81,961.29,Lupe Camacho,Manta
+862,2024-03-12,Ladrillos,Construcción,41,451.4,18507.4,Adán Hurtado Delgado,Loja
+863,2024-10-07,Calentador,Electrodomésticos,70,87.27,6108.9,Lisandro Adán Alberola,Riobamba
+864,2024-08-01,Taladro Eléctrico,Electrodomésticos,75,146.06,10954.5,Luis Ochoa Ponce,Quito
+865,2024-11-20,Pintura Amarilla,Pinturas,72,174.59,12570.48,Miguela Antonia Garriga Bauzà,Quito
+866,2024-11-12,Ventilador,Electrodomésticos,56,279.69,15662.64,María Carmen Bastida Alcántara,Manta
+867,2024-05-03,Arena,Construcción,68,108.34,7367.12,Rita Bárbara Ródenas Pina,Ibarra
+868,2024-02-11,Calentador,Electrodomésticos,29,98.15,2846.35,Ágata Bauzà Peláez,Quito
+869,2024-10-01,Lámpara,Electrodomésticos,63,447.94,28220.22,Virgilio Alvarez Cózar,Riobamba
+870,2024-06-17,Ladrillos,Construcción,56,491.34,27515.04,Javier Manuel Mateo,Portoviejo
+871,2024-01-25,Grava,Construcción,25,437.12,10928.0,Juan Manuel Contreras,Ibarra
+872,2024-10-04,Pintura Amarilla,Pinturas,23,58.4,1343.2,Úrsula Gargallo-Antúnez,Ambato
+873,2024-08-14,Llave Inglesa,Herramientas,17,486.77,8275.09,Luna Azucena Portero Quintero,Ambato
+874,2024-11-12,Cinta Métrica,Accesorios,43,299.72,12887.96,Valero Agustí Badía,Manta
+875,2024-05-19,Pintura Verde,Pinturas,31,108.39,3360.09,Sebastian Losada Casals,Guayaquil
+876,2024-03-22,Taladro Eléctrico,Electrodomésticos,37,213.82,7911.34,Victor Manuel Mariño,Riobamba
+877,2024-02-04,Ladrillos,Construcción,58,90.45,5246.1,Alfredo Almansa Asensio,Manta
+878,2024-06-25,Ladrillos,Construcción,65,316.68,20584.2,Candela Ballester Borrell,Loja
+879,2023-12-30,Pintura Amarilla,Pinturas,33,250.7,8273.1,Reyes Oliva-Campos,Ambato
+880,2024-04-28,Taladro Eléctrico,Electrodomésticos,30,180.48,5414.4,Héctor Valdés Casanova,Riobamba
+881,2024-09-25,Pintura Verde,Pinturas,68,324.14,22041.52,Abril Nogueira-Palmer,Loja
+882,2024-06-23,Tuberías,Accesorios,56,450.64,25235.84,Eloy Barrio Mur,Esmeraldas
+883,2024-06-01,Arena,Construcción,57,78.22,4458.54,Pablo Martinez,Loja
+884,2024-09-03,Alicates,Herramientas,84,221.34,18592.56,Filomena Serrano-Lluch,Guayaquil
+885,2024-07-07,Lámpara,Electrodomésticos,65,258.91,16829.15,Isaura de Cámara,Quito
+886,2024-08-05,Ladrillos,Construcción,50,6.7,335.0,Marino Palomino Manuel,Loja
+887,2024-09-09,Taladro,Herramientas,82,444.09,36415.38,Clarisa Téllez Estrada,Manta
+888,2024-05-20,Tornillos,Accesorios,17,140.19,2383.23,Maite Socorro Polo Ribas,Manta
+889,2024-07-21,Arena,Construcción,43,99.1,4261.3,María Cristina del Lillo,Guayaquil
+890,2024-03-05,Lámpara,Electrodomésticos,69,250.76,17302.44,Azahara Gomez Barreda,Ambato
+891,2024-05-29,Ventilador,Electrodomésticos,48,70.22,3370.56,Lupita Berenguer Trillo,Manta
+892,2024-09-21,Aspiradora,Electrodomésticos,14,465.89,6522.46,Plácido Piquer Larrañaga,Manta
+893,2024-10-08,Taladro Eléctrico,Electrodomésticos,73,459.54,33546.42,Ana Belén Lobo Verdejo,Quito
+894,2024-04-13,Martillo,Herramientas,1,357.1,357.1,Poncio Gálvez-Llano,Riobamba
+895,2024-03-24,Arena,Construcción,13,209.41,2722.33,Paca Cazorla Díez,Quito
+896,2023-12-17,Lámpara,Electrodomésticos,17,329.36,5599.12,Venceslás de Gonzalo,Cuenca
+897,2024-10-14,Taladro Eléctrico,Electrodomésticos,13,77.85,1012.05,Coral Mónica Baeza Mancebo,Quito
+898,2023-12-16,Pintura Roja,Pinturas,10,221.38,2213.8,Porfirio Ruano Barrios,Esmeraldas
+899,2024-08-01,Ladrillos,Construcción,48,431.48,20711.04,Hector Jerez Julián,Portoviejo
+900,2024-07-30,Alicates,Herramientas,18,17.79,320.22,Anita Arce-Aparicio,Ibarra
+901,2024-09-12,Clavos,Accesorios,65,209.98,13648.7,Natalio Macías Ureña,Portoviejo
+902,2024-07-21,Ventilador,Electrodomésticos,34,340.47,11575.98,Patricio Sanchez Moles,Cuenca
+903,2023-12-15,Llave Inglesa,Herramientas,29,458.98,13310.42,Florencio Torres Somoza,Esmeraldas
+904,2024-11-07,Cinta Métrica,Accesorios,2,210.8,421.6,Alonso Lucena Sarabia,Ibarra
+905,2024-06-06,Martillo,Herramientas,99,341.82,33840.18,Eliana Rivera-Casal,Ibarra
+906,2024-05-28,Clavos,Accesorios,22,171.28,3768.16,Ligia de Comas,Quito
+907,2024-04-08,Pintura Blanca,Pinturas,64,222.45,14236.8,Imelda de Vallejo,Cuenca
+908,2024-01-21,Taladro Eléctrico,Electrodomésticos,34,39.24,1334.16,Tito Jacinto Borja Bas,Ibarra
+909,2024-05-19,Pintura Azul,Pinturas,61,274.43,16740.23,Jorge Cerdá Boix,Esmeraldas
+910,2024-07-26,Llave Inglesa,Herramientas,75,389.75,29231.25,Amalia Blanca Isern,Esmeraldas
+911,2024-02-10,Taladro,Herramientas,33,455.6,15034.8,Samanta Visitación Salinas Clavero,Esmeraldas
+912,2023-12-29,Pintura Verde,Pinturas,90,153.52,13816.8,Evelia Cepeda Villalobos,Cuenca
+913,2024-07-03,Pintura Amarilla,Pinturas,21,83.2,1747.2,Ainara Ramirez-Nuñez,Cuenca
+914,2024-09-17,Arena,Construcción,44,491.03,21605.32,Serafina Catalán Herranz,Riobamba
+915,2024-06-30,Taladro,Herramientas,49,435.34,21331.66,Nazario Sebastián Atienza,Guayaquil
+916,2023-12-11,Grava,Construcción,27,474.9,12822.3,Manu Bertrán Berenguer,Loja
+917,2024-02-16,Aspiradora,Electrodomésticos,17,2.19,37.23,Calixta Sarmiento Quevedo,Manta
+918,2024-09-17,Ladrillos,Construcción,55,76.67,4216.85,Hector de Gilabert,Quito
+919,2024-09-07,Calentador,Electrodomésticos,90,184.71,16623.9,Guadalupe Morante Pinedo,Manta
+920,2024-09-08,Cemento,Construcción,17,211.24,3591.08,Vidal Vall-Gámez,Riobamba
+921,2024-01-27,Arena,Construcción,16,362.32,5797.12,Faustino Patiño,Ambato
+922,2024-03-20,Lámpara,Electrodomésticos,30,326.91,9807.3,Alejo de Márquez,Portoviejo
+923,2023-12-27,Clavos,Accesorios,47,479.69,22545.43,Patricio Ferrero Cabezas,Cuenca
+924,2024-10-29,Ladrillos,Construcción,90,19.71,1773.9,Tiburcio Angulo Sacristán,Guayaquil
+925,2024-09-17,Pintura Blanca,Pinturas,4,101.4,405.6,Adolfo Escalona,Ibarra
+926,2024-01-21,Cinta Métrica,Accesorios,34,294.12,10000.08,Francisca Dueñas Gonzalo,Manta
+927,2024-05-13,Cinta Métrica,Accesorios,9,22.27,200.43,Valeria Pont Ramírez,Cuenca
+928,2024-05-26,Taladro Eléctrico,Electrodomésticos,58,366.54,21259.32,Florentino Matías Garmendia Carreño,Riobamba
+929,2024-08-04,Taladro,Herramientas,33,217.93,7191.69,Hernando Vicens Juan,Ambato
+930,2023-12-25,Alicates,Herramientas,31,17.2,533.2,Lope de Lozano,Loja
+931,2024-03-04,Ladrillos,Construcción,28,30.12,843.36,Andrea Grau Miralles,Portoviejo
+932,2024-03-02,Ladrillos,Construcción,67,58.01,3886.67,Fátima Diez Alegria,Riobamba
+933,2024-01-19,Tuberías,Accesorios,43,73.88,3176.84,Rico Morera,Ibarra
+934,2024-11-09,Aspiradora,Electrodomésticos,89,313.34,27887.26,Salomón Álvarez Martí,Portoviejo
+935,2024-07-21,Clavos,Accesorios,74,427.8,31657.2,Vidal Villena Escudero,Cuenca
+936,2024-11-14,Grava,Construcción,81,130.52,10572.12,Vito de Acero,Riobamba
+937,2023-12-09,Ladrillos,Construcción,82,457.62,37524.84,Manuel Boada Sobrino,Ibarra
+938,2024-08-12,Pintura Verde,Pinturas,81,362.7,29378.7,Abel Jordán Cabrero Almazán,Esmeraldas
+939,2024-10-03,Taladro Eléctrico,Electrodomésticos,79,406.26,32094.54,Lorena Sáenz Dueñas,Portoviejo
+940,2024-05-18,Tuberías,Accesorios,11,374.91,4124.01,Miguel Porcel Galván,Guayaquil
+941,2024-03-28,Ventilador,Electrodomésticos,39,284.65,11101.35,Jimena Arévalo Ponce,Ibarra
+942,2023-12-14,Cemento,Construcción,2,122.48,244.96,Juan Francisco Marcos,Ambato
+943,2024-08-17,Taladro,Herramientas,49,184.77,9053.73,Sigfrido de Ropero,Esmeraldas
+944,2024-06-25,Cemento,Construcción,1,204.21,204.21,Alondra Mercedes Ruiz Garriga,Quito
+945,2024-06-29,Lámpara,Electrodomésticos,36,213.23,7676.28,Mercedes Agustín Cervera,Ambato
+946,2024-07-18,Alicates,Herramientas,16,394.23,6307.68,Imelda Agustí Mayoral,Ambato
+947,2024-09-29,Tornillos,Accesorios,2,420.94,841.88,Natividad Coll Viñas,Cuenca
+948,2024-01-02,Tuberías,Accesorios,56,55.13,3087.28,Laura Álvarez Cortés,Manta
+949,2024-05-24,Pegamento,Accesorios,1,262.48,262.48,Martín Badía Roura,Ambato
+950,2023-12-27,Pegamento,Accesorios,76,16.5,1254.0,Chuy Cañas Lledó,Riobamba
+951,2023-12-21,Taladro,Herramientas,55,431.27,23719.85,Ligia del Nicolás,Ibarra
+952,2024-09-03,Clavos,Accesorios,21,223.78,4699.38,Tomás Galván Ortuño,Loja
+953,2024-04-07,Lámpara,Electrodomésticos,15,219.12,3286.8,Casemiro Borrego Recio,Loja
+954,2024-09-16,Taladro Eléctrico,Electrodomésticos,90,469.21,42228.9,Julia de Rius,Portoviejo
+955,2024-07-02,Arena,Construcción,45,120.94,5442.3,Porfirio Arregui Bernad,Guayaquil
+956,2024-10-13,Pintura Verde,Pinturas,14,184.83,2587.62,Mirta Serafina Landa Muñoz,Manta
+957,2024-08-13,Tornillos,Accesorios,86,33.44,2875.84,Tadeo Aller Pareja,Riobamba
+958,2024-09-03,Pintura Amarilla,Pinturas,73,257.46,18794.58,Corona Coral Amigó Berrocal,Guayaquil
+959,2024-01-16,Ventilador,Electrodomésticos,64,4.74,303.36,María Manuela Iglesia-Benavent,Ibarra
+960,2024-09-12,Tornillos,Accesorios,8,308.32,2466.56,Jenaro del Bermejo,Cuenca
+961,2024-11-04,Tubos PVC,Construcción,62,209.01,12958.62,Pancho Jerez,Portoviejo
+962,2024-11-23,Pintura Amarilla,Pinturas,78,11.74,915.72,Charo Fuster Cid,Riobamba
+963,2024-05-27,Alicates,Herramientas,57,210.25,11984.25,Édgar Pastor Velázquez,Ambato
+964,2024-01-07,Llave Inglesa,Herramientas,68,79.36,5396.48,Pepe Alegria Ballesteros,Cuenca
+965,2024-04-11,Clavos,Accesorios,17,104.85,1782.45,Dafne Vigil-Duque,Manta
+966,2024-05-19,Destornillador,Herramientas,44,273.27,12023.88,Pánfilo Diaz Marín,Esmeraldas
+967,2024-04-16,Pintura Verde,Pinturas,90,321.98,28978.2,Florinda Francisco Martin,Riobamba
+968,2024-01-06,Llave Inglesa,Herramientas,32,24.53,784.96,Fito de Gaya,Cuenca
+969,2024-08-22,Tubos PVC,Construcción,91,299.77,27279.07,Jose Miguel Figueroa Somoza,Esmeraldas
+970,2023-12-30,Arena,Construcción,58,274.11,15898.38,Toño Saavedra Diego,Riobamba
+971,2024-10-04,Lámpara,Electrodomésticos,9,453.17,4078.53,Blas Manrique Herrera,Cuenca
+972,2024-07-17,Destornillador,Herramientas,31,447.47,13871.57,Jose Sales Requena,Ibarra
+973,2024-09-08,Ladrillos,Construcción,49,223.88,10970.12,Isabel García Serrano,Riobamba
+974,2024-09-13,Lámpara,Electrodomésticos,100,228.46,22846.0,Amaya Bernardita Raya Prat,Ambato
+975,2024-07-26,Pintura Roja,Pinturas,50,427.65,21382.5,Sandalio Frutos,Ambato
+976,2024-03-29,Taladro Eléctrico,Electrodomésticos,64,18.08,1157.12,Begoña Real Manrique,Portoviejo
+977,2024-06-09,Tornillos,Accesorios,13,290.18,3772.34,Candela Lillo Arellano,Esmeraldas
+978,2024-08-14,Llave Inglesa,Herramientas,59,161.78,9545.02,Julie Rosado Talavera,Quito
+979,2024-07-29,Tubos PVC,Construcción,62,180.0,11160.0,Elías Jurado-Castillo,Loja
+980,2024-06-16,Ladrillos,Construcción,59,437.8,25830.2,Adolfo Elías Gómez,Manta
+981,2024-01-13,Tubos PVC,Construcción,23,354.05,8143.15,Ildefonso Pizarro Bas,Portoviejo
+982,2024-04-03,Calentador,Electrodomésticos,68,53.9,3665.2,Araceli Cáceres Sainz,Esmeraldas
+983,2024-03-22,Arena,Construcción,15,66.44,996.6,Adelaida Almazán Escobar,Loja
+984,2024-07-22,Arena,Construcción,97,216.33,20984.01,Alejandra Figueras Cánovas,Guayaquil
+985,2024-11-23,Pintura Roja,Pinturas,59,329.98,19468.82,Macarena de Rosado,Ibarra
+986,2024-08-07,Tubos PVC,Construcción,55,34.4,1892.0,Alma Gallart Uribe,Riobamba
+987,2024-10-11,Cemento,Construcción,47,95.82,4503.54,Yolanda Terrón Valenzuela,Esmeraldas
+988,2024-10-27,Tornillos,Accesorios,82,363.1,29774.2,Reynaldo Sans,Cuenca
+989,2024-09-23,Ventilador,Electrodomésticos,53,79.88,4233.64,Lupe Tomás Casares Izquierdo,Quito
+990,2024-01-03,Cinta Métrica,Accesorios,49,250.24,12261.76,Candelas de Portero,Cuenca
+991,2024-10-23,Pegamento,Accesorios,9,303.15,2728.35,Eliseo Reguera Tomás,Guayaquil
+992,2024-06-19,Arena,Construcción,47,120.67,5671.49,José Custodio Somoza Llabrés,Riobamba
+993,2024-02-26,Alicates,Herramientas,90,488.15,43933.5,Rafaela Palacio Grande,Ambato
+994,2024-10-20,Pintura Blanca,Pinturas,16,34.28,548.48,Eufemia Marquez Amat,Quito
+995,2024-01-21,Pintura Blanca,Pinturas,40,64.97,2598.8,Teobaldo de Girona,Portoviejo
+996,2023-12-06,Tuberías,Accesorios,19,130.15,2472.85,Baudelio Jose Ignacio Torrecilla Santos,Ambato
+997,2024-06-04,Pintura Azul,Pinturas,96,68.07,6534.72,Dalila Báez Gimenez,Riobamba
+998,2024-05-20,Taladro Eléctrico,Electrodomésticos,30,206.55,6196.5,Teresita Vega Bernal,Quito
+999,2024-07-08,Ladrillos,Construcción,70,69.5,4865.0,Rafaela Guardiola Ariño,Cuenca
+1000,2024-08-09,Pintura Azul,Pinturas,75,348.06,26104.5,Yéssica Morales,Ambato
