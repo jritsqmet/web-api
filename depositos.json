@@ -109,7 +109,7 @@
       "banco_destino": "Banco Internacional"
     },
     "detalles": {
-      "imagen_comprobante": "hhttps://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/internacional.png",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/internacional.png",
       "método_pago": "Transferencia bancaria internacional",
       "estado": "Pendiente"
     }
