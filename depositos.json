@@ -17,7 +17,7 @@
       "banco_destino": "Banco del Pacífico"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_1.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/pacifico.png",
       "método_pago": "Transferencia electrónica",
       "estado": "Confirmada"
     }
