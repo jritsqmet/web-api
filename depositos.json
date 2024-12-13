@@ -40,7 +40,7 @@
       "banco_destino": "Banco Pichincha"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_2.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/pichincha.jpg",
       "método_pago": "Transferencia interbancaria",
       "estado": "Pendiente"
     }
@@ -63,7 +63,7 @@
       "banco_destino": "Banco de Guayaquil"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_3.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/guayaquil.png",
       "método_pago": "Transferencia en línea",
       "estado": "Confirmada"
     }
@@ -86,7 +86,7 @@
       "banco_destino": "Produbanco"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_4.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/produbanco.png",
       "método_pago": "Transferencia física",
       "estado": "Confirmada"
     }
@@ -109,7 +109,7 @@
       "banco_destino": "Banco Internacional"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_5.jpg",
+      "imagen_comprobante": "hhttps://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/internacional.png",
       "método_pago": "Transferencia bancaria internacional",
       "estado": "Pendiente"
     }
@@ -132,7 +132,7 @@
       "banco_destino": "Banco del Pacífico"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_6.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/pacifico.png",
       "método_pago": "Transferencia bancaria nacional",
       "estado": "Confirmada"
     }
@@ -155,7 +155,7 @@
       "banco_destino": "Banco Pichincha"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_7.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/pichincha.jpg",
       "método_pago": "Pago en efectivo",
       "estado": "Confirmada"
     }
@@ -178,7 +178,7 @@
       "banco_destino": "Banco de Guayaquil"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_8.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/guayaquil.png",
       "método_pago": "Transferencia inmediata",
       "estado": "Confirmada"
     }
@@ -201,7 +201,7 @@
       "banco_destino": "Produbanco"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_9.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/produbanco.png",
       "método_pago": "Transferencia en ventanilla",
       "estado": "Pendiente"
     }
@@ -224,7 +224,7 @@
       "banco_destino": "Banco Internacional"
     },
     "detalles": {
-      "imagen_comprobante": "https://example.com/images/transferencia_10.jpg",
+      "imagen_comprobante": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-bancos/internacional.png",
       "método_pago": "Transferencia automática",
       "estado": "Confirmada"
     }
