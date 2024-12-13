@@ -1,0 +1,153 @@
+[
+    {
+      "banco": "Banco del Pacífico",
+      "monto": 2500.50,
+      "imagen": "transferencia_1.jpg",
+      "detalles": {
+        "fecha": "2024-12-01",
+        "origen": "Juan Pérez",
+        "destino": "Maria López"
+      }
+    },
+    {
+      "banco": "Banco Pichincha",
+      "monto": 450.75,
+      "imagen": "transferencia_2.jpg",
+      "detalles": {
+        "fecha": "2024-12-02",
+        "origen": "Carlos García",
+        "destino": "Ana Vásquez"
+      }
+    },
+    {
+      "banco": "Banco de Guayaquil",
+      "monto": 3200.00,
+      "imagen": "transferencia_3.jpg",
+      "detalles": {
+        "fecha": "2024-12-03",
+        "origen": "Luis Martínez",
+        "destino": "Laura Cruz"
+      }
+    },
+    {
+      "banco": "Produbanco",
+      "monto": 1800.25,
+      "imagen": "transferencia_4.jpg",
+      "detalles": {
+        "fecha": "2024-12-04",
+        "origen": "Esteban Rodríguez",
+        "destino": "Pablo Herrera"
+      }
+    },
+    {
+      "banco": "Banco Internacional",
+      "monto": 550.00,
+      "imagen": "transferencia_5.jpg",
+      "detalles": {
+        "fecha": "2024-12-05",
+        "origen": "Sofía Ríos",
+        "destino": "Roberto Díaz"
+      }
+    },
+    {
+      "banco": "Banco del Pacífico",
+      "monto": 7200.30,
+      "imagen": "transferencia_6.jpg",
+      "detalles": {
+        "fecha": "2024-12-06",
+        "origen": "Francisco Gómez",
+        "destino": "Carmen Soto"
+      }
+    },
+    {
+      "banco": "Banco Pichincha",
+      "monto": 1280.15,
+      "imagen": "transferencia_7.jpg",
+      "detalles": {
+        "fecha": "2024-12-07",
+        "origen": "Verónica Sánchez",
+        "destino": "Andrés Delgado"
+      }
+    },
+    {
+      "banco": "Banco de Guayaquil",
+      "monto": 1600.00,
+      "imagen": "transferencia_8.jpg",
+      "detalles": {
+        "fecha": "2024-12-08",
+        "origen": "Ricardo Martínez",
+        "destino": "Patricia Ruiz"
+      }
+    },
+    {
+      "banco": "Produbanco",
+      "monto": 450.90,
+      "imagen": "transferencia_9.jpg",
+      "detalles": {
+        "fecha": "2024-12-09",
+        "origen": "María Fernández",
+        "destino": "Javier Silva"
+      }
+    },
+    {
+      "banco": "Banco Internacional",
+      "monto": 1050.00,
+      "imagen": "transferencia_10.jpg",
+      "detalles": {
+        "fecha": "2024-12-10",
+        "origen": "Diego Hernández",
+        "destino": "Monica Gómez"
+      }
+    },
+    {
+      "banco": "Banco del Pacífico",
+      "monto": 900.50,
+      "imagen": "transferencia_11.jpg",
+      "detalles": {
+        "fecha": "2024-12-11",
+        "origen": "Ana Rivera",
+        "destino": "Juan Carlos Medina"
+      }
+    },
+    {
+      "banco": "Banco Pichincha",
+      "monto": 680.80,
+      "imagen": "transferencia_12.jpg",
+      "detalles": {
+        "fecha": "2024-12-12",
+        "origen": "Tomás Sánchez",
+        "destino": "Elena Gómez"
+      }
+    },
+    {
+      "banco": "Banco de Guayaquil",
+      "monto": 1320.00,
+      "imagen": "transferencia_13.jpg",
+      "detalles": {
+        "fecha": "2024-12-13",
+        "origen": "José López",
+        "destino": "Lucía Márquez"
+      }
+    },
+    {
+      "banco": "Produbanco",
+      "monto": 750.00,
+      "imagen": "transferencia_14.jpg",
+      "detalles": {
+        "fecha": "2024-12-14",
+        "origen": "Ricardo Pérez",
+        "destino": "Beatriz Fernández"
+      }
+    },
+    {
+      "banco": "Banco Internacional",
+      "monto": 3100.00,
+      "imagen": "transferencia_15.jpg",
+      "detalles": {
+        "fecha": "2024-12-15",
+        "origen": "Claudia Torres",
+        "destino": "Felipe Ruiz"
+      }
+    }
+  ]
+  
