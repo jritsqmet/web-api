@@ -1,0 +1,384 @@
+[
+    {
+      "id": "crash",
+      "name": "Crash Bandicoot",
+      "description": "El protagonista principal de la serie. Es un bandicoot modificado genéticamente que lucha contra los villanos para salvar su hogar, las Islas Wumpa.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/crash.png",
+      "atributos": [
+        "Velocidad",
+        "Salto",
+        "Fuerza"
+      ],
+      "historia": {
+        "origen": "Crash fue creado por el Dr. Neo Cortex como parte de un experimento genético fallido. Escapó de su control y se embarca en una misión para salvar las Islas Wumpa y detener los malvados planes de Cortex.",
+        "personalidad": "Valiente, irreverente y algo torpe, pero siempre dispuesto a proteger a sus amigos y su hogar.",
+        "relaciones": {
+          "hermana": "Coco Bandicoot",
+          "enemigos": ["Dr. Neo Cortex", "Tiny Tiger", "N. Tropy", "N. Gin"],
+          "aliados": ["Polar", "Dingodile", "Crunch Bandicoot"]
+        },
+        "habilidades": {
+          "saltar_altamente": "Capaz de realizar saltos largos y altos para evitar obstáculos y vencer enemigos.",
+          "potencia": "Enfrenta a los enemigos con gran fuerza física y determinación."
+        },
+        "apariaciones": [
+          "Crash Bandicoot (1996)",
+          "Crash Team Racing (1999)",
+          "Crash Bandicoot: N. Sane Trilogy (2017)",
+          "Crash Bandicoot 4: It's About Time (2020)"
+        ]
+      }
+    },
+    {
+      "id": "coco",
+      "name": "Coco Bandicoot",
+      "description": "La hermana de Crash y también una hábil científica e ingeniera. A menudo acompaña a Crash en sus aventuras.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/coco.png",
+      "atributos": [
+        "Inteligencia",
+        "Habilidad en computadoras",
+        "Acrobacias"
+      ],
+      "historia": {
+        "origen": "Coco es la hermana de Crash y se unió a las aventuras de su hermano después de la desaparición de sus padres en una misión científica. Es una experta en tecnología y programación.",
+        "personalidad": "Inteligente, pragmática y muy protectora con su hermano. A menudo utiliza su ingenio para resolver problemas y encontrar soluciones rápidas.",
+        "relaciones": {
+          "hermano": "Crash Bandicoot",
+          "enemigos": ["Dr. Neo Cortex", "Tiny Tiger"],
+          "aliados": ["Crash Bandicoot", "Pura"]
+        },
+        "habilidades": {
+          "computadoras": "Experta en hackeo y programación, a menudo ayuda a Crash con sus dispositivos.",
+          "acrobacia": "Capaz de realizar maniobras ágiles y saltos precisos."
+        },
+        "apariaciones": [
+          "Crash Bandicoot 2: Cortex Strikes Back (1997)",
+          "Crash Team Racing (1999)",
+          "Crash Bandicoot: N. Sane Trilogy (2017)",
+          "Crash Bandicoot 4: It's About Time (2020)"
+        ]
+      }
+    },
+    {
+      "id": "neo-cortex",
+      "name": "Dr. Neo Cortex",
+      "description": "El principal antagonista de la serie. Es un malvado científico que busca conquistar las Islas Wumpa y destruir a Crash Bandicoot.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/cortex.webp",
+      "atributos": [
+        "Inteligencia",
+        "Maldad",
+        "Habilidades científicas"
+      ],
+      "historia": {
+        "origen": "Dr. Neo Cortex es un genio loco que inicialmente intentó crear una raza de animales modificados genéticamente. Después de la creación de Crash Bandicoot, Cortex busca usarlo para sus propios fines malvados.",
+        "personalidad": "Manipulador, calculador y extremadamente egoísta, Cortex ve a los demás como meros peones en su plan para conquistar el mundo.",
+        "relaciones": {
+          "enemigos": ["Crash Bandicoot", "Coco Bandicoot", "Dingodile"],
+          "aliados": ["Tiny Tiger", "N. Gin"]
+        },
+        "habilidades": {
+          "ciencia_avanzada": "Experto en genética, ingeniería y física.",
+          "maldad": "Su egoísmo y deseo de poder lo llevan a realizar experimentos peligrosos y a crear armas letales."
+        },
+        "apariaciones": [
+          "Crash Bandicoot (1996)",
+          "Crash Bandicoot 2: Cortex Strikes Back (1997)",
+          "Crash Bandicoot: N. Sane Trilogy (2017)",
+          "Crash Bandicoot 4: It's About Time (2020)"
+        ]
+      }
+    },
+    {
+      "id": "tiny-tiger",
+      "name": "Tiny Tiger",
+      "description": "Un fuerte y malvado tigre que actúa como secuaz de Dr. Neo Cortex. Es uno de los enemigos más fuertes de Crash.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/tiny.webp",
+      "atributos": [
+        "Fuerza",
+        "Agresividad",
+        "Resistencia"
+      ],
+      "historia": {
+        "origen": "Tiny Tiger fue criado en una instalación secreta de Cortex, donde fue entrenado para ser uno de los secuaces más poderosos y leales del Dr. Neo Cortex.",
+        "personalidad": "Rudo, feroz y de pocas palabras, Tiny es temido por todos debido a su tamaño y agresividad.",
+        "relaciones": {
+          "enemigos": ["Crash Bandicoot", "Coco Bandicoot"],
+          "aliados": ["Dr. Neo Cortex", "N. Gin"]
+        },
+        "habilidades": {
+          "fuerza_sobrehumana": "Posee una fuerza física increíble, capaz de destruir obstáculos con su propio poder.",
+          "agresividad": "Su naturaleza violenta lo convierte en un rival peligroso en combate."
+        },
+        "apariaciones": [
+          "Crash Bandicoot 2: Cortex Strikes Back (1997)",
+          "Crash Bandicoot: Warped (1998)"
+        ]
+      }
+    },
+    {
+      "id": "polar",
+      "name": "Polar",
+      "description": "El fiel oso polar que es amigo de Crash Bandicoot. A menudo ayuda a Crash en sus aventuras.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/polar.png",
+      "atributos": [
+        "Velocidad",
+        "Agilidad",
+        "Lealtad"
+      ],
+      "historia": {
+        "origen": "Polar es un oso polar que vive en las Islas Wumpa. Se hizo amigo de Crash Bandicoot tras un encuentro en el que Crash le ayudó a escapar de los secuaces de Cortex.",
+        "personalidad": "Leal y amigable, Polar siempre está dispuesto a ayudar a Crash y a luchar por lo que es justo.",
+        "relaciones": {
+          "enemigos": ["Dr. Neo Cortex", "Tiny Tiger"],
+          "aliados": ["Crash Bandicoot", "Coco Bandicoot"]
+        },
+        "habilidades": {
+          "resistencia_al_frio": "Gracias a su naturaleza de oso polar, Polar tiene una gran resistencia al frío y a los ambientes congelados.",
+          "agilidad": "A pesar de su tamaño, Polar es sorprendentemente rápido y ágil."
+        },
+        "apariaciones": [
+          "Crash Bandicoot 3: Warped (1998)",
+          "Crash Team Racing (1999)"
+        ]
+      }
+    },
+    {
+      "id": "dingodile",
+      "name": "Dingodile",
+      "description": "Un híbrido entre un dingo y un cocodrilo. Anteriormente era uno de los villanos, pero ahora lucha del lado de Crash y sus amigos.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/dingodile.webp",
+      "atributos": [
+        "Fuego",
+        "Habilidad acuática",
+        "Resistencia al calor"
+      ],
+      "historia": {
+        "origen": "Dingodile fue originalmente un villano que trabajó para el Dr. Neo Cortex, pero después de un giro en su historia, se convierte en aliado de Crash y su grupo.",
+        "personalidad": "A pesar de su apariencia feroz, Dingodile es más complejo de lo que parece y tiene un corazón leal cuando se encuentra en el bando correcto.",
+        "relaciones": {
+          "enemigos": ["Dr. Neo Cortex", "Tiny Tiger"],
+          "aliados": ["Crash Bandicoot", "Coco Bandicoot"]
+        },
+        "habilidades": {
+          "resistencia_al_calor": "Como híbrido de dingo y cocodrilo, Dingodile es altamente resistente a temperaturas extremas.",
+          "habilidad_acuatica": "Su naturaleza acuática le permite moverse con facilidad en ambientes subacuáticos."
+        },
+        "apariaciones": [
+          "Crash Bandicoot: Warped (1998)",
+          "Crash Team Racing (1999)"
+        ]
+      }
+    },
+    {
+      "id": "pura",
+      "name": "Pura",
+      "description": "El tigre blanco mascota de Coco Bandicoot. A menudo acompaña a Coco en sus aventuras.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/pura.webp",
+      "atributos": [
+        "Velocidad",
+        "Agilidad",
+        "Saltos precisos"
+      ],
+      "historia": {
+        "origen": "Pura es el compañero de aventuras de Coco Bandicoot. Es un tigre blanco que tiene habilidades extraordinarias para el salto y la velocidad.",
+        "personalidad": "Pura es muy protector con Coco y siempre está dispuesto a acompañarla en todas sus aventuras.",
+        "relaciones": {
+          "aliados": ["Coco Bandicoot", "Crash Bandicoot"]
+        },
+        "habilidades": {
+          "velocidad_sobrehumana": "Pura es increíblemente rápido y puede alcanzar grandes distancias en poco tiempo.",
+          "salto_preciso": "Gracias a su agilidad, Pura puede saltar de manera precisa y superar obstáculos difíciles."
+        },
+        "apariaciones": [
+          "Crash Bandicoot: Warped (1998)"
+        ]
+      }
+    },
+    {
+      "id": "crunch",
+      "name": "Crunch Bandicoot",
+      "description": "Un bandicoot modificado genéticamente que fue creado por el Dr. Neo Cortex. Después de ser liberado del control de Cortex, ahora lucha del lado de Crash.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/crunch.png",
+      "atributos": [
+        "Fuerza sobrehumana",
+        "Resistencia",
+        "Habilidades de lucha"
+      ],
+      "historia": {
+        "origen": "Crunch fue creado por Cortex como una versión mejorada de Crash, pero al darse cuenta de que estaba siendo manipulado, se liberó y se unió a Crash para luchar contra su creador.",
+        "personalidad": "A pesar de su gran tamaño y fuerza, Crunch es amigable y tiene un fuerte sentido de lealtad hacia aquellos que le dan la oportunidad de redimirse.",
+        "relaciones": {
+          "enemigos": ["Dr. Neo Cortex", "N. Gin"],
+          "aliados": ["Crash Bandicoot", "Coco Bandicoot"]
+        },
+        "habilidades": {
+          "fuerza_sobrehumana": "Crunch es capaz de realizar hazañas de fuerza que están fuera del alcance de la mayoría.",
+          "habilidades_de_lucha": "Su entrenamiento en combate lo convierte en un experto en las batallas cuerpo a cuerpo."
+        },
+        "apariaciones": [
+          "Crash Bandicoot: The Wrath of Cortex (2001)",
+          "Crash Bandicoot: N. Sane Trilogy (2017)"
+        ]
+      }
+    },
+    {
+      "id": "n-gin",
+      "name": "Dr. N. Gin",
+      "description": "Un científico loco y secuaz del Dr. Neo Cortex. Tiene una cabeza mecánica y usa una silla voladora.",
+      "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/n.webp",
+      "atributos": [
+        "Genio científico",
+        "Ingeniería",
+        "Armas avanzadas"
+      ],
+      "historia": {
+        "origen": "Dr. N. Gin era un brillante científico que se unió a Cortex tras ser transformado en un experimento fallido, lo que lo dejó con una cabeza mecánica y una sed de venganza.",
+        "personalidad": "Eccéntrico y con un enfoque obsesivo en las armas y la tecnología avanzada. Es muy inteligente pero también un tanto inestable.",
+        "relaciones": {
+          "enemigos": ["Crash Bandicoot", "Coco Bandicoot"],
+          "aliados": ["Dr. Neo Cortex"]
+        },
+        "habilidades": {
+          "genio_cientifico": "Su intelecto le permite crear armas sofisticadas y aparatos mecánicos.",
+          "ingeniería_avanzada": "Experto en el diseño de robots y dispositivos voladores."
+        },
+        "apariaciones": [
+          "Crash Bandicoot 2: Cortex Strikes Back (1997)",
+          "Crash Bandicoot 3: Warped (1998)"
+        ]
+      }
+    },
+    {
+        "id": "komodo-bros",
+        "name": "Komodo Bros",
+        "description": "Una pareja de hermanos komodo que actúan como secuaces de Dr. Neo Cortex. Luchan en equipo para detener a Crash.",
+        "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/Komodo.webp",
+        "atributos": [
+          "Trabajo en equipo",
+          "Combate con espadas",
+          "Velocidad"
+        ],
+        "historia": {
+          "origen": "Los Komodo Bros son dos hermanos que sirven lealmente al Dr. Neo Cortex. Son conocidos por sus habilidades en combate con espadas y su capacidad para trabajar en equipo.",
+          "personalidad": "Son muy agresivos y siempre se muestran como una amenaza para Crash, luchando sin descanso hasta el final.",
+          "relaciones": {
+            "enemigos": ["Crash Bandicoot", "Coco Bandicoot"],
+            "aliados": ["Dr. Neo Cortex"]
+          },
+          "habilidades": {
+            "trabajo_en_equipo": "Los Komodo Bros luchan en perfecta sincronización, lo que los convierte en un equipo formidable.",
+            "combate_con_espadas": "Son expertos en el uso de espadas y cuchillos, dominando el combate cuerpo a cuerpo."
+          },
+          "apariaciones": [
+            "Crash Bandicoot 3: Warped (1998)"
+          ]
+        }
+      },
+      {
+        "id": "papu-papu",
+        "name": "Papu Papu",
+        "description": "El líder de la tribu Papu Papu. Es un jefe en la primera isla y lucha contra Crash en una batalla de saltos.",
+        "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/papu.webp",
+        "atributos": [
+          "Sabiduría tribal",
+          "Fuerza física",
+          "Conocimiento del terreno"
+        ],
+        "historia": {
+          "origen": "Papu Papu es un chieftain de una tribu ancestral que habita en las Islas Wumpa. Es un hombre fuerte y sabio, pero su naturaleza territorial lo llevó a enfrentarse a Crash.",
+          "personalidad": "Sabio y protector de su gente, Papu Papu es un líder orgulloso de su tribu y sus tradiciones, pero también tiene un temperamento feroz.",
+          "relaciones": {
+            "enemigos": ["Crash Bandicoot", "Coco Bandicoot"],
+            "aliados": ["Nadie"]
+          },
+          "habilidades": {
+            "fuerza_fisica": "Con su gran tamaño y fuerza, Papu Papu puede destrozar rocas y saltar grandes distancias.",
+            "conocimiento_terreno": "Como líder de su tribu, tiene un profundo conocimiento de la isla y sus secretos."
+          },
+          "apariaciones": [
+            "Crash Bandicoot (1996)"
+          ]
+        }
+      },
+      {
+        "id": "pinstripe",
+        "name": "Pinstripe Potoroo",
+        "description": "Un potoroo con una afición por las armas de fuego y el juego. Actúa como jefe en la segunda isla.",
+        "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/pinstripe.webp",
+        "atributos": [
+          "Habilidad en el manejo de armas",
+          "Inteligencia",
+          "Determinación"
+        ],
+        "historia": {
+          "origen": "Pinstripe es un potoroo criminal que se unió a Cortex en su intento por conquistar las Islas Wumpa. Su amor por las armas y el caos lo convirtió en uno de los villanos más conocidos de la saga.",
+          "personalidad": "Pinstripe es muy astuto, siempre dispuesto a hacer lo que sea necesario para conseguir lo que quiere. Su obsesión con las armas lo hace peligroso.",
+          "relaciones": {
+            "enemigos": ["Crash Bandicoot", "Coco Bandicoot"],
+            "aliados": ["Dr. Neo Cortex"]
+          },
+          "habilidades": {
+            "habilidad_en_armas": "Pinstripe es muy hábil con pistolas y otras armas de fuego, usándolas con gran precisión.",
+            "determinacion": "A pesar de sus pequeñas dimensiones, Pinstripe es extremadamente determinado y siempre encuentra maneras de enfrentarse a Crash."
+          },
+          "apariaciones": [
+            "Crash Bandicoot (1996)"
+          ]
+        }
+      },
+      {
+        "id": "n-tropy",
+        "name": "N. Tropy",
+        "description": "Un malvado científico y maestro del tiempo. Es un villano formidable que utiliza su manipulación del tiempo para enfrentar a Crash.",
+        "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/tropy.webp",
+        "atributos": [
+          "Control del tiempo",
+          "Inteligencia",
+          "Ambición"
+        ],
+        "historia": {
+          "origen": "N. Tropy es un científico loco que logró dominar los secretos del tiempo. Su habilidad para manipular el tiempo lo convierte en un enemigo extremadamente peligroso.",
+          "personalidad": "Ambicioso y calculador, N. Tropy tiene una visión megalomaníaca del universo, creyendo que solo él debe gobernarlo.",
+          "relaciones": {
+            "enemigos": ["Crash Bandicoot", "Coco Bandicoot"],
+            "aliados": ["Dr. Neo Cortex"]
+          },
+          "habilidades": {
+            "control_del_tiempo": "N. Tropy es capaz de ralentizar, acelerar y detener el tiempo a su voluntad, lo que lo convierte en un adversario casi invencible.",
+            "inteligencia": "Su mente brillante y obsesión por el control temporal lo hacen un enemigo de gran nivel."
+          },
+          "apariaciones": [
+            "Crash Bandicoot 3: Warped (1998)",
+            "Crash Bandicoot: N. Sane Trilogy (2017)"
+          ]
+        }
+      },
+      {
+        "id": "fake-crash",
+        "name": "Fake Crash",
+        "description": "Una versión falsa de Crash Bandicoot. Aparece en algunos juegos como personaje de broma.",
+        "image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-crash/fcrash.webp",
+        "atributos": [
+          "Imitador",
+          "Inocente",
+          "Chistoso"
+        ],
+        "historia": {
+          "origen": "Fake Crash es una versión imitadora de Crash, creada como una burla por los desarrolladores y usada como personaje de broma en ciertos juegos.",
+          "personalidad": "Inocente y algo torpe, Fake Crash se presenta como una parodia de Crash Bandicoot, siempre metiéndose en situaciones cómicas.",
+          "relaciones": {
+            "enemigos": ["Nadie en particular"],
+            "aliados": ["Crash Bandicoot"]
+          },
+          "habilidades": {
+            "imitador": "Fake Crash tiene la habilidad de imitar a Crash en muchos aspectos, pero a menudo de manera torpe.",
+            "chistoso": "A menudo, sus acciones y comportamiento generan situaciones cómicas y momentos de alivio cómico."
+          },
+          "apariaciones": [
+            "Crash Bandicoot 3: Warped (1998)",
+            "Crash Bandicoot: The Wrath of Cortex (2001)"
+          ]
+        }
+      }
+  ]
+  
