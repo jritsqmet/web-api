@@ -10,46 +10,113 @@
   <style>
     body {
       font-family: 'Arial', sans-serif;
-      background-color: #f4f4f4;
+      background-color: #2c3e50; /* Fondo oscuro */
       margin: 0;
       padding: 0;
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-items: flex-start;
       height: 100vh;
+      overflow: auto;
+      color: #ecf0f1; /* Texto claro */
     }
 
     .lista-container {
       display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+      flex-wrap: nowrap; /* Asegura que todo esté en una sola fila */
+      justify-content: space-between;
+      gap: 20px;
+      padding: 20px;
+      max-width: 1200px;
+      width: 100%;
     }
 
     .card {
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      padding: 20px;
+      background-color: #34495e; /* Color oscuro para las tarjetas */
+      border-radius: 12px; /* Bordes más redondeados */
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Sombra sutil y difusa */
+      padding: 15px; /* Reducción de padding */
       margin: 10px;
-      width: 300px;
+      width: 22%; /* Asegura que las tarjetas no se desborden */
+      max-width: 300px; /* Limita el ancho máximo */
+      display: block;
+      transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transiciones suaves */
+      height: auto; /* Evita que las tarjetas se estiren innecesariamente */
     }
 
-    ul {
-      list-style: none;
+    .card:hover {
+      transform: translateY(-10px); /* Efecto de elevar la tarjeta al pasar el ratón */
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Aumento de sombra en hover */
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      color: #ecf0f1;
+      margin-bottom: 10px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    ol {
+      list-style-position: inside;
       padding: 0;
+      margin: 0;
     }
 
     li {
-      margin-bottom: 10px;
-      padding: 8px;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      background-color: #f9f9f9;
+      margin-bottom: 8px; /* Reducir el margen entre los elementos */
+      padding: 10px; /* Reducir el padding */
+      border: 1px solid #7f8c8d; /* Borde oscuro */
+      border-radius: 8px; /* Bordes redondeados */
+      background-color: #2c3e50;
+      font-size: 1rem;
+      display: flex; /* Usamos flexbox para evitar salto de línea */
+      align-items: center; /* Alinea el texto y número en el centro */
+      transition: background-color 0.3s ease, transform 0.3s ease; /* Transiciones suaves */
+    }
+
+    li:hover {
+      background-color: #1abc9c; /* Color de fondo al pasar el ratón */
+      transform: translateX(5px); /* Desplazamiento hacia la derecha */
     }
 
     a {
       text-decoration: none;
-      color: #333;
+      color: inherit; /* Hereda el color del contenedor */
+      display: block;
+      width: 100%; /* Hace que el enlace ocupe toda la anchura */
+    }
+
+    a:hover {
+      color: #ecf0f1; /* Cambio de color al pasar el ratón */
+    }
+
+    /* Media queries para mejorar la visualización en pantallas más pequeñas */
+    @media (max-width: 768px) {
+      body {
+        justify-content: flex-start;
+        padding-top: 20px;
+      }
+
+      .lista-container {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .card {
+        width: 90%;
+        max-width: 400px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      h2 {
+        font-size: 1.2rem;
+      }
+
+      li {
+        font-size: 0.9rem;
+      }
     }
   </style>
 </head>
@@ -60,55 +127,52 @@
     <div class="card">
       <h2>API Categoría 1</h2>
       <ol>
-        <a href="productos.json" target="_blank"> <li>Productos</li></a>
-        <a href="celulares.json" target="_blank"><li>Celulares</li></a>
-        <a href="menu.json" target="_blank"><li>Menú</li></a>
-        <a href="ropa.json" target="_blank"><li>Ropa</li></a>
-        <a href="fitnes.json" target="_blank"><li>Fitness</li></a>
-        <a href="laptop.json" target="_blank"><li>Laptop</li></a>
-        <a href="arriendo.json" target="_blank"><li>Arriendo</li></a>
-        <a href="bicicletas.json" target="_blank"><li>Bicicletas</li></a>
-        <a href="usuarios.json" target="_blank"><li>Usuarios</li></a>
-        <a href="peliculas1.json" target="_blank"><li>Películas</li></a>
-        <a href="ciudades.json" target="_blank"><li>Ciudades</li></a>
-
+        <li><a href="productos.json" target="_blank">Productos</a></li>
+        <li><a href="celulares.json" target="_blank">Celulares</a></li>
+        <li><a href="menu.json" target="_blank">Menú</a></li>
+        <li><a href="ropa.json" target="_blank">Ropa</a></li>
+        <li><a href="fitnes.json" target="_blank">Fitness</a></li>
+        <li><a href="laptop.json" target="_blank">Laptop</a></li>
+        <li><a href="arriendo.json" target="_blank">Arriendo</a></li>
+        <li><a href="bicicletas.json" target="_blank">Bicicletas</a></li>
+        <li><a href="usuarios.json" target="_blank">Usuarios</a></li>
+        <li><a href="peliculas1.json" target="_blank">Películas</a></li>
+        <li><a href="ciudades.json" target="_blank">Ciudades</a></li>
       </ol>
     </div>
 
     <div class="card">
       <h2>API Categoría 2</h2>
       <ol>
-        <a href="crash.json" target="_blank"><li>Crash Data</li></a>
-       <a href="video_juegos.json" target="_blank"><li>Videojuegos</li></a>
-       <a href="peliculas2.json" target="_blank"><li>Películas2</li></a>
-       <a href="ciudades2.json" target="_blank"><li>Ciudades</li></a>
-       <a href="series.json" target="_blank"><li>Series</li></a>
-       <a href="musica.json" target="_blank"><li>Música</li></a>
-       <a href="libros.json" target="_blank"><li>Libros</li></a>
-       <a href="medico.json" target="_blank"><li>Consultas Médicas</li></a>
-       <a href="depositos.json" target="_blank"><li>Depósitos</li></a>
-
+        <li><a href="crash.json" target="_blank">Crash Data</a></li>
+        <li><a href="video_juegos.json" target="_blank">Videojuegos</a></li>
+        <li><a href="peliculas2.json" target="_blank">Películas2</a></li>
+        <li><a href="ciudades2.json" target="_blank">Ciudades</a></li>
+        <li><a href="series.json" target="_blank">Series</a></li>
+        <li><a href="musica.json" target="_blank">Música</a></li>
+        <li><a href="libros.json" target="_blank">Libros</a></li>
+        <li><a href="medico.json" target="_blank">Consultas Médicas</a></li>
+        <li><a href="depositos.json" target="_blank">Depósitos</a></li>
       </ol>
     </div>
 
     <div class="card">
       <h2>API Categoría 3</h2>
-      <ul>
-        <a href="crash.json" target="_blank"><li>Crash Data</li></a>
-       <a href="videojuegos.json" target="_blank"><li>Videojuegos 2</li></a>
-       <a href="peliculas3.json" target="_blank"><li>Películas 3</li></a>
-       <a href="ciudades.json" target="_blank">Ciudades</a>
-      </ul>
+      <ol>
+        <li><a href="crash.json" target="_blank">Crash Data</a></li>
+        <li><a href="videojuegos.json" target="_blank">Videojuegos 2</a></li>
+        <li><a href="peliculas3.json" target="_blank">Películas 3</a></li>
+        <li><a href="ciudades.json" target="_blank">Ciudades</a></li>
+      </ol>
     </div>
 
-   
-
+    <!-- Esta es la tarjeta "Datasets" ajustada para estar en la misma fila -->
     <div class="card">
       <h2>Datasets</h2>
-      <ul>
-        <a href="cars2.csv" target="_blank"><li>Autos</li></a>
-        <a href="ventas_ferreteria_ecuador.csv" target="_blank"><li>Ventas</li></a>
-      </ul>
+      <ol>
+        <li><a href="cars2.csv" target="_blank">Autos</a></li>
+        <li><a href="ventas_ferreteria_ecuador.csv" target="_blank">Ventas</a></li>
+      </ol>
     </div>
   </div>
 
