@@ -29,7 +29,7 @@
     "especificaciones": "Pantalla de 13.6 pulgadas, chip M2, batería de 18 horas",
     "media": {
       "url": "https://www.apple.com/macbook-air-m2",
-      "imagen_portada": "https://example.com/images/macbookairm2.png"
+      "imagen_portada": "https://github.com/jritsqmet/web-api/blob/main/assets/images/productos/macbook-air-m2.png"
     }
   },
   {
@@ -45,7 +45,7 @@
     "especificaciones": "Pantalla de 6.8 pulgadas, Snapdragon 8 Gen 2, cámara de 200 MP",
     "media": {
       "url": "https://www.samsung.com/galaxy-s23-ultra",
-      "imagen_portada": "https://example.com/images/galaxys23ultra.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/samsung-s23-ultra-black.png"
     }
   },
   {
@@ -61,7 +61,7 @@
     "especificaciones": "Soporte para 4K, 120 FPS, SSD ultra rápido",
     "media": {
       "url": "https://www.playstation.com/ps5",
-      "imagen_portada": "https://example.com/images/ps5.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/ps5.png"
     }
   },
   {
@@ -77,7 +77,7 @@
     "especificaciones": "Soporte para 4K, 120 FPS, almacenamiento de 1TB",
     "media": {
       "url": "https://www.xbox.com/series-x",
-      "imagen_portada": "https://example.com/images/xboxseriesx.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/xboxx.png"
     }
   },
   {
@@ -93,7 +93,7 @@
     "especificaciones": "Pantalla de 13.4 pulgadas, procesador Intel i7, 16 GB RAM",
     "media": {
       "url": "https://www.dell.com/xps-13",
-      "imagen_portada": "https://example.com/images/xps13.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/Dell-XPS-13.png"
     }
   },
   {
@@ -109,7 +109,7 @@
     "especificaciones": "Control por voz, compatibilidad con Alexa, sonido mejorado",
     "media": {
       "url": "https://www.amazon.com/echo-dot",
-      "imagen_portada": "https://example.com/images/echodot5.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/echo5.png"
     }
   },
   {
@@ -125,7 +125,7 @@
     "especificaciones": "Pantalla de 6.8 pulgadas, luz cálida ajustable, batería de 10 semanas",
     "media": {
       "url": "https://www.amazon.com/kindle-paperwhite",
-      "imagen_portada": "https://example.com/images/kindlepaperwhite.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/kindle.png"
     }
   },
   {
@@ -141,7 +141,7 @@
     "especificaciones": "Pantalla de 6.7 pulgadas, chip Tensor G2, cámara de 50 MP",
     "media": {
       "url": "https://store.google.com/pixel-7-pro",
-      "imagen_portada": "https://example.com/images/pixel7pro.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/Google-Pixel-7-pro.png"
     }
   },
   {
@@ -157,7 +157,7 @@
     "especificaciones": "24 GB GDDR6X, Ray Tracing, DLSS 3",
     "media": {
       "url": "https://www.nvidia.com/rtx-4090",
-      "imagen_portada": "https://example.com/images/rtx4090.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/gv-n4090gaming%20oc-24gd.png"
     }
   }
 ]
