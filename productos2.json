@@ -1,0 +1,164 @@
+{
+"productos": [
+  {
+    "id": "producto1",
+    "titulo": "iPhone 15 Pro",
+    "fabricante": {
+      "nombre": "Apple",
+      "categoria": "Smartphones",
+      "año_fundacion": 1976
+    },
+    "modelo": "A3102",
+    "año_lanzamiento": 2023,
+    "especificaciones": "Pantalla de 6.1 pulgadas, chip A17 Pro, cámara de 48 MP",
+    "media": {
+      "url": "https://www.apple.com/iphone-15-pro",
+      "imagen_portada": "https://example.com/images/iphone15pro.png"
+    }
+  },
+  {
+    "id": "producto2",
+    "titulo": "MacBook Air M2",
+    "fabricante": {
+      "nombre": "Apple",
+      "categoria": "Laptops",
+      "año_fundacion": 1976
+    },
+    "modelo": "M2-2023",
+    "año_lanzamiento": 2023,
+    "especificaciones": "Pantalla de 13.6 pulgadas, chip M2, batería de 18 horas",
+    "media": {
+      "url": "https://www.apple.com/macbook-air-m2",
+      "imagen_portada": "https://example.com/images/macbookairm2.png"
+    }
+  },
+  {
+    "id": "producto3",
+    "titulo": "Galaxy S23 Ultra",
+    "fabricante": {
+      "nombre": "Samsung",
+      "categoria": "Smartphones",
+      "año_fundacion": 1938
+    },
+    "modelo": "SM-S918B",
+    "año_lanzamiento": 2023,
+    "especificaciones": "Pantalla de 6.8 pulgadas, Snapdragon 8 Gen 2, cámara de 200 MP",
+    "media": {
+      "url": "https://www.samsung.com/galaxy-s23-ultra",
+      "imagen_portada": "https://example.com/images/galaxys23ultra.png"
+    }
+  },
+  {
+    "id": "producto4",
+    "titulo": "PlayStation 5",
+    "fabricante": {
+      "nombre": "Sony",
+      "categoria": "Consolas de videojuegos",
+      "año_fundacion": 1946
+    },
+    "modelo": "CFI-1200",
+    "año_lanzamiento": 2020,
+    "especificaciones": "Soporte para 4K, 120 FPS, SSD ultra rápido",
+    "media": {
+      "url": "https://www.playstation.com/ps5",
+      "imagen_portada": "https://example.com/images/ps5.png"
+    }
+  },
+  {
+    "id": "producto5",
+    "titulo": "Xbox Series X",
+    "fabricante": {
+      "nombre": "Microsoft",
+      "categoria": "Consolas de videojuegos",
+      "año_fundacion": 1975
+    },
+    "modelo": "RRT-00001",
+    "año_lanzamiento": 2020,
+    "especificaciones": "Soporte para 4K, 120 FPS, almacenamiento de 1TB",
+    "media": {
+      "url": "https://www.xbox.com/series-x",
+      "imagen_portada": "https://example.com/images/xboxseriesx.png"
+    }
+  },
+  {
+    "id": "producto6",
+    "titulo": "Dell XPS 13",
+    "fabricante": {
+      "nombre": "Dell",
+      "categoria": "Laptops",
+      "año_fundacion": 1984
+    },
+    "modelo": "9310",
+    "año_lanzamiento": 2022,
+    "especificaciones": "Pantalla de 13.4 pulgadas, procesador Intel i7, 16 GB RAM",
+    "media": {
+      "url": "https://www.dell.com/xps-13",
+      "imagen_portada": "https://example.com/images/xps13.png"
+    }
+  },
+  {
+    "id": "producto7",
+    "titulo": "Echo Dot (5ta generación)",
+    "fabricante": {
+      "nombre": "Amazon",
+      "categoria": "Asistentes virtuales",
+      "año_fundacion": 1994
+    },
+    "modelo": "B09B",
+    "año_lanzamiento": 2022,
+    "especificaciones": "Control por voz, compatibilidad con Alexa, sonido mejorado",
+    "media": {
+      "url": "https://www.amazon.com/echo-dot",
+      "imagen_portada": "https://example.com/images/echodot5.png"
+    }
+  },
+  {
+    "id": "producto8",
+    "titulo": "Kindle Paperwhite",
+    "fabricante": {
+      "nombre": "Amazon",
+      "categoria": "E-readers",
+      "año_fundacion": 1994
+    },
+    "modelo": "PW5",
+    "año_lanzamiento": 2021,
+    "especificaciones": "Pantalla de 6.8 pulgadas, luz cálida ajustable, batería de 10 semanas",
+    "media": {
+      "url": "https://www.amazon.com/kindle-paperwhite",
+      "imagen_portada": "https://example.com/images/kindlepaperwhite.png"
+    }
+  },
+  {
+    "id": "producto9",
+    "titulo": "Google Pixel 7 Pro",
+    "fabricante": {
+      "nombre": "Google",
+      "categoria": "Smartphones",
+      "año_fundacion": 1998
+    },
+    "modelo": "GP7P",
+    "año_lanzamiento": 2023,
+    "especificaciones": "Pantalla de 6.7 pulgadas, chip Tensor G2, cámara de 50 MP",
+    "media": {
+      "url": "https://store.google.com/pixel-7-pro",
+      "imagen_portada": "https://example.com/images/pixel7pro.png"
+    }
+  },
+  {
+    "id": "producto10",
+    "titulo": "NVIDIA GeForce RTX 4090",
+    "fabricante": {
+      "nombre": "NVIDIA",
+      "categoria": "Tarjetas gráficas",
+      "año_fundacion": 1993
+    },
+    "modelo": "RTX-4090",
+    "año_lanzamiento": 2022,
+    "especificaciones": "24 GB GDDR6X, Ray Tracing, DLSS 3",
+    "media": {
+      "url": "https://www.nvidia.com/rtx-4090",
+      "imagen_portada": "https://example.com/images/rtx4090.png"
+    }
+  }
+]
+}
