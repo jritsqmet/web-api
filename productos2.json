@@ -13,7 +13,7 @@
     "especificaciones": "Pantalla de 6.1 pulgadas, chip A17 Pro, cámara de 48 MP",
     "media": {
       "url": "https://www.apple.com/iphone-15-pro",
-      "imagen_portada": "https://example.com/images/iphone15pro.png"
+      "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/productos/iphone-pro.png"
     }
   },
   {
