@@ -10,7 +10,7 @@
         "region": "Costa",
         "ingredientes": ["Camarones", "Limón", "Cebolla", "Tomate", "Cilantro", "Sal", "Pimienta"],
         "descripcion": "Camarones marinados en limón con cebolla, tomate y cilantro.",
-        "imagen": "https://ejemplo.com/imagenes/ceviche-camaron.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/ceviche-camaron.jpg",
         "valoracion": 9,
         "opiniones": {
           "positivas": [
@@ -94,7 +94,7 @@
         "region": "Costa",
         "ingredientes": ["Atún", "Yuca", "Cebolla", "Tomate", "Cilantro", "Limón"],
         "descripcion": "Sopa de atún con yuca, servida con cebolla encurtida.",
-        "imagen": "https://ejemplo.com/imagenes/encebollado.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/encebollado.jpg",
         "valoracion": 8.5,
         "opiniones": {
           "positivas": [
@@ -122,7 +122,7 @@
         "region": "Sierra",
         "ingredientes": ["Carne de cerdo", "Cebolla", "Ajo", "Comino", "Chicha", "Mote"],
         "descripcion": "Carne de cerdo frita en su propia grasa, servida con mote.",
-        "imagen": "https://ejemplo.com/imagenes/fritada.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/fritada.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -206,7 +206,7 @@
         "region": "Sierra",
         "ingredientes": ["Carne de res", "Arroz", "Papas fritas", "Huevo", "Ensalada"],
         "descripcion": "Carne de res a la parrilla, servida con arroz, papas fritas y ensalada.",
-        "imagen": "https://ejemplo.com/imagenes/churrasco.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/churrasco.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -234,7 +234,7 @@
         "region": "Sierra",
         "ingredientes": ["Masa", "Queso", "Azúcar"],
         "descripcion": "Empanadas fritas rellenas de queso y espolvoreadas con azúcar.",
-        "imagen": "https://ejemplo.com/imagenes/empanadas-viento.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/empanadas-viento.jpg",
         "valoracion": 9,
         "opiniones": {
           "positivas": [
@@ -290,7 +290,7 @@
         "region": "Sierra",
         "ingredientes": ["Cuy", "Ajo", "Comino", "Papas", "Mote"],
         "descripcion": "Cuy asado al horno, servido con papas y mote.",
-        "imagen": "https://ejemplo.com/imagenes/cuy-asado.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/cuy-asado.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -346,7 +346,7 @@
         "region": "Costa",
         "ingredientes": ["Plátano verde", "Carne", "Maní", "Yuca", "Cebolla"],
         "descripcion": "Sopa espesa con bolas de plátano verde rellenas de carne.",
-        "imagen": "https://ejemplo.com/imagenes/caldo-bolas.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/caldo-bolas.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -402,7 +402,7 @@
         "region": "Sierra",
         "ingredientes": ["Chocolate", "Leche", "Queso"],
         "descripcion": "Chocolate caliente servido con queso fresco.",
-        "imagen": "https://ejemplo.com/imagenes/chocolate-queso.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/chocolate.jpg",
         "valoracion": 9,
         "opiniones": {
           "positivas": [
@@ -430,7 +430,7 @@
         "region": "Sierra",
         "ingredientes": ["Chochos", "Tomate", "Cebolla", "Limón", "Cilantro"],
         "descripcion": "Ensalada de chochos con tomate, cebolla y limón.",
-        "imagen": "https://ejemplo.com/imagenes/ensalada-chochos.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/chochos.jpeg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -458,7 +458,7 @@
         "region": "Costa",
         "ingredientes": ["Camarones", "Calamares", "Mejillones", "Pescado", "Coco", "Plátano"],
         "descripcion": "Guiso de mariscos cocinado con leche de coco y plátano.",
-        "imagen": "https://ejemplo.com/imagenes/cazuela-mariscos.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/cazuela-mariscos.jpg",
         "valoracion": 9,
         "opiniones": {
           "positivas": [
@@ -486,7 +486,7 @@
         "region": "Costa",
         "ingredientes": ["Plátano verde", "Sal", "Aceite"],
         "descripcion": "Rodajas de plátano verde fritas y saladas.",
-        "imagen": "https://ejemplo.com/imagenes/chifles.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/chifles.jpg",
         "valoracion": 8.5,
         "opiniones": {
           "positivas": [
@@ -514,7 +514,7 @@
         "region": "Sierra",
         "ingredientes": ["Maíz morocho", "Leche", "Azúcar", "Canela"],
         "descripcion": "Bebida espesa hecha con maíz morocho, leche y canela.",
-        "imagen": "https://ejemplo.com/imagenes/morocho.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/canelazo.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
