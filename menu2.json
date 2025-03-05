@@ -38,7 +38,7 @@
         "region": "Sierra",
         "ingredientes": ["Papas", "Queso", "Leche", "Cebolla", "Ajo", "Achiote", "Aguacate"],
         "descripcion": "Sopa cremosa de papas con queso, servida con aguacate.",
-        "imagen": "https://ejemplo.com/imagenes/locro-papa.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/locro-de-papas.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -66,7 +66,7 @@
         "region": "Amazonia",
         "ingredientes": ["Pescado", "Hojas de Bijao", "Achiote", "Cebolla", "Ajo", "Sal", "Pimienta"],
         "descripcion": "Pescado envuelto en hojas de bijao y asado a la parrilla.",
-        "imagen": "https://ejemplo.com/imagenes/maito-pescado.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/maito-de-pescado.jpg",
         "valoracion": 9.5,
         "opiniones": {
           "positivas": [
@@ -150,7 +150,7 @@
         "region": "Costa",
         "ingredientes": ["Carne de chivo", "Cerveza", "Cebolla", "Ajo", "Comino", "Arroz"],
         "descripcion": "Guiso de carne de chivo cocinado con cerveza y especias.",
-        "imagen": "https://ejemplo.com/imagenes/seco-chivo.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/seco-chivo.jpg",
         "valoracion": 9,
         "opiniones": {
           "positivas": [
@@ -178,7 +178,7 @@
         "region": "Sierra",
         "ingredientes": ["Carne de cerdo", "Ajo", "Comino", "Chicha", "Mote"],
         "descripcion": "Carne de cerdo horneada, servida con mote y tortillas.",
-        "imagen": "https://ejemplo.com/imagenes/hornado.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/hornado.jpg",
         "valoracion": 8.5,
         "opiniones": {
           "positivas": [
@@ -262,7 +262,7 @@
         "region": "Costa",
         "ingredientes": ["Plátano verde", "Huevo", "Queso", "Cebolla", "Aceite"],
         "descripcion": "Plato hecho con plátano verde machacado, huevo y queso.",
-        "imagen": "https://ejemplo.com/imagenes/tigrillo.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/tigrillo.jpg",
         "valoracion": 8.5,
         "opiniones": {
           "positivas": [
@@ -318,7 +318,7 @@
         "region": "Costa",
         "ingredientes": ["Arroz", "Lentejas", "Carne de res", "Plátano maduro"],
         "descripcion": "Arroz servido con menestra de lentejas y carne asada.",
-        "imagen": "https://ejemplo.com/imagenes/arroz-menestra.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/menestra.jpg",
         "valoracion": 8.5,
         "opiniones": {
           "positivas": [
@@ -374,7 +374,7 @@
         "region": "Sierra",
         "ingredientes": ["Sangre de borrego", "Papas", "Cebolla", "Ajo", "Achiote"],
         "descripcion": "Sopa de papas con sangre de borrego, servida con aguacate.",
-        "imagen": "https://ejemplo.com/imagenes/yaguarlocro.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/yaguarlocro.jpg",
         "valoracion": 7.5,
         "opiniones": {
           "positivas": [
@@ -514,7 +514,7 @@
         "region": "Sierra",
         "ingredientes": ["Maíz morocho", "Leche", "Azúcar", "Canela"],
         "descripcion": "Bebida espesa hecha con maíz morocho, leche y canela.",
-        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/canelazo.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/morocho.jpg",
         "valoracion": 8,
         "opiniones": {
           "positivas": [
@@ -542,7 +542,7 @@
         "region": "Sierra",
         "ingredientes": ["Aguardiente", "Canela", "Naranjilla", "Azúcar"],
         "descripcion": "Bebida caliente con aguardiente, canela y naranjilla.",
-        "imagen": "https://ejemplo.com/imagenes/canelazo.jpg",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/refs/heads/main/assets/images/api-menu2/canelazo.jpg",
         "valoracion": 9,
         "opiniones": {
           "positivas": [
