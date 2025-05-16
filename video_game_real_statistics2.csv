@@ -1,0 +1,101 @@
+Game ID,Title,Genre,Platform,Release Year,Developer,Publisher,Global Sales (millions),Rating,Average Playtime (hours)
+1,The Legend of Zelda: Breath of the Wild,Puzzle,Xbox Series X,2012,Activision,Ubisoft,8.53,AO,62.0
+2,Minecraft,Adventure,Switch,2018,Bethesda,EA,20.65,E,49.3
+3,Grand Theft Auto V,RPG,Xbox One,2017,Nintendo,Take-Two Interactive,23.38,AO,75.8
+4,Fortnite,Action,Xbox One,2021,Ubisoft,Bandai Namco,31.5,E,53.9
+5,League of Legends,Simulation,PS4,2012,Ubisoft,Square Enix,49.7,M,45.7
+6,The Witcher 3: Wild Hunt,Action,Mobile,2019,Activision,Bandai Namco,45.15,AO,32.9
+7,Overwatch,Adventure,VR,2011,Epic Games,Square Enix,18.52,M,2.3
+8,Red Dead Redemption 2,RPG,VR,2022,Ubisoft,Microsoft,27.36,E,54.8
+9,Super Mario Odyssey,Racing,Xbox Series X,2000,Epic Games,Nintendo,22.88,AO,61.2
+10,Animal Crossing: New Horizons,RPG,PC,2001,Epic Games,Square Enix,13.78,T,32.6
+11,Call of Duty: Modern Warfare,Action,Xbox One,2003,Activision,Ubisoft,33.58,E10+,38.9
+12,Cyberpunk 2077,Strategy,PS5,2011,Ubisoft,Nintendo,6.84,M,15.6
+13,Among Us,Strategy,Xbox One,2022,Bethesda,Activision,29.32,AO,52.1
+14,Apex Legends,Puzzle,Switch,2011,Bandai Namco,Square Enix,29.76,E10+,8.3
+15,Counter-Strike: Global Offensive,RPG,PC,2012,Bethesda,Take-Two Interactive,40.71,E,25.6
+16,FIFA 21,Sports,Xbox One,2016,Ubisoft,EA,35.19,AO,92.4
+17,Assassin's Creed Valhalla,Adventure,Xbox One,2018,Ubisoft,Square Enix,30.9,AO,58.4
+18,PUBG,Puzzle,PS5,2010,Naughty Dog,EA,22.08,M,87.0
+19,DOTA 2,Racing,PS4,2014,Bethesda,Sony,20.8,T,35.1
+20,Fall Guys,Sports,Xbox One,2021,Bethesda,Nintendo,16.82,E,12.8
+21,Valorant,Racing,Xbox Series X,2008,Square Enix,Warner Bros,13.0,E10+,37.0
+22,Resident Evil Village,Strategy,Mobile,2020,Bethesda,Bandai Namco,4.1,E,65.8
+23,Elden Ring,Simulation,PC,2013,Activision,Warner Bros,38.07,E10+,7.1
+24,Genshin Impact,Simulation,Switch,2015,Bethesda,Warner Bros,39.17,E,46.0
+25,Battlefield 2042,Simulation,PC,2008,Bethesda,Take-Two Interactive,42.69,E,17.5
+26,Final Fantasy VII Remake,Sports,VR,2017,Naughty Dog,Ubisoft,44.65,AO,63.9
+27,Halo Infinite,Adventure,Xbox Series X,2011,Nintendo,Nintendo,38.32,M,94.3
+28,Far Cry 6,Racing,Switch,2003,Nintendo,Take-Two Interactive,17.49,M,63.9
+29,Splatoon 2,Adventure,Xbox One,2003,Electronic Arts,Take-Two Interactive,44.6,T,7.8
+30,Rocket League,Racing,PS5,2013,Square Enix,Ubisoft,9.81,E,35.3
+31,Tetris,Racing,Xbox Series X,2010,Activision,Nintendo,6.59,M,28.4
+32,Metal Gear Solid V: The Phantom Pain,Simulation,Mobile,2012,Square Enix,Bandai Namco,35.14,T,69.5
+33,Persona 5,Sports,PS5,2003,Bandai Namco,Bandai Namco,46.93,T,40.9
+34,God of War,Simulation,PS5,2022,Capcom,Sony,28.75,AO,67.5
+35,Hades,Sports,VR,2023,Electronic Arts,Sony,14.62,M,10.2
+36,Borderlands 3,Action,PS5,2021,Capcom,Ubisoft,34.58,E10+,18.3
+37,Destiny 2,Racing,Switch,2010,Bethesda,EA,15.76,T,92.4
+38,Rainbow Six Siege,Action,VR,2007,Ubisoft,Warner Bros,40.51,E,26.6
+39,Monster Hunter: World,Sports,Xbox Series X,2015,Square Enix,Bandai Namco,14.63,M,69.3
+40,Marvel's Spider-Man,Adventure,PS4,2019,Square Enix,Take-Two Interactive,22.07,M,35.1
+41,Super Smash Bros. Ultimate,RPG,Mobile,2011,Ubisoft,Sony,10.1,T,99.0
+42,NBA 2K21,Racing,Mobile,2012,Capcom,Microsoft,17.46,AO,46.5
+43,Mortal Kombat 11,Puzzle,Switch,2006,Bethesda,Activision,48.85,E10+,50.7
+44,Just Dance 2021,Strategy,PC,2012,Bethesda,Microsoft,5.35,E,87.7
+45,Sea of Thieves,Action,Xbox One,2011,Naughty Dog,Activision,8.05,T,89.1
+46,Fortnite,Sports,VR,2022,Electronic Arts,Activision,45.52,T,23.5
+47,Subnautica,RPG,PS4,2007,Epic Games,Microsoft,10.95,E10+,44.3
+48,Stardew Valley,Adventure,PS5,2009,Activision,Ubisoft,19.37,E,11.4
+49,Terraria,Simulation,PC,2000,Epic Games,Bandai Namco,13.8,E,38.1
+50,Dark Souls III,Adventure,Xbox Series X,2020,Bandai Namco,Activision,17.23,T,84.0
+51,Pokémon Sword and Shield,Racing,Xbox Series X,2008,Naughty Dog,Activision,0.27,E,52.9
+52,Death Stranding,Sports,VR,2012,Epic Games,Microsoft,41.63,E,5.8
+53,Hitman 3,Sports,Xbox Series X,2013,Bethesda,Nintendo,18.51,E10+,44.4
+54,The Sims 4,Puzzle,PS5,2001,Bethesda,Microsoft,49.12,T,90.5
+55,Horizon Zero Dawn,Sports,Xbox One,2012,Bethesda,Activision,14.15,E,18.1
+56,The Elder Scrolls V: Skyrim,Action,PC,2006,Nintendo,Take-Two Interactive,49.0,M,26.7
+57,No Man's Sky,Strategy,Xbox Series X,2014,Epic Games,Bandai Namco,12.67,M,38.3
+58,Crash Bandicoot 4: It's About Time,Sports,PS5,2004,Nintendo,Bandai Namco,29.38,M,26.0
+59,Cuphead,Puzzle,PS4,2004,Naughty Dog,Activision,27.99,E10+,6.1
+60,Street Fighter V,Racing,Switch,2020,Activision,Nintendo,22.51,T,55.7
+61,Tekken 7,Action,PS5,2012,Bandai Namco,Nintendo,37.34,M,87.3
+62,DOOM Eternal,Strategy,PS5,2011,Bethesda,Square Enix,48.5,E,40.1
+63,NieR: Automata,RPG,PS5,2003,Epic Games,Bandai Namco,22.16,E10+,46.6
+64,Control,Adventure,PS4,2013,Ubisoft,Sony,35.87,E,63.4
+65,Ghost of Tsushima,Racing,VR,2005,Square Enix,Square Enix,48.35,E10+,70.4
+66,Metal Slug 3,Puzzle,Switch,2015,Nintendo,Activision,0.95,T,20.7
+67,Hollow Knight,Puzzle,PS4,2017,Square Enix,EA,7.41,E10+,75.1
+68,Celeste,Sports,VR,2017,Electronic Arts,Nintendo,46.22,E10+,46.2
+69,Untitled Goose Game,Puzzle,PS4,2007,Bandai Namco,Sony,11.53,AO,21.2
+70,Fire Emblem: Three Houses,Strategy,Switch,2020,Square Enix,Ubisoft,27.72,M,29.5
+71,Bayonetta 2,RPG,VR,2004,Activision,Bandai Namco,1.11,AO,85.0
+72,Luigi's Mansion 3,Adventure,Xbox Series X,2005,Capcom,Activision,48.15,AO,86.9
+73,Xenoblade Chronicles 2,Strategy,VR,2005,Nintendo,Nintendo,45.57,E10+,93.1
+74,Super Mario 3D World,Puzzle,Xbox Series X,2023,Epic Games,Sony,49.55,E,23.2
+75,Mario Kart 8 Deluxe,Strategy,PC,2002,Square Enix,Sony,48.5,E,6.1
+76,Little Nightmares II,Sports,VR,2011,Activision,Nintendo,14.74,T,66.5
+77,Ori and the Will of the Wisps,Racing,Switch,2007,Epic Games,EA,30.87,M,81.2
+78,Planet Zoo,RPG,Switch,2002,Epic Games,Nintendo,48.21,AO,84.5
+79,Factorio,Strategy,PC,2008,Naughty Dog,Activision,14.57,E,53.8
+80,Age of Empires II,Racing,PS5,2009,Ubisoft,Activision,16.21,E10+,42.4
+81,Diablo III,Sports,Xbox One,2014,Ubisoft,EA,3.96,T,42.8
+82,World of Warcraft,Puzzle,PS4,2003,Ubisoft,Activision,20.94,E,34.9
+83,Civilization VI,RPG,PS5,2013,Capcom,Nintendo,13.95,E10+,74.4
+84,Cities: Skylines,Puzzle,Mobile,2001,Bethesda,Bandai Namco,21.95,E10+,69.8
+85,Planet Coaster,Puzzle,Switch,2010,Nintendo,Nintendo,17.08,T,95.8
+86,Zoo Tycoon,Action,PS4,2007,Ubisoft,Microsoft,2.76,E10+,84.7
+87,EVE Online,Simulation,Switch,2006,Nintendo,Warner Bros,48.75,E10+,12.4
+88,Elite Dangerous,RPG,VR,2016,Nintendo,Warner Bros,33.92,E,81.3
+89,Star Wars Jedi: Fallen Order,Adventure,VR,2017,Ubisoft,Take-Two Interactive,32.71,E10+,35.3
+90,Dead Cells,Simulation,PS4,2003,Electronic Arts,EA,14.06,E10+,71.5
+91,The Last of Us Part II,Action,Mobile,2006,Nintendo,Warner Bros,2.15,T,35.4
+92,Dragon Ball Z: Kakarot,Puzzle,Switch,2006,Epic Games,Square Enix,7.33,E10+,75.5
+93,Firewatch,Sports,Xbox One,2012,Ubisoft,Microsoft,46.78,E,52.6
+94,RimWorld,Racing,Xbox Series X,2019,Naughty Dog,Take-Two Interactive,34.29,M,85.9
+95,Baldur's Gate 3,RPG,PC,2013,Capcom,EA,37.39,E,55.1
+96,Disco Elysium,Action,PS5,2007,Nintendo,Take-Two Interactive,37.08,E10+,9.6
+97,Path of Exile,Racing,Switch,2015,Bethesda,Nintendo,8.65,E10+,80.9
+98,Warframe,Racing,Switch,2009,Epic Games,Activision,3.19,AO,92.2
+99,Half-Life: Alyx,Strategy,PS5,2014,Naughty Dog,Warner Bros,4.47,E,50.8
+100,"Papers, Please",Sports,Xbox One,2007,Square Enix,EA,34.65,E,32.3
