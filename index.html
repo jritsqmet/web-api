@@ -140,6 +140,50 @@
       text-decoration: none;
     }
 
+    /* Nuevos estilos para la tarjeta rotativa */
+    .card-rotativa {
+      perspective: 1000px;
+    }
+
+    .card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      transition: transform 0.8s;
+      transform-style: preserve-3d;
+    }
+
+    .card-rotativa.rotada .card-inner {
+      transform: rotateY(180deg);
+    }
+
+    .card-front, .card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+    }
+
+    .card-back {
+      transform: rotateY(180deg);
+    }
+
+    .toggle-btn {
+      background-color: #1abc9c;
+      color: white;
+      border: none;
+      padding: 8px 12px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 10px;
+      width: 100%;
+      transition: background-color 0.3s;
+    }
+
+    .toggle-btn:hover {
+      background-color: #16a085;
+    }
+
   </style>
 </head>
 <body>
@@ -163,20 +207,33 @@
       </ol>
     </div>
 
-    <div class="card">
-      <h2>API Categoría 2</h2>
-      <ol>
-        <li><a href="crash.json" target="_blank">Crash</a></li>
-        <li><a href="video_juegos.json" target="_blank">Videojuegos</a></li>
-        <li><a href="peliculas2.json" target="_blank">Películas2</a></li>
-        <li><a href="ciudades.json" target="_blank">Ciudades</a></li>
-        <li><a href="series.json" target="_blank">Series</a></li>
-        <li><a href="musica.json" target="_blank">Música</a></li>
-        <li><a href="libros.json" target="_blank">Libros</a></li>
-        <li><a href="medico.json" target="_blank">Consultas Médicas</a></li>
-        <li><a href="depositos.json" target="_blank">Depósitos</a></li>
-        <li><a href="productos2.json" target="_blank">Productos</a></li>
-      </ol>
+    <div class="card card-rotativa" id="rotativa-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h2>API Categoría 2</h2>
+          <ol>
+            <li><a href="crash.json" target="_blank">Crash</a></li>
+            <li><a href="video_juegos.json" target="_blank">Videojuegos</a></li>
+            <li><a href="peliculas2.json" target="_blank">Películas2</a></li>
+            <li><a href="ciudades.json" target="_blank">Ciudades</a></li>
+            <li><a href="series.json" target="_blank">Series</a></li>
+            <li><a href="musica.json" target="_blank">Música</a></li>
+            <li><a href="libros.json" target="_blank">Libros</a></li>
+            <li><a href="medico.json" target="_blank">Consultas Médicas</a></li>
+            <li><a href="depositos.json" target="_blank">Depósitos</a></li>
+            <li><a href="productos2.json" target="_blank">Productos</a></li>
+          </ol>
+          <button class="toggle-btn" onclick="toggleCard()">Ver otros datos</button>
+        </div>
+        <div class="card-back">
+          <h2>Datos Alternativos</h2>
+          <ol>
+            <li><a href="./assets/data/api2/sections/crash-s.json" target="_blank">Crash</a></li>
+           
+          </ol>
+          <button class="toggle-btn" onclick="toggleCard()">Volver a datos principales</button>
+        </div>
+      </div>
     </div>
 
     <div class="card">
@@ -205,8 +262,15 @@
 
   <!-- Pie de página con la marca registrada -->
   <footer>
-    <small> 2024 Julio Rosero</small>
+    <small> 2025 Julio Rosero</small>
   </footer>
+
+  <script>
+    function toggleCard() {
+      const card = document.getElementById('rotativa-card');
+      card.classList.toggle('rotada');
+    }
+  </script>
 
 </body>
 </html>
